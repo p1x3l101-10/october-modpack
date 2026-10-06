@@ -1260,6 +1260,10 @@ file = "mods/mini-effects.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mixinbooter.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mixinbootstrap.pw.toml"
 metafile = true
 
