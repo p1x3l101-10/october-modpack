@@ -34,6 +34,9 @@ file = "config/ChanceCubes/global_rewards.json"
 file = "config/Expanded Equivalence/appliedenergistics2/internal.cfg"
 
 [[files]]
+file = "config/Expanded Equivalence/astralsorcery/internal.cfg"
+
+[[files]]
 file = "config/Expanded Equivalence/draconicevolution/internal.cfg"
 
 [[files]]
@@ -139,6 +142,30 @@ file = "config/appleskin.cfg"
 file = "config/armorpointspp.cfg"
 
 [[files]]
+file = "config/astralsorcery.cfg"
+
+[[files]]
+file = "config/astralsorcery/aevitas_ore_perk.cfg"
+
+[[files]]
+file = "config/astralsorcery/amulet_enchantments.cfg"
+
+[[files]]
+file = "config/astralsorcery/fluid_rarities.cfg"
+
+[[files]]
+file = "config/astralsorcery/herdable_animals_blacklist.cfg"
+
+[[files]]
+file = "config/astralsorcery/mineralis_ritual.cfg"
+
+[[files]]
+file = "config/astralsorcery/perk_void_trash_replacement.cfg"
+
+[[files]]
+file = "config/astralsorcery/treasure_shrine.cfg"
+
+[[files]]
 file = "config/attributefix.cfg"
 
 [[files]]
@@ -151,6 +178,9 @@ file = "config/better_fusion_reactor.cfg"
 file = "config/betteradvancements/betteradvancements.cfg"
 
 [[files]]
+file = "config/betterfps.json"
+
+[[files]]
 file = "config/bfr_coolant_recipes.cfg"
 
 [[files]]
@@ -158,6 +188,9 @@ file = "config/bhc/BaubleyHeartCanisters.cfg"
 
 [[files]]
 file = "config/bhc/bhc-drops.json"
+
+[[files]]
+file = "config/blahajasm.cfg"
 
 [[files]]
 file = "config/bountifulbaubles.cfg"
@@ -259,10 +292,19 @@ file = "config/eextra/EEXTRAConfigWorld.cfg"
 file = "config/enchdesc.cfg"
 
 [[files]]
+file = "config/entityculling.json"
+
+[[files]]
 file = "config/equipmentcompare.cfg"
 
 [[files]]
+file = "config/fastbench.cfg"
+
+[[files]]
 file = "config/fasterladderclimbing.cfg"
+
+[[files]]
+file = "config/fastfurnace.cfg"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -281,6 +323,9 @@ file = "config/fluidlogged_api/internal/README.txt"
 
 [[files]]
 file = "config/fluidlogged_api/internal/appliedenergistics2/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/astralsorcery/whitelist.jsonc"
 
 [[files]]
 file = "config/fluidlogged_api/internal/conarm/whitelist.jsonc"
@@ -304,6 +349,9 @@ file = "config/fluidlogged_api/internal/ironchest/whitelist.jsonc"
 file = "config/fluidlogged_api/internal/mekanism/whitelist.jsonc"
 
 [[files]]
+file = "config/fluidlogged_api/internal/opencomputers/whitelist.jsonc"
+
+[[files]]
 file = "config/fluidlogged_api/internal/projecte/whitelist.jsonc"
 
 [[files]]
@@ -314,6 +362,9 @@ file = "config/fluidlogged_api/internal/versions.jsonc"
 
 [[files]]
 file = "config/fluidlogged_api/whitelist.cfg"
+
+[[files]]
+file = "config/foamfix.cfg"
 
 [[files]]
 file = "config/forge.cfg"
@@ -601,7 +652,31 @@ file = "config/nether_api/stygian_end.cfg"
 file = "config/nether_api/vanilla.cfg"
 
 [[files]]
+file = "config/nothirium.cfg"
+
+[[files]]
 file = "config/oceanic_expanse.cfg"
+
+[[files]]
+file = "config/oldresearch.cfg"
+
+[[files]]
+file = "config/opencomputers/default.recipes"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+
+[[files]]
+file = "config/opencomputers/settings.conf"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
 
 [[files]]
 file = "config/oreveins.cfg"
@@ -610,7 +685,22 @@ file = "config/oreveins.cfg"
 file = "config/oreveins/ore_veins.json"
 
 [[files]]
+file = "config/packagedastral.cfg"
+
+[[files]]
+file = "config/packagedauto.cfg"
+
+[[files]]
+file = "config/packagedthaumic.cfg"
+
+[[files]]
 file = "config/phantoms.cfg"
+
+[[files]]
+file = "config/phosphor.json"
+
+[[files]]
+file = "config/placebo.cfg"
 
 [[files]]
 file = "config/raids/client.cfg"
@@ -668,6 +758,9 @@ file = "config/raids/raids.cfg"
 
 [[files]]
 file = "config/raids/villager_gifts.json"
+
+[[files]]
+file = "config/renderlib.cfg"
 
 [[files]]
 file = "config/responsiveshields.cfg"
@@ -982,10 +1075,6 @@ file = "mods/carry-on.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/celeritas-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chance-cubes.pw.toml"
 metafile = true
 
@@ -1035,10 +1124,6 @@ metafile = true
 
 [[files]]
 file = "mods/deeper-depths.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
@@ -1178,10 +1263,6 @@ file = "mods/mini-effects.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mixinbooter.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/mixinbootstrap.pw.toml"
 metafile = true
 
@@ -1219,10 +1300,6 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-energistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nothirium.pw.toml"
 metafile = true
 
 [[files]]
