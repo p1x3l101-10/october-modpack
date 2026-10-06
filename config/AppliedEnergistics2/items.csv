@@ -774,6 +774,159 @@ hammercore:diamond_bordered_cobblestone, Diamond-Bordered Cobblestone
 hammercore:emerald_bordered_cobblestone, Emerald-Bordered Cobblestone
 hammercore:quartz_bordered_cobblestone, Quartz-Bordered Cobblestone
 hammercore:manual, Hammer Core Manual
+opencomputers:adapter:0, Adapter
+opencomputers:assembler:0, Electronics Assembler
+opencomputers:cable:0, Cable
+opencomputers:capacitor:0, Capacitor
+opencomputers:case1:0, Computer Case (Tier 1)
+opencomputers:case3:0, Computer Case (Tier 3)
+opencomputers:case2:0, Computer Case (Tier 2)
+opencomputers:chameliumblock:0, Block of Chamelium
+opencomputers:charger:0, Charger
+opencomputers:disassembler:0, Disassembler
+opencomputers:diskdrive:0, Disk Drive
+opencomputers:geolyzer:0, Geolyzer
+opencomputers:hologram1:0, Hologram Projector (Tier 1)
+opencomputers:hologram2:0, Hologram Projector (Tier 2)
+opencomputers:keyboard:0, Keyboard
+opencomputers:motionsensor:0, Motion Sensor
+opencomputers:powerconverter:0, Power Converter
+opencomputers:powerdistributor:0, Power Distributor
+opencomputers:printer:0, 3D Printer
+opencomputers:raid:0, Raid
+opencomputers:redstone:0, Redstone I/O
+opencomputers:relay:0, Relay
+opencomputers:screen1:0, Screen (Tier 1)
+opencomputers:screen3:0, Screen (Tier 3)
+opencomputers:screen2:0, Screen (Tier 2)
+opencomputers:rack:0, Rack
+opencomputers:waypoint:0, Waypoint
+opencomputers:casecreative:0, Computer Case (Creative)
+opencomputers:microcontroller:0, Microcontroller
+opencomputers:print:0, 3D Print
+opencomputers:robotafterimage:0, Robot
+opencomputers:robot:0, robot.name
+opencomputers:endstone:0, End Stone
+opencomputers:netsplitter:0, Net Splitter
+opencomputers:transposer:0, Transposer
+opencomputers:carpetedcapacitor:0, Carpeted Capacitor
+opencomputers:material:1, Grog
+opencomputers:material:10, Arithmetic Logic Unit (ALU)
+opencomputers:material:15, Arrow Keys
+opencomputers:material:14, Button Group
+opencomputers:material:5, Card Base
+opencomputers:material:28, Chamelium
+opencomputers:material:3, Circuit Board
+opencomputers:material:11, Control Unit (CU)
+opencomputers:material:0, Cutting Wire
+opencomputers:material:29, Diamond Chip
+opencomputers:material:12, Disk Platter
+opencomputers:material:23, Drone Case (Tier 1)
+opencomputers:material:24, Drone Case (Tier 2)
+opencomputers:material:25, Drone Case (Creative)
+opencomputers:material:27, Ink Cartridge
+opencomputers:material:26, Ink Cartridge (Empty)
+opencomputers:material:13, Interweb
+opencomputers:material:7, Microchip (Tier 1)
+opencomputers:material:8, Microchip (Tier 2)
+opencomputers:material:9, Microchip (Tier 3)
+opencomputers:material:20, Microcontroller Case (Tier 1)
+opencomputers:material:21, Microcontroller Case (Tier 2)
+opencomputers:material:22, Microcontroller Case (Creative)
+opencomputers:material:16, Numeric Keypad
+opencomputers:material:4, Printed Circuit Board (PCB)
+opencomputers:material:2, Raw Circuit Board
+opencomputers:material:17, Tablet Case (Tier 1)
+opencomputers:material:18, Tablet Case (Tier 2)
+opencomputers:material:19, Tablet Case (Creative)
+opencomputers:material:6, Transistor
+opencomputers:tool:0, Analyzer
+opencomputers:tool:1, Network Debugger
+opencomputers:tool:4, OpenComputers Manual
+opencomputers:tool:5, Nanomachines
+opencomputers:tool:2, Remote Terminal
+opencomputers:tool:3, Texture Picker
+opencomputers:wrench, Scrench
+opencomputers:hoverboots, Hover Boots
+opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 2)
+opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 3)
+opencomputers:component:18, Accelerated Processing Unit (APU) (Creative)
+opencomputers:component:3, Component Bus (Tier 1)
+opencomputers:component:4, Component Bus (Tier 2)
+opencomputers:component:5, Component Bus (Tier 3)
+opencomputers:component:0, Central Processing Unit (CPU) (Tier 1)
+opencomputers:component:1, Central Processing Unit (CPU) (Tier 2)
+opencomputers:component:2, Central Processing Unit (CPU) (Tier 3)
+opencomputers:component:20, Disk Drive
+opencomputers:component:6, Memory (Tier 1)
+opencomputers:component:7, Memory (Tier 1.5)
+opencomputers:component:8, Memory (Tier 2)
+opencomputers:component:9, Memory (Tier 2.5)
+opencomputers:component:10, Memory (Tier 3)
+opencomputers:component:11, Memory (Tier 3.5)
+opencomputers:component:13, Server (Tier 1)
+opencomputers:component:14, Server (Tier 2)
+opencomputers:component:15, Server (Tier 3)
+opencomputers:component:12, Server (Creative)
+opencomputers:component:19, Terminal Server
+opencomputers:card:10, Data Card (Tier 1)
+opencomputers:card:11, Data Card (Tier 2)
+opencomputers:card:12, Data Card (Tier 3)
+opencomputers:card:0, Debug Card
+opencomputers:card:1, Graphics Card (Tier 1)
+opencomputers:card:2, Graphics Card (Tier 2)
+opencomputers:card:3, Graphics Card (Tier 3)
+opencomputers:card:8, Internet Card
+opencomputers:card:9, Linked Card
+opencomputers:card:6, Network Card
+opencomputers:card:4, Redstone Card (Tier 1)
+opencomputers:card:7, Wireless Network Card (Tier 2)
+opencomputers:upgrade:32, Component Bus (Creative)
+opencomputers:upgrade:0, Angel Upgrade
+opencomputers:upgrade:1, Battery Upgrade (Tier 1)
+opencomputers:upgrade:2, Battery Upgrade (Tier 2)
+opencomputers:upgrade:3, Battery Upgrade (Tier 3)
+opencomputers:upgrade:4, Chunkloader Upgrade
+opencomputers:upgrade:5, Card Container (Tier 1)
+opencomputers:upgrade:6, Card Container (Tier 2)
+opencomputers:upgrade:7, Card Container (Tier 3)
+opencomputers:upgrade:8, Upgrade Container (Tier 1)
+opencomputers:upgrade:9, Upgrade Container (Tier 2)
+opencomputers:upgrade:10, Upgrade Container (Tier 3)
+opencomputers:upgrade:11, Crafting Upgrade
+opencomputers:upgrade:12, Database Upgrade (Tier 1)
+opencomputers:upgrade:13, Database Upgrade (Tier 2)
+opencomputers:upgrade:14, Database Upgrade (Tier 3)
+opencomputers:upgrade:15, Experience Upgrade
+opencomputers:upgrade:16, Generator Upgrade
+opencomputers:upgrade:27, Hover Upgrade (Tier 1)
+opencomputers:upgrade:28, Hover Upgrade (Tier 2)
+opencomputers:upgrade:17, Inventory Upgrade
+opencomputers:upgrade:18, Inventory Controller Upgrade
+opencomputers:upgrade:26, Leash Upgrade
+opencomputers:upgrade:30, MFU
+opencomputers:upgrade:19, Navigation Upgrade
+opencomputers:upgrade:20, Piston Upgrade
+opencomputers:upgrade:21, Sign I/O Upgrade
+opencomputers:upgrade:22, Solar Generator Upgrade
+opencomputers:upgrade:33, Sticky Piston Upgrade
+opencomputers:upgrade:23, Tank Upgrade
+opencomputers:upgrade:24, Tank Controller Upgrade
+opencomputers:upgrade:25, Tractor Beam Upgrade
+opencomputers:upgrade:29, Trading Upgrade
+opencomputers:upgrade:31, Wireless Network Card (Tier 1)
+opencomputers:storage:0, EEPROM
+opencomputers:storage:1, Floppy Disk
+opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB)
+opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB)
+opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB)
+opencomputers:misc:1, Crecopter
+opencomputers:misc:0, Microcontroller
+opencomputers:misc:0, Creatix
+opencomputers:misc:0, Tablet
+opencomputers:misc:0, Hover Boots
+opencomputers:misc:0, EEPROM (Lua BIOS)
+opencomputers:misc:1, Floppy Disk
 hbmspace:rocket_custom, Orbital Rocket
 hbmspace:oxy_plss, PLSS
 hbmspace:hard_drive, Empty Hard Drive
@@ -1123,6 +1276,39 @@ hbmspace:ccl_block, CCL
 hbmspace:dummy_beam, Integrated Lamp
 hbmspace:furnace, Furnace
 hbmspace:lit_furnace, tile.lit_furnace.name
+packagedauto:packager, Packager
+packagedauto:encoder, Package Recipe Encoder
+packagedauto:unpackager, Unpackager
+packagedauto:packager_extension, Packager Extension
+packagedauto:distributor, Positioned Package Distributor
+packagedauto:crafting_proxy, Package Crafting Machine Proxy
+packagedauto:recipe_holder, Package Recipe Holder
+packagedauto:distributor_marker, Distributor Marker
+packagedauto:proxy_marker, Proxy Marker
+packagedauto:settings_cloner, Packaging Settings Cloner
+packagedauto:package, Recipe Package
+packagedauto:package_component, Packaging Component
+packagedauto:me_package_component, ME Packaging Component
+packagedastral:marked_relay, Marked Spectral Relay
+packagedastral:discovery_crafter, Luminous Package Crafter
+packagedastral:attunement_crafter, Starlight Package Crafting Altar
+packagedastral:constellation_crafter, Celestial Package Crafting Altar
+packagedastral:trait_crafter, Iridescent Package Crafting Altar
+packagedastral:constellation_focus, Constellation Focus
+packagedthaumic:reinforced_porous_stone, Reinforced Porous Stone
+packagedthaumic:virial_chamber, Virial Chamber
+packagedthaumic:clathrate_essence_former, Essentia Clathrate Former
+packagedthaumic:arcane_crafter, Arcane Package Crafter
+packagedthaumic:virial_arcane_crafter, Virial Arcane Package Crafter
+packagedthaumic:crucible_crafter, Package Thaumatorium
+packagedthaumic:infusion_crafter, Package Runic Matrix
+packagedthaumic:marked_arcane_pedestal, Marked Arcane Pedestal
+packagedthaumic:marked_ancient_pedestal, Marked Ancient Pedestal
+packagedthaumic:marked_eldritch_pedestal, Marked Eldritch Pedestal
+packagedthaumic:virial_recharge_pedestal, Virial Recharge Pedestal
+packagedthaumic:thaumic_package_component, Thaumic Packaging Component
+packagedthaumic:porous_stone_plate, Porous Stone Plate
+packagedthaumic:clathrate_essence, %s Essentia Clathrate
 thaumcraft:ore_amber, Amber Bearing Stone
 thaumcraft:ore_cinnabar, Cinnabar Ore
 thaumcraft:ore_quartz, Quartz Ore
@@ -1411,11 +1597,6 @@ suikecherry:chiseled_bookshelf, Chiseled Bookshelf
 suikecherry:torch_flower, Torchflower
 suikecherry:pitcher_crop, Pitcher Plant
 forge:bucketfilled, %s Bucket
-valkyrienskies:vs_ship_tracker, Ship Tracker
-valkyrienskies:captains_chair, Captain's Chair
-valkyrienskies:passenger_chair, Passenger Chair
-valkyrienskies:vs_water_pump, Water Pump
-valkyrienskies:boat_chair, Boat Chair
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -1742,6 +1923,8 @@ appliedenergistics2:facade:0, Cable Facade - Gold-Bordered Cobblestone
 appliedenergistics2:facade:0, Cable Facade - Diamond-Bordered Cobblestone
 appliedenergistics2:facade:0, Cable Facade - Emerald-Bordered Cobblestone
 appliedenergistics2:facade:0, Cable Facade - Quartz-Bordered Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
+appliedenergistics2:facade:0, Cable Facade - End Stone
 appliedenergistics2:facade:0, Cable Facade - Moon Rock
 appliedenergistics2:facade:0, Cable Facade - Fleshy Mass
 appliedenergistics2:facade:0, Cable Facade - Duna Sand
@@ -1778,6 +1961,8 @@ appliedenergistics2:facade:0, Cable Facade - Rubber Grass
 appliedenergistics2:facade:0, Cable Facade - Rubber Leaves
 appliedenergistics2:facade:0, Cable Facade - Tekto Silt
 appliedenergistics2:facade:0, Cable Facade - Plastic Leaves
+appliedenergistics2:facade:0, Cable Facade - Reinforced Porous Stone
+appliedenergistics2:facade:0, Cable Facade - Virial Chamber
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -2089,8 +2274,6 @@ appliedenergistics2:facade:0, Cable Facade - Nacre Block
 appliedenergistics2:facade:0, Cable Facade - Smooth Nacre Block
 appliedenergistics2:facade:0, Cable Facade - Shelly Sand
 appliedenergistics2:facade:0, Cable Facade - Underwater TNT
-appliedenergistics2:facade:0, Cable Facade - Snad
-appliedenergistics2:facade:0, Cable Facade - Red Snad
 appliedenergistics2:facade:0, Cable Facade - Amber Bearing Stone
 appliedenergistics2:facade:0, Cable Facade - Cinnabar Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
@@ -2127,6 +2310,8 @@ appliedenergistics2:facade:0, Cable Facade - Infusion Speed Stone
 appliedenergistics2:facade:0, Cable Facade - Infusion Cost Stone
 appliedenergistics2:facade:0, Cable Facade - Vis Battery
 appliedenergistics2:facade:0, Cable Facade - Empty Space
+appliedenergistics2:facade:0, Cable Facade - Snad
+appliedenergistics2:facade:0, Cable Facade - Red Snad
 appliedenergistics2:facade:0, Cable Facade - Infested Dirt
 appliedenergistics2:facade:0, Cable Facade - Infested Log
 appliedenergistics2:facade:0, Cable Facade - Infested Stone
@@ -2443,6 +2628,32 @@ appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Generator Block
 appliedenergistics2:facade:0, Cable Facade - Radiator Block
+appliedenergistics2:facade:0, Cable Facade - Rock Crystal Ore
+appliedenergistics2:facade:0, Cable Facade - Starmetal Ore
+appliedenergistics2:facade:0, Cable Facade - Aquamarine Shale
+appliedenergistics2:facade:0, Cable Facade - Marble
+appliedenergistics2:facade:0, Cable Facade - Marble Bricks
+appliedenergistics2:facade:0, Cable Facade - Marble Pillar
+appliedenergistics2:facade:0, Cable Facade - Marble Arch
+appliedenergistics2:facade:0, Cable Facade - Chiseled Marble
+appliedenergistics2:facade:0, Cable Facade - Engraved Marble
+appliedenergistics2:facade:0, Cable Facade - Runed Marble
+appliedenergistics2:facade:0, Cable Facade - Sooty Marble
+appliedenergistics2:facade:0, Cable Facade - Sooty Marble Bricks
+appliedenergistics2:facade:0, Cable Facade - Sooty Marble Pillar
+appliedenergistics2:facade:0, Cable Facade - Sooty Marble Arch
+appliedenergistics2:facade:0, Cable Facade - Chiseled Sooty Marble
+appliedenergistics2:facade:0, Cable Facade - Engraved Sooty Marble
+appliedenergistics2:facade:0, Cable Facade - Runed Sooty Marble
+appliedenergistics2:facade:0, Cable Facade - Infused Wood
+appliedenergistics2:facade:0, Cable Facade - Infused Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Infused Wood Column
+appliedenergistics2:facade:0, Cable Facade - Infused Wood Arch
+appliedenergistics2:facade:0, Cable Facade - Engraved Infused Wood
+appliedenergistics2:facade:0, Cable Facade - Enriched Infused Wood
+appliedenergistics2:facade:0, Cable Facade - Vibrant Infused Wood
+appliedenergistics2:facade:0, Cable Facade - Neromantic Prime
+appliedenergistics2:facade:0, Cable Facade - Fysallidic Prime
 appliedenergistics2:facade:0, Cable Facade - Nether Redstone Ore
 appliedenergistics2:facade:0, Cable Facade - Nether Iron Ore
 appliedenergistics2:facade:0, Cable Facade - Nether Gold Ore
@@ -3309,42 +3520,42 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Light Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Boots Core Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Leggings Core Pattern
 tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Light Blade Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -3404,6 +3615,7 @@ tconstruct:sharpening_kit:0, Steel Sharpening Kit
 tconstruct:sharpening_kit:0, Certus Quartz Sharpening Kit
 tconstruct:sharpening_kit:0, Fluix Crystal Sharpening Kit
 tconstruct:sharpening_kit:0, Charged Certus Quartz Sharpening Kit
+tconstruct:sharpening_kit:0, Starmetal Sharpening Kit
 tconstruct:sharpening_kit:0, Glowstone Sharpening Kit
 tconstruct:sharpening_kit:0, Zinc Sharpening Kit
 tconstruct:sharpening_kit:0, Titanium Sharpening Kit
@@ -3457,6 +3669,7 @@ tconstruct:pick_head:0, Steel Pickaxe Head
 tconstruct:pick_head:0, Certus Quartz Pickaxe Head
 tconstruct:pick_head:0, Fluix Crystal Pickaxe Head
 tconstruct:pick_head:0, Charged Certus Quartz Pickaxe Head
+tconstruct:pick_head:0, Starmetal Pickaxe Head
 tconstruct:pick_head:0, Glowstone Pickaxe Head
 tconstruct:pick_head:0, Zinc Pickaxe Head
 tconstruct:pick_head:0, Titanium Pickaxe Head
@@ -3510,6 +3723,7 @@ tconstruct:shovel_head:0, Steel Shovel Head
 tconstruct:shovel_head:0, Certus Quartz Shovel Head
 tconstruct:shovel_head:0, Fluix Crystal Shovel Head
 tconstruct:shovel_head:0, Charged Certus Quartz Shovel Head
+tconstruct:shovel_head:0, Starmetal Shovel Head
 tconstruct:shovel_head:0, Glowstone Shovel Head
 tconstruct:shovel_head:0, Zinc Shovel Head
 tconstruct:shovel_head:0, Titanium Shovel Head
@@ -3563,6 +3777,7 @@ tconstruct:axe_head:0, Steel Axe Head
 tconstruct:axe_head:0, Certus Quartz Axe Head
 tconstruct:axe_head:0, Fluix Crystal Axe Head
 tconstruct:axe_head:0, Charged Certus Quartz Axe Head
+tconstruct:axe_head:0, Starmetal Axe Head
 tconstruct:axe_head:0, Glowstone Axe Head
 tconstruct:axe_head:0, Zinc Axe Head
 tconstruct:axe_head:0, Titanium Axe Head
@@ -3616,6 +3831,7 @@ tconstruct:broad_axe_head:0, Steel Broad Axe Head
 tconstruct:broad_axe_head:0, Certus Quartz Broad Axe Head
 tconstruct:broad_axe_head:0, Fluix Crystal Broad Axe Head
 tconstruct:broad_axe_head:0, Charged Certus Quartz Broad Axe Head
+tconstruct:broad_axe_head:0, Starmetal Broad Axe Head
 tconstruct:broad_axe_head:0, Glowstone Broad Axe Head
 tconstruct:broad_axe_head:0, Zinc Broad Axe Head
 tconstruct:broad_axe_head:0, Titanium Broad Axe Head
@@ -3669,6 +3885,7 @@ tconstruct:sword_blade:0, Steel Sword Blade
 tconstruct:sword_blade:0, Certus Quartz Sword Blade
 tconstruct:sword_blade:0, Fluix Crystal Sword Blade
 tconstruct:sword_blade:0, Charged Certus Quartz Sword Blade
+tconstruct:sword_blade:0, Starmetal Sword Blade
 tconstruct:sword_blade:0, Glowstone Sword Blade
 tconstruct:sword_blade:0, Zinc Sword Blade
 tconstruct:sword_blade:0, Titanium Sword Blade
@@ -3722,6 +3939,7 @@ tconstruct:large_sword_blade:0, Steel Large Sword Blade
 tconstruct:large_sword_blade:0, Certus Quartz Large Sword Blade
 tconstruct:large_sword_blade:0, Fluix Crystal Large Sword Blade
 tconstruct:large_sword_blade:0, Charged Certus Quartz Large Sword Blade
+tconstruct:large_sword_blade:0, Starmetal Large Sword Blade
 tconstruct:large_sword_blade:0, Glowstone Large Sword Blade
 tconstruct:large_sword_blade:0, Zinc Large Sword Blade
 tconstruct:large_sword_blade:0, Titanium Large Sword Blade
@@ -3775,6 +3993,7 @@ tconstruct:hammer_head:0, Steel Hammer Head
 tconstruct:hammer_head:0, Certus Quartz Hammer Head
 tconstruct:hammer_head:0, Fluix Crystal Hammer Head
 tconstruct:hammer_head:0, Charged Certus Quartz Hammer Head
+tconstruct:hammer_head:0, Starmetal Hammer Head
 tconstruct:hammer_head:0, Glowstone Hammer Head
 tconstruct:hammer_head:0, Zinc Hammer Head
 tconstruct:hammer_head:0, Titanium Hammer Head
@@ -3828,6 +4047,7 @@ tconstruct:excavator_head:0, Steel Excavator Head
 tconstruct:excavator_head:0, Certus Quartz Excavator Head
 tconstruct:excavator_head:0, Fluix Crystal Excavator Head
 tconstruct:excavator_head:0, Charged Certus Quartz Excavator Head
+tconstruct:excavator_head:0, Starmetal Excavator Head
 tconstruct:excavator_head:0, Glowstone Excavator Head
 tconstruct:excavator_head:0, Zinc Excavator Head
 tconstruct:excavator_head:0, Titanium Excavator Head
@@ -3881,6 +4101,7 @@ tconstruct:kama_head:0, Steel Kama Head
 tconstruct:kama_head:0, Certus Quartz Kama Head
 tconstruct:kama_head:0, Fluix Crystal Kama Head
 tconstruct:kama_head:0, Charged Certus Quartz Kama Head
+tconstruct:kama_head:0, Starmetal Kama Head
 tconstruct:kama_head:0, Glowstone Kama Head
 tconstruct:kama_head:0, Zinc Kama Head
 tconstruct:kama_head:0, Titanium Kama Head
@@ -3934,6 +4155,7 @@ tconstruct:scythe_head:0, Steel Scythe Head
 tconstruct:scythe_head:0, Certus Quartz Scythe Head
 tconstruct:scythe_head:0, Fluix Crystal Scythe Head
 tconstruct:scythe_head:0, Charged Certus Quartz Scythe Head
+tconstruct:scythe_head:0, Starmetal Scythe Head
 tconstruct:scythe_head:0, Glowstone Scythe Head
 tconstruct:scythe_head:0, Zinc Scythe Head
 tconstruct:scythe_head:0, Titanium Scythe Head
@@ -3987,6 +4209,7 @@ tconstruct:pan_head:0, Steel Pan
 tconstruct:pan_head:0, Certus Quartz Pan
 tconstruct:pan_head:0, Fluix Crystal Pan
 tconstruct:pan_head:0, Charged Certus Quartz Pan
+tconstruct:pan_head:0, Starmetal Pan
 tconstruct:pan_head:0, Glowstone Pan
 tconstruct:pan_head:0, Zinc Pan
 tconstruct:pan_head:0, Titanium Pan
@@ -4040,6 +4263,7 @@ tconstruct:sign_head:0, Steel Sign Plate
 tconstruct:sign_head:0, Certus Quartz Sign Plate
 tconstruct:sign_head:0, Fluix Crystal Sign Plate
 tconstruct:sign_head:0, Charged Certus Quartz Sign Plate
+tconstruct:sign_head:0, Starmetal Sign Plate
 tconstruct:sign_head:0, Glowstone Sign Plate
 tconstruct:sign_head:0, Zinc Sign Plate
 tconstruct:sign_head:0, Titanium Sign Plate
@@ -4093,6 +4317,7 @@ tconstruct:tool_rod:0, Steel Tool Rod
 tconstruct:tool_rod:0, Certus Quartz Tool Rod
 tconstruct:tool_rod:0, Fluix Crystal Tool Rod
 tconstruct:tool_rod:0, Charged Certus Quartz Tool Rod
+tconstruct:tool_rod:0, Starmetal Tool Rod
 tconstruct:tool_rod:0, Glowstone Tool Rod
 tconstruct:tool_rod:0, Zinc Tool Rod
 tconstruct:tool_rod:0, Titanium Tool Rod
@@ -4146,6 +4371,7 @@ tconstruct:tough_tool_rod:0, Steel Tough Tool Rod
 tconstruct:tough_tool_rod:0, Certus Quartz Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fluix Crystal Tough Tool Rod
 tconstruct:tough_tool_rod:0, Charged Certus Quartz Tough Tool Rod
+tconstruct:tough_tool_rod:0, Starmetal Tough Tool Rod
 tconstruct:tough_tool_rod:0, Glowstone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Zinc Tough Tool Rod
 tconstruct:tough_tool_rod:0, Titanium Tough Tool Rod
@@ -4199,6 +4425,7 @@ tconstruct:binding:0, Steel Binding
 tconstruct:binding:0, Certus Quartz Binding
 tconstruct:binding:0, Fluix Crystal Binding
 tconstruct:binding:0, Charged Certus Quartz Binding
+tconstruct:binding:0, Starmetal Binding
 tconstruct:binding:0, Glowstone Binding
 tconstruct:binding:0, Zinc Binding
 tconstruct:binding:0, Titanium Binding
@@ -4252,6 +4479,7 @@ tconstruct:tough_binding:0, Steel Tough Binding
 tconstruct:tough_binding:0, Certus Quartz Tough Binding
 tconstruct:tough_binding:0, Fluix Crystal Tough Binding
 tconstruct:tough_binding:0, Charged Certus Quartz Tough Binding
+tconstruct:tough_binding:0, Starmetal Tough Binding
 tconstruct:tough_binding:0, Glowstone Tough Binding
 tconstruct:tough_binding:0, Zinc Tough Binding
 tconstruct:tough_binding:0, Titanium Tough Binding
@@ -4305,6 +4533,7 @@ tconstruct:wide_guard:0, Steel Wide Guard
 tconstruct:wide_guard:0, Certus Quartz Wide Guard
 tconstruct:wide_guard:0, Fluix Crystal Wide Guard
 tconstruct:wide_guard:0, Charged Certus Quartz Wide Guard
+tconstruct:wide_guard:0, Starmetal Wide Guard
 tconstruct:wide_guard:0, Glowstone Wide Guard
 tconstruct:wide_guard:0, Zinc Wide Guard
 tconstruct:wide_guard:0, Titanium Wide Guard
@@ -4358,6 +4587,7 @@ tconstruct:hand_guard:0, Steel Hand Guard
 tconstruct:hand_guard:0, Certus Quartz Hand Guard
 tconstruct:hand_guard:0, Fluix Crystal Hand Guard
 tconstruct:hand_guard:0, Charged Certus Quartz Hand Guard
+tconstruct:hand_guard:0, Starmetal Hand Guard
 tconstruct:hand_guard:0, Glowstone Hand Guard
 tconstruct:hand_guard:0, Zinc Hand Guard
 tconstruct:hand_guard:0, Titanium Hand Guard
@@ -4411,6 +4641,7 @@ tconstruct:cross_guard:0, Steel Cross Guard
 tconstruct:cross_guard:0, Certus Quartz Cross Guard
 tconstruct:cross_guard:0, Fluix Crystal Cross Guard
 tconstruct:cross_guard:0, Charged Certus Quartz Cross Guard
+tconstruct:cross_guard:0, Starmetal Cross Guard
 tconstruct:cross_guard:0, Glowstone Cross Guard
 tconstruct:cross_guard:0, Zinc Cross Guard
 tconstruct:cross_guard:0, Titanium Cross Guard
@@ -4464,6 +4695,7 @@ tconstruct:large_plate:0, Steel Large Plate
 tconstruct:large_plate:0, Certus Quartz Large Plate
 tconstruct:large_plate:0, Fluix Crystal Large Plate
 tconstruct:large_plate:0, Charged Certus Quartz Large Plate
+tconstruct:large_plate:0, Starmetal Large Plate
 tconstruct:large_plate:0, Glowstone Large Plate
 tconstruct:large_plate:0, Zinc Large Plate
 tconstruct:large_plate:0, Titanium Large Plate
@@ -4517,6 +4749,7 @@ tconstruct:knife_blade:0, Steel Knife Blade
 tconstruct:knife_blade:0, Certus Quartz Knife Blade
 tconstruct:knife_blade:0, Fluix Crystal Knife Blade
 tconstruct:knife_blade:0, Charged Certus Quartz Knife Blade
+tconstruct:knife_blade:0, Starmetal Knife Blade
 tconstruct:knife_blade:0, Glowstone Knife Blade
 tconstruct:knife_blade:0, Zinc Knife Blade
 tconstruct:knife_blade:0, Titanium Knife Blade
@@ -4570,6 +4803,7 @@ tconstruct:bow_limb:0, Steel Bowlimb
 tconstruct:bow_limb:0, Certus Quartz Bowlimb
 tconstruct:bow_limb:0, Fluix Crystal Bowlimb
 tconstruct:bow_limb:0, Charged Certus Quartz Bowlimb
+tconstruct:bow_limb:0, Starmetal Bowlimb
 tconstruct:bow_limb:0, Glowstone Bowlimb
 tconstruct:bow_limb:0, Zinc Bowlimb
 tconstruct:bow_limb:0, Titanium Bowlimb
@@ -4628,6 +4862,7 @@ tconstruct:arrow_head:0, Steel Arrow Head
 tconstruct:arrow_head:0, Certus Quartz Arrow Head
 tconstruct:arrow_head:0, Fluix Crystal Arrow Head
 tconstruct:arrow_head:0, Charged Certus Quartz Arrow Head
+tconstruct:arrow_head:0, Starmetal Arrow Head
 tconstruct:arrow_head:0, Glowstone Arrow Head
 tconstruct:arrow_head:0, Zinc Arrow Head
 tconstruct:arrow_head:0, Titanium Arrow Head
@@ -4849,78 +5084,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Light Blade Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Light Blade Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Light Blade Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Light Blade Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -5464,6 +5699,7 @@ conarm:helmet_core:0, Steel Helmet Core
 conarm:helmet_core:0, Certus Quartz Helmet Core
 conarm:helmet_core:0, Fluix Crystal Helmet Core
 conarm:helmet_core:0, Charged Certus Quartz Helmet Core
+conarm:helmet_core:0, Starmetal Helmet Core
 conarm:helmet_core:0, Glowstone Helmet Core
 conarm:helmet_core:0, Zinc Helmet Core
 conarm:helmet_core:0, Titanium Helmet Core
@@ -5515,6 +5751,7 @@ conarm:armor_trim:0, Steel Armor Trim
 conarm:armor_trim:0, Certus Quartz Armor Trim
 conarm:armor_trim:0, Fluix Crystal Armor Trim
 conarm:armor_trim:0, Charged Certus Quartz Armor Trim
+conarm:armor_trim:0, Starmetal Armor Trim
 conarm:armor_trim:0, Glowstone Armor Trim
 conarm:armor_trim:0, Zinc Armor Trim
 conarm:armor_trim:0, Titanium Armor Trim
@@ -5566,6 +5803,7 @@ conarm:armor_plate:0, Steel Armor Plates
 conarm:armor_plate:0, Certus Quartz Armor Plates
 conarm:armor_plate:0, Fluix Crystal Armor Plates
 conarm:armor_plate:0, Charged Certus Quartz Armor Plates
+conarm:armor_plate:0, Starmetal Armor Plates
 conarm:armor_plate:0, Glowstone Armor Plates
 conarm:armor_plate:0, Zinc Armor Plates
 conarm:armor_plate:0, Titanium Armor Plates
@@ -5617,6 +5855,7 @@ conarm:chest_core:0, Steel Chestplate Core
 conarm:chest_core:0, Certus Quartz Chestplate Core
 conarm:chest_core:0, Fluix Crystal Chestplate Core
 conarm:chest_core:0, Charged Certus Quartz Chestplate Core
+conarm:chest_core:0, Starmetal Chestplate Core
 conarm:chest_core:0, Glowstone Chestplate Core
 conarm:chest_core:0, Zinc Chestplate Core
 conarm:chest_core:0, Titanium Chestplate Core
@@ -5668,6 +5907,7 @@ conarm:leggings_core:0, Steel Leggings Core
 conarm:leggings_core:0, Certus Quartz Leggings Core
 conarm:leggings_core:0, Fluix Crystal Leggings Core
 conarm:leggings_core:0, Charged Certus Quartz Leggings Core
+conarm:leggings_core:0, Starmetal Leggings Core
 conarm:leggings_core:0, Glowstone Leggings Core
 conarm:leggings_core:0, Zinc Leggings Core
 conarm:leggings_core:0, Titanium Leggings Core
@@ -5719,6 +5959,7 @@ conarm:boots_core:0, Steel Boots Core
 conarm:boots_core:0, Certus Quartz Boots Core
 conarm:boots_core:0, Fluix Crystal Boots Core
 conarm:boots_core:0, Charged Certus Quartz Boots Core
+conarm:boots_core:0, Starmetal Boots Core
 conarm:boots_core:0, Glowstone Boots Core
 conarm:boots_core:0, Zinc Boots Core
 conarm:boots_core:0, Titanium Boots Core
@@ -5796,6 +6037,7 @@ conarm:polishing_kit:0, Steel Polishing Kit
 conarm:polishing_kit:0, Certus Quartz Polishing Kit
 conarm:polishing_kit:0, Fluix Crystal Polishing Kit
 conarm:polishing_kit:0, Charged Certus Quartz Polishing Kit
+conarm:polishing_kit:0, Starmetal Polishing Kit
 conarm:polishing_kit:0, Glowstone Polishing Kit
 conarm:polishing_kit:0, Zinc Polishing Kit
 conarm:polishing_kit:0, Titanium Polishing Kit
@@ -6560,129 +6802,129 @@ nb:netherite_axe, Netherite Axe
 nb:netherite_pickaxe, Netherite Pickaxe
 nb:netherite_hoe, Netherite Hoe
 neenergistics:pattern_interface, Pattern Interface(WIP)
-hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
-hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
-hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
-hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
-hbm:mp_c_3, Tier 3 Missile Targeting Circuit
-hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
-hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
-hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
-hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
-hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_stability_10_flat, Size 10 Flat Fins
-hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
-hbm:mp_c_1, Tier 1 Missile Targeting Circuit
-hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
-hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
-hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
-hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
-hbm:mp_stability_10_cruise, Size 10 Cruise Fins
-hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
-hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
-hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
-hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
-hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
-hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
-hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
-hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
-hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
-hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
-hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
-hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
-hbm:mp_c_4, Tier 4 Missile Targeting Circuit
-hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
-hbm:mp_c_2, Tier 2 Missile Targeting Circuit
-hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
-hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
-hbm:mp_stability_15_thin, Size 15 Thin Fins
-hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
-hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
-hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
-hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
-hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
-hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
-hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
-hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
 hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
-hbm:mp_warhead_15_balefire, Size 15 BF Warhead
-hbm:mp_c_5, Tier 5 Missile Targeting Circuit
-hbm:mp_warhead_10_he, Size 10 HE Warhead
-hbm:mp_warhead_15_turbine, Size 15 Jet Engine
-hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
-hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
-hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
-hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
-hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
-hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
-hbm:mp_stability_15_flat, Size 15 Flat Fins
 hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
-hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
-hbm:mp_warhead_15_he, Size 15 HE Warhead
-hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
-hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
-hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
-hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
-hbm:mp_stability_10_space, Size 10 Space Fins
-hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
-hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
 hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
+hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
 hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
-hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
-hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
-hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
-hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
-hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
 hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
-hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
-hbm:mp_warhead_15_n2, Size 15 N² Mine
-hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
-hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
+hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
+hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
+hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
+hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
+hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
+hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
+hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
+hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_10_he, Size 10 HE Warhead
 hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
-hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
-hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
+hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
+hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
+hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
+hbm:mp_c_4, Tier 4 Missile Targeting Circuit
+hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
+hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
+hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
 hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_15_turbine, Size 15 Jet Engine
+hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
+hbm:mp_c_1, Tier 1 Missile Targeting Circuit
+hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
+hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
+hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
+hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
+hbm:mp_warhead_15_n2, Size 15 N² Mine
+hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
+hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
+hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
+hbm:mp_c_5, Tier 5 Missile Targeting Circuit
+hbm:mp_warhead_15_he, Size 15 HE Warhead
+hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
+hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
+hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
+hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
+hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
+hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
+hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
+hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
+hbm:mp_stability_10_space, Size 10 Space Fins
+hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
+hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
+hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
+hbm:mp_c_3, Tier 3 Missile Targeting Circuit
+hbm:mp_warhead_15_balefire, Size 15 BF Warhead
+hbm:mp_stability_15_thin, Size 15 Thin Fins
+hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
+hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
+hbm:mp_stability_15_flat, Size 15 Flat Fins
+hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
+hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
+hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
+hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
+hbm:mp_stability_10_cruise, Size 10 Cruise Fins
+hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
+hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
+hbm:mp_stability_10_flat, Size 10 Flat Fins
+hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
+hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
+hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
+hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
+hbm:mp_c_2, Tier 2 Missile Targeting Circuit
+hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
+hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
+hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
+hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
+hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
+hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
+hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
+hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
 hbmspace:insert_cmb, CMB Insert
 hbm:ore_oil, Oil Deposit
 oe:guardian_spike, Guardian Spike
@@ -6787,34 +7029,6 @@ oe:dried_dulse, Dried Dulse
 oe:palm_boat, Palm Boat
 oe:spawn_bucket, Bucket of %s
 oe:heavy_boots, Heavy Boots
-phantoms:phantom_membrane, Phantom Membrane
-raids:ominous_bottle:0, Ominous Bottle
-raids:ominous_bottle:1, Ominous Bottle
-raids:ominous_bottle:2, Ominous Bottle
-raids:ominous_bottle:3, Ominous Bottle
-raids:ominous_bottle:4, Ominous Bottle
-artifacts:shock_pendant, Shock Pendant
-artifacts:flame_pendant, Flame Pendant
-artifacts:thorn_pendant, Thorn Pendant
-artifacts:ultimate_pendant, Pendant of Ultimate Retribution
-artifacts:panic_necklace, Panic Necklace
-artifacts:whoopie_cushion, Whoopie Cushion
-artifacts:bottled_cloud, Cloud in a Bottle
-artifacts:bottled_fart, Fart in a Jar
-artifacts:magma_stone, Magma Stone
-artifacts:feral_claws, Feral Claws
-artifacts:power_glove, Power Glove
-artifacts:mechanical_glove, Mechanical Glove
-artifacts:fire_gauntlet, Fire Gauntlet
-artifacts:drinking_hat, Drinking Hat
-artifacts:star_cloak, Star Cloak
-artifacts:pocket_piston, Pocket Piston
-artifacts:antidote_vessel, Antidote Vessel
-artifacts:bubble_wrap, Bubble Wrap
-artifacts:sacrificial_amulet, Sacrificial Amulet
-artifacts:lucky_clover, Lucky Clover
-snad:snad:0, Snad
-snad:snad:1, Red Snad
 thaumcraft:thaumonomicon:0, Thaumonomicon
 thaumcraft:curio:0, Arcane Curiosity
 thaumcraft:curio:1, Preserved Curiosity
@@ -6823,6 +7037,7 @@ thaumcraft:curio:3, Eldritch Curiosity
 thaumcraft:curio:4, Illuminating Curiosity
 thaumcraft:curio:5, Twisted Curiosity
 thaumcraft:curio:6, Crimson Rites
+thaumcraft:curio:7, Basic Curiosity
 thaumcraft:loot_bag:0, Common Treasure
 thaumcraft:loot_bag:1, Uncommon Treasure
 thaumcraft:loot_bag:2, Rare Treasure
@@ -7034,6 +7249,34 @@ thaumcraft:seal:13, Control Seal: Use
 thaumcraft:seal:14, Control Seal: Provide
 thaumcraft:seal:15, Control Seal: Stock
 thaumcraft:seal:16, Control Seal: Advanced Block Breaker
+phantoms:phantom_membrane, Phantom Membrane
+raids:ominous_bottle:0, Ominous Bottle
+raids:ominous_bottle:1, Ominous Bottle
+raids:ominous_bottle:2, Ominous Bottle
+raids:ominous_bottle:3, Ominous Bottle
+raids:ominous_bottle:4, Ominous Bottle
+artifacts:shock_pendant, Shock Pendant
+artifacts:flame_pendant, Flame Pendant
+artifacts:thorn_pendant, Thorn Pendant
+artifacts:ultimate_pendant, Pendant of Ultimate Retribution
+artifacts:panic_necklace, Panic Necklace
+artifacts:whoopie_cushion, Whoopie Cushion
+artifacts:bottled_cloud, Cloud in a Bottle
+artifacts:bottled_fart, Fart in a Jar
+artifacts:magma_stone, Magma Stone
+artifacts:feral_claws, Feral Claws
+artifacts:power_glove, Power Glove
+artifacts:mechanical_glove, Mechanical Glove
+artifacts:fire_gauntlet, Fire Gauntlet
+artifacts:drinking_hat, Drinking Hat
+artifacts:star_cloak, Star Cloak
+artifacts:pocket_piston, Pocket Piston
+artifacts:antidote_vessel, Antidote Vessel
+artifacts:bubble_wrap, Bubble Wrap
+artifacts:sacrificial_amulet, Sacrificial Amulet
+artifacts:lucky_clover, Lucky Clover
+snad:snad:0, Snad
+snad:snad:1, Red Snad
 spartanshields:shield_basic_wood, Crude Wooden Shield
 spartanshields:shield_basic_stone, Stone Braced Shield
 spartanshields:shield_basic_iron, Iron Plated Shield
@@ -8927,14 +9170,6 @@ thaumicperiphery:malignant_heart, Malignant Heart
 thaumicperiphery:magic_quiver, Conjurer's Quiver
 thaumicperiphery:vis_phylactery, Vis Phylactery
 thaumicterminal:item_part:0, Arcane Terminal
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -8947,6 +9182,14 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 tinkers_reforged:gladius, Gladius
 tinkers_reforged:light_blade:0, Wooden Light Blade
 tinkers_reforged:light_blade:0, Stone Light Blade
@@ -8978,6 +9221,7 @@ tinkers_reforged:light_blade:0, Steel Light Blade
 tinkers_reforged:light_blade:0, Certus Quartz Light Blade
 tinkers_reforged:light_blade:0, Fluix Crystal Light Blade
 tinkers_reforged:light_blade:0, Charged Certus Quartz Light Blade
+tinkers_reforged:light_blade:0, Starmetal Light Blade
 tinkers_reforged:light_blade:0, Glowstone Light Blade
 tinkers_reforged:light_blade:0, Zinc Light Blade
 tinkers_reforged:light_blade:0, Titanium Light Blade
@@ -9340,6 +9584,183 @@ immersiveengineering:steel_armor_feet, Steel Boots
 immersiveengineering:steel_armor_legs, Steel Leggings
 immersiveengineering:steel_armor_chest, Steel Chestplate
 immersiveengineering:steel_armor_head, Steel Helmet
+astralsorcery:itemcraftingcomponent:0, Aquamarine
+astralsorcery:itemcraftingcomponent:1, Starmetal Ingot
+astralsorcery:itemcraftingcomponent:2, Stardust
+astralsorcery:itemcraftingcomponent:3, Glass Lens
+astralsorcery:itemcraftingcomponent:4, Resonating Gem
+astralsorcery:itemcraftingcomponent:5, Parchment
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:itemconstellationpaper:0, Constellation Paper
+astralsorcery:iteminfusedglass, Infused Glass
+astralsorcery:itemrockcrystalsimple:0, Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemtunedrockcrystal:0, Attuned Rock Crystal
+astralsorcery:itemcelestialcrystal:0, Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemtunedcelestialcrystal:0, Attuned Celestial Crystal
+astralsorcery:itemjournal, Astral Tome
+astralsorcery:itemhandtelescope, Looking Glass
+astralsorcery:itemlinkingtool, Linking Tool
+astralsorcery:itemwand, Resonating Wand
+astralsorcery:itemsextant, Sextant
+astralsorcery:itemilluminationwand, Illumination Wand
+astralsorcery:itemcoloredlens:0, Colored Lens
+astralsorcery:itemcoloredlens:1, Colored Lens
+astralsorcery:itemcoloredlens:2, Colored Lens
+astralsorcery:itemcoloredlens:3, Colored Lens
+astralsorcery:itemcoloredlens:4, Colored Lens
+astralsorcery:itemcoloredlens:5, Colored Lens
+astralsorcery:itemcoloredlens:6, Colored Lens
+astralsorcery:itemskyresonator, Fosic Resonator
+astralsorcery:itemshiftingstar, Shifting Star
+astralsorcery:itemarchitectwand, Formation Wand
+astralsorcery:itemexchangewand, Conversion Wand
+astralsorcery:itemgrapplewand, Impulsion Wand
+astralsorcery:itemusabledust:0, Illumination Powder
+astralsorcery:itemusabledust:1, Nocturnal Powder
+astralsorcery:itemknowledgeshare, Scroll of Written Expertise
+astralsorcery:itemperkseal, Sealing Sigil
+astralsorcery:itemknowledgefragment, Lucent Scroll
+astralsorcery:itemfragmentcapsule, Shining Casing
+astralsorcery:itemperkgem:0, Ourium Gem
+astralsorcery:itemperkgem:1, Ilium Gem
+astralsorcery:itemperkgem:2, Fengarum Gem
+astralsorcery:itemcrystalpickaxe, Crystal Pickaxe
+astralsorcery:itemcrystalshovel, Crystal Shovel
+astralsorcery:itemcrystalaxe, Crystal Axe
+astralsorcery:itemcrystalsword, Crystal Sword
+astralsorcery:itemchargedcrystalaxe, Infused Crystal Axe
+astralsorcery:itemchargedcrystalsword, Infused Crystal Sword
+astralsorcery:itemchargedcrystalpickaxe, Infused Crystal Pickaxe
+astralsorcery:itemchargedcrystalshovel, Infused Crystal Shovel
+astralsorcery:itemcape, Mantle of Stars
+astralsorcery:itemenchantmentamulet, Resplendent Prism
+astralsorcery:blockmarblestairs, Marble Stairs
+astralsorcery:blockflarelight, Volatile Flare
+astralsorcery:blockvanishing, tile.blockvanishing.name
+astralsorcery:blockchalice, Containment Chalice
+astralsorcery:blockbore, Evershifting Fountain
+astralsorcery:blockattunementaltar, Attunement Altar
+astralsorcery:blockattunementrelay, Spectral Relay
+astralsorcery:blockwell, Lightwell
+astralsorcery:blockworldilluminator, Cave Illuminator
+astralsorcery:blockfaketree, 
+astralsorcery:blockstarlightinfuser, Starlight Infuser
+astralsorcery:blockrituallink, Ritual Anchor
+astralsorcery:blockportalnode, 
+astralsorcery:blocktreebeacon, Tree Beacon
+astralsorcery:blocktranslucentblock, Translucent Block
+astralsorcery:blockmapdrawingtable, Stellar Refraction Table
+astralsorcery:blockcelestialgateway, Celestial Gateway
+astralsorcery:blockobservatory, Observatory
+astralsorcery:blocklens, Lens
+astralsorcery:blockprism, PrismLens
+astralsorcery:blockmarbleslab:0, Marble Slab
+astralsorcery:blockcustomore:0, Rock Crystal Ore
+astralsorcery:blockcustomore:1, Starmetal Ore
+astralsorcery:blockcustomsandore:0, Aquamarine Shale
+astralsorcery:blockcustomflower:0, Faint Amaranth
+astralsorcery:blockmarble:0, Marble
+astralsorcery:blockmarble:1, Marble Bricks
+astralsorcery:blockmarble:2, Marble Pillar
+astralsorcery:blockmarble:3, Marble Arch
+astralsorcery:blockmarble:4, Chiseled Marble
+astralsorcery:blockmarble:5, Engraved Marble
+astralsorcery:blockmarble:6, Runed Marble
+astralsorcery:blockblackmarble:0, Sooty Marble
+astralsorcery:blockblackmarble:1, Sooty Marble Bricks
+astralsorcery:blockblackmarble:2, Sooty Marble Pillar
+astralsorcery:blockblackmarble:3, Sooty Marble Arch
+astralsorcery:blockblackmarble:4, Chiseled Sooty Marble
+astralsorcery:blockblackmarble:5, Engraved Sooty Marble
+astralsorcery:blockblackmarble:6, Runed Sooty Marble
+astralsorcery:blockinfusedwood:0, Infused Wood
+astralsorcery:blockinfusedwood:1, Infused Wood Planks
+astralsorcery:blockinfusedwood:2, Infused Wood Column
+astralsorcery:blockinfusedwood:3, Infused Wood Arch
+astralsorcery:blockinfusedwood:4, Engraved Infused Wood
+astralsorcery:blockinfusedwood:5, Enriched Infused Wood
+astralsorcery:blockinfusedwood:6, Vibrant Infused Wood
+astralsorcery:blockborehead:0, Neromantic Prime
+astralsorcery:blockborehead:1, Fysallidic Prime
+astralsorcery:blockmachine:0, Telescope
+astralsorcery:blockmachine:1, Grindstone
+astralsorcery:blockcelestialcrystals:0, Celestial Crystal Cluster
+astralsorcery:blockcelestialcrystals:1, Celestial Crystal Cluster
+astralsorcery:blockcelestialcrystals:2, Celestial Crystal Cluster
+astralsorcery:blockcelestialcrystals:3, Celestial Crystal Cluster
+astralsorcery:blockcelestialcrystals:4, Celestial Crystal Cluster
+astralsorcery:blockgemcrystals:0, Gem Crystal Cluster
+astralsorcery:blockgemcrystals:1, Gem Crystal Cluster
+astralsorcery:blockgemcrystals:2, Gem Crystal Cluster
+astralsorcery:blockgemcrystals:3, Gem Crystal Cluster
+astralsorcery:blockgemcrystals:4, Gem Crystal Cluster
+astralsorcery:blockstructural:0, Telescope
+astralsorcery:blockritualpedestal, Ritual Pedestal
+astralsorcery:blockaltar:0, Luminous Crafting Table
+astralsorcery:blockaltar:1, Starlight Crafting Altar
+astralsorcery:blockaltar:2, Celestial Altar
+astralsorcery:blockaltar:3, Iridescent Altar
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
+astralsorcery:blockcelestialcollectorcrystal:0, Floating Crystal
 cyclicmagic:nether_redstone_ore, Nether Redstone Ore
 cyclicmagic:nether_iron_ore, Nether Iron Ore
 cyclicmagic:nether_gold_ore, Nether Gold Ore
@@ -15935,6 +16356,9 @@ hbm:weapon_mod_caliber:4, .44 Magnum Conversion Kit
 hbm:weapon_mod_caliber:5, 5.56mm Conversion Kit
 hbm:weapon_mod_caliber:6, 7.62mm Conversion Kit
 hbm:weapon_mod_caliber:7, .50 BMG Conversion Kit
+oldresearch:deconstruction_table, Deconstruction Table
+oldresearch:research_table_old, Research Table
+oldresearch:researchnote:0, Research Note
 srpdeepseadanger:ada_horgo_drop, §bHammerhead Skull Piece
 srpdeepseadanger:ada_jomoi_drop, §bStinger Stinghead
 srpdeepseadanger:sprouter_drop, §6Sprouter Membrane
