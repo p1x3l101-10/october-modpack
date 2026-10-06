@@ -6,7 +6,7 @@ side = "both"
 hash = "cb6ce77068ecc1a9741c7137401ad9ddc793c3ea37de82cb92a11044dda97dc460c02c26c3a681dc755f2a755b7d224ed1faa769a8a8e7d39da12fa1f0a10ac9"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/iltKD9qU/versions/Bw5rpMTy/underlay-1.0.2-mc1.12.2.jar"
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/Bw5rpMTy/underlay%2D1.0.2%2Dmc1.12.2.jar"
 
 [update.modrinth]
 mod-id = "iltKD9qU"

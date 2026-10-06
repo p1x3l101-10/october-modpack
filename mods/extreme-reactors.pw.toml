@@ -6,7 +6,7 @@ side = "both"
 hash = "b73771bd7584902e4be110b0ec2e877c1ab3482b55e3c5a79844740bfdfe4b3b6f76b48eeb57be2ef76acb62a42cfddb82af2b438710eac5017f1b1c13ff82fb"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/idkvShUy/versions/lXY8AQnu/ExtremeReactors-1.12.2-0.4.5.68.jar"
+url = "https://cdn.modrinth.com/data/idkvShUy/versions/lXY8AQnu/ExtremeReactors%2D1.12.2%2D0.4.5.68.jar"
 
 [update.modrinth]
 mod-id = "idkvShUy"
