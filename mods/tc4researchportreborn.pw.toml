@@ -1,0 +1,13 @@
+name = "TC4 Research Port: Reborn"
+filename = "OldResearchReborn-1.0.2-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WHLAuqko/versions/wRO5Vc9C/OldResearchReborn-1.0.2-release.jar"
+hash-format = "sha512"
+hash = "7f36bd031face760bc531aa45c4837484a11d6f3e5134a9223c68370c57718f402c35760b1c844a1fa6938a04463590d93848b99dca3d33a94ee942e0811f9a8"
+
+[update]
+[update.modrinth]
+mod-id = "WHLAuqko"
+version = "wRO5Vc9C"

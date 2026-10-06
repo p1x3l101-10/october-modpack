@@ -1460,10 +1460,10 @@ appliedenergistics2:dense_energy_cell, Dense Energy Cell
 appliedenergistics2:creative_energy_cell, Creative Energy Cell
 appliedenergistics2:crafting_unit, Crafting Unit
 appliedenergistics2:crafting_accelerator, Crafting Co-Processing Unit
-appliedenergistics2:crafting_storage_1k, 1k Crafting Storage
-appliedenergistics2:crafting_storage_4k, 4k Crafting Storage
-appliedenergistics2:crafting_storage_16k, 16k Crafting Storage
-appliedenergistics2:crafting_storage_64k, 64k Crafting Storage
+appliedenergistics2:crafting_storage_1k, §61k§r Crafting Storage
+appliedenergistics2:crafting_storage_4k, §e4k§r Crafting Storage
+appliedenergistics2:crafting_storage_16k, §a16k§r Crafting Storage
+appliedenergistics2:crafting_storage_64k, §b64k§r Crafting Storage
 appliedenergistics2:crafting_monitor, Crafting Monitor
 appliedenergistics2:molecular_assembler, Molecular Assembler
 appliedenergistics2:light_detector, Light Detecting Fixture
@@ -1477,14 +1477,14 @@ appliedenergistics2:quartz_stairs, Certus Quartz Stairs
 appliedenergistics2:chiseled_quartz_stairs, Chiseled Certus Quartz Stairs
 appliedenergistics2:quartz_pillar_stairs, Certus Quartz Pillar Stairs
 appliedenergistics2:cable_bus, AE2 Cable and/or Bus
-appliedenergistics2:sky_stone_slab:0, Sky Stone Slabs
-appliedenergistics2:smooth_sky_stone_slab:0, Sky Stone Block Slabs
-appliedenergistics2:sky_stone_brick_slab:0, Sky Stone Brick Slabs
-appliedenergistics2:sky_stone_small_brick_slab:0, Sky Stone Small Brick Slabs
-appliedenergistics2:fluix_slab:0, Fluix Slabs
-appliedenergistics2:quartz_slab:0, Certus Quartz Slabs
-appliedenergistics2:chiseled_quartz_slab:0, Chiseled Certus Quartz Slabs
-appliedenergistics2:quartz_pillar_slab:0, Certus Quartz Pillar Slabs
+appliedenergistics2:sky_stone_slab:0, Sky Stone Slab
+appliedenergistics2:smooth_sky_stone_slab:0, Sky Stone Block Slab
+appliedenergistics2:sky_stone_brick_slab:0, Sky Stone Brick Slab
+appliedenergistics2:sky_stone_small_brick_slab:0, Sky Stone Small Brick Slab
+appliedenergistics2:fluix_slab:0, Fluix Slab
+appliedenergistics2:quartz_slab:0, Certus Quartz Slab
+appliedenergistics2:chiseled_quartz_slab:0, Chiseled Certus Quartz Slab
+appliedenergistics2:quartz_pillar_slab:0, Certus Quartz Pillar Slab
 appliedenergistics2:certus_quartz_axe, Certus Quartz Axe
 appliedenergistics2:certus_quartz_hoe, Certus Quartz Hoe
 appliedenergistics2:certus_quartz_spade, Certus Quartz Shovel
@@ -1501,6 +1501,10 @@ appliedenergistics2:nether_quartz_wrench, Nether Quartz Wrench
 appliedenergistics2:nether_quartz_cutting_knife, Nether Quartz Cutting Knife
 appliedenergistics2:entropy_manipulator, Entropy Manipulator
 appliedenergistics2:wireless_terminal, Wireless Terminal
+appliedenergistics2:wireless_crafting_terminal, Wireless Crafting Terminal
+appliedenergistics2:wireless_pattern_terminal, Wireless Pattern Terminal
+appliedenergistics2:wireless_fluid_terminal, Wireless Fluid Terminal
+appliedenergistics2:wireless_interface_terminal, Wireless Interface Terminal
 appliedenergistics2:charged_staff, Charged Staff
 appliedenergistics2:matter_cannon, Matter Cannon
 appliedenergistics2:portable_cell, Portable Cell
@@ -1510,17 +1514,17 @@ appliedenergistics2:memory_card, Memory Card
 appliedenergistics2:network_tool, Network Tool
 appliedenergistics2:creative_storage_cell, Creative ME Storage Cell
 appliedenergistics2:view_cell, View Cell
-appliedenergistics2:storage_cell_1k, 1k ME Storage Cell
-appliedenergistics2:storage_cell_4k, 4k ME Storage Cell
-appliedenergistics2:storage_cell_16k, 16k ME Storage Cell
-appliedenergistics2:storage_cell_64k, 64k ME Storage Cell
-appliedenergistics2:fluid_storage_cell_1k, 1k ME Fluid Storage Cell
-appliedenergistics2:fluid_storage_cell_4k, 4k ME Fluid Storage Cell
-appliedenergistics2:fluid_storage_cell_16k, 16k ME Fluid Storage Cell
-appliedenergistics2:fluid_storage_cell_64k, 64k ME Fluid Storage Cell
-appliedenergistics2:spatial_storage_cell_2_cubed, 2³ Spatial Storage Cell
-appliedenergistics2:spatial_storage_cell_16_cubed, 16³ Spatial Storage Cell
-appliedenergistics2:spatial_storage_cell_128_cubed, 128³ Spatial Storage Cell
+appliedenergistics2:storage_cell_1k, §61k§r ME Storage Cell
+appliedenergistics2:storage_cell_4k, §e4k§r ME Storage Cell
+appliedenergistics2:storage_cell_16k, §a16k§r ME Storage Cell
+appliedenergistics2:storage_cell_64k, §b64k§r ME Storage Cell
+appliedenergistics2:fluid_storage_cell_1k, §61k§r ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_4k, §e4k§r ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_16k, §a16k§r ME Fluid Storage Cell
+appliedenergistics2:fluid_storage_cell_64k, §b64k§r ME Fluid Storage Cell
+appliedenergistics2:spatial_storage_cell_2_cubed, §62³§r Spatial Storage Cell
+appliedenergistics2:spatial_storage_cell_16_cubed, §916³§r Spatial Storage Cell
+appliedenergistics2:spatial_storage_cell_128_cubed, §d128³§r  Spatial Storage Cell
 appliedenergistics2:facade:0, Cable Facade - Stone
 appliedenergistics2:facade:0, Cable Facade - Granite
 appliedenergistics2:facade:0, Cable Facade - Polished Granite
@@ -1848,6 +1852,106 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
+appliedenergistics2:facade:0, Cable Facade - Osmium Block
+appliedenergistics2:facade:0, Cable Facade - Bronze Block
+appliedenergistics2:facade:0, Cable Facade - Refined Obsidian
+appliedenergistics2:facade:0, Cable Facade - Charcoal Block
+appliedenergistics2:facade:0, Cable Facade - Refined Glowstone
+appliedenergistics2:facade:0, Cable Facade - Steel Block
+appliedenergistics2:facade:0, Cable Facade - Teleporter Frame
+appliedenergistics2:facade:0, Cable Facade - Steel Casing
+appliedenergistics2:facade:0, Cable Facade - Dynamic Tank
+appliedenergistics2:facade:0, Cable Facade - Structural Glass
+appliedenergistics2:facade:0, Cable Facade - Dynamic Valve
+appliedenergistics2:facade:0, Cable Facade - Copper Block
+appliedenergistics2:facade:0, Cable Facade - Tin Block
+appliedenergistics2:facade:0, Cable Facade - Thermal Evaporation Controller
+appliedenergistics2:facade:0, Cable Facade - Thermal Evaporation Valve
+appliedenergistics2:facade:0, Cable Facade - Osmium Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Obsidian TNT
+appliedenergistics2:facade:0, Cable Facade - §8Black Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §cRed Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §2Green Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Brown Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §1Blue Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §5Purple Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §3Cyan Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §7Light Grey Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Grey Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dPink Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §aLime Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §eYellow Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §9Light Blue Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dMagenta Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Orange Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §fWhite Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Black Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §cRed Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §2Green Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Brown Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §1Blue Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §5Purple Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §3Cyan Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §7Light Grey Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Grey Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dPink Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §aLime Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §eYellow Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §9Light Blue Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dMagenta Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Orange Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §fWhite Slick Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Black Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §cRed Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §2Green Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §6Brown Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §1Blue Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §5Purple Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §3Cyan Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §7Light Grey Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §8Grey Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §dPink Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §aLime Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §eYellow Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §9Light Blue Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §dMagenta Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §6Orange Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §fWhite Plastic Glow Block
+appliedenergistics2:facade:0, Cable Facade - §8Black Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §cRed Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §2Green Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Brown Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §1Blue Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §5Purple Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §3Cyan Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §7Light Grey Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Grey Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dPink Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §aLime Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §eYellow Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §9Light Blue Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §dMagenta Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §6Orange Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §fWhite Reinforced Plastic Block
+appliedenergistics2:facade:0, Cable Facade - §8Black Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §cRed Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §2Green Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §6Brown Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §1Blue Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §5Purple Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §3Cyan Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §7Light Grey Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §8Grey Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §dPink Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §aLime Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §eYellow Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §9Light Blue Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §dMagenta Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §6Orange Plastic Road
+appliedenergistics2:facade:0, Cable Facade - §fWhite Plastic Road
+appliedenergistics2:facade:0, Cable Facade - Salt Block
 appliedenergistics2:facade:0, Cable Facade - Cherry Log
 appliedenergistics2:facade:0, Cable Facade - Cherry Wood
 appliedenergistics2:facade:0, Cable Facade - Cherry Stripped Log
@@ -2339,7 +2443,6 @@ appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Generator Block
 appliedenergistics2:facade:0, Cable Facade - Radiator Block
-appliedenergistics2:facade:0, Cable Facade - Compact Giant Chance Cube
 appliedenergistics2:facade:0, Cable Facade - Nether Redstone Ore
 appliedenergistics2:facade:0, Cable Facade - Nether Iron Ore
 appliedenergistics2:facade:0, Cable Facade - Nether Gold Ore
@@ -2358,6 +2461,7 @@ appliedenergistics2:facade:0, Cable Facade - Dry Peat Bog
 appliedenergistics2:facade:0, Cable Facade - Saturated Peat Deposit
 appliedenergistics2:facade:0, Cable Facade - Soundproofing
 appliedenergistics2:facade:0, Cable Facade - Shearing Block
+appliedenergistics2:facade:0, Cable Facade - Compact Giant Chance Cube
 appliedenergistics2:facade:0, Cable Facade - Rose Gold Block
 appliedenergistics2:facade:0, Cable Facade - Rose Gold Ore
 appliedenergistics2:facade:0, Cable Facade - Villager Spawner
@@ -2896,15 +3000,19 @@ appliedenergistics2:material:27, Capacity Card
 appliedenergistics2:material:53, Crafting Card
 appliedenergistics2:material:29, Fuzzy Card
 appliedenergistics2:material:31, Inverter Card
+appliedenergistics2:material:60, Magnet Card
+appliedenergistics2:material:58, Pattern Expansion Card
+appliedenergistics2:material:59, Quantum Link Card
 appliedenergistics2:material:26, Redstone Card
 appliedenergistics2:material:30, Acceleration Card
-appliedenergistics2:material:34, 128³ Spatial Component
-appliedenergistics2:material:37, 16k ME Storage Component
-appliedenergistics2:material:33, 16³ Spatial Component
-appliedenergistics2:material:35, 1k ME Storage Component
-appliedenergistics2:material:32, 2³ Spatial Component
-appliedenergistics2:material:36, 4k ME Storage Component
-appliedenergistics2:material:38, 64k ME Storage Component
+appliedenergistics2:material:61, Sticky Card
+appliedenergistics2:material:34, §d128³§r Spatial Component
+appliedenergistics2:material:37, §a16k§r ME Storage Component
+appliedenergistics2:material:33, §916³§r Spatial Component
+appliedenergistics2:material:35, §61k§r ME Storage Component
+appliedenergistics2:material:32, §62³§r Spatial Component
+appliedenergistics2:material:36, §e4k§r ME Storage Component
+appliedenergistics2:material:38, §b64k§r ME Storage Component
 appliedenergistics2:material:0, Certus Quartz Crystal
 appliedenergistics2:material:1, Charged Certus Quartz Crystal
 appliedenergistics2:material:2, Certus Quartz Dust
@@ -2914,10 +3022,10 @@ appliedenergistics2:material:24, Engineering Processor
 appliedenergistics2:material:14, Inscriber Engineering Press
 appliedenergistics2:material:17, Printed Engineering Circuit
 appliedenergistics2:material:4, Flour
-appliedenergistics2:material:56, 16k ME Fluid Storage Component
-appliedenergistics2:material:54, 1k ME Fluid Storage Component
-appliedenergistics2:material:55, 4k ME Fluid Storage Component
-appliedenergistics2:material:57, 64k ME Fluid Storage Component
+appliedenergistics2:material:56, §a16k§r ME Fluid Storage Component
+appliedenergistics2:material:54, §61k§r ME Fluid Storage Component
+appliedenergistics2:material:55, §e4k§r ME Fluid Storage Component
+appliedenergistics2:material:57, §b64k§r ME Fluid Storage Component
 appliedenergistics2:material:7, Fluix Crystal
 appliedenergistics2:material:8, Fluix Dust
 appliedenergistics2:material:9, Fluix Pearl
@@ -3032,12 +3140,14 @@ appliedenergistics2:part:56, ME Smart Cable - Fluix
 appliedenergistics2:part:420, ME Conversion Monitor
 appliedenergistics2:part:360, ME Crafting Terminal
 appliedenergistics2:part:200, Dark Illuminated Panel
+appliedenergistics2:part:341, ME Extended Processing Pattern Terminal
 appliedenergistics2:part:260, ME Export Bus
 appliedenergistics2:part:302, ME Fluid Annihilation Plane
 appliedenergistics2:part:261, ME Fluid Export Bus
 appliedenergistics2:part:321, ME Fluid Formation Plane
 appliedenergistics2:part:241, ME Fluid Import Bus
 appliedenergistics2:part:441, ME Fluid Interface
+appliedenergistics2:part:522, ME Fluid Interface Configuration Terminal
 appliedenergistics2:part:281, ME Fluid Level Emitter
 appliedenergistics2:part:221, ME Fluid Storage Bus
 appliedenergistics2:part:520, ME Fluid Terminal
@@ -3045,10 +3155,12 @@ appliedenergistics2:part:320, ME Formation Plane
 appliedenergistics2:part:301, ME Identity Annihilation Plane
 appliedenergistics2:part:240, ME Import Bus
 appliedenergistics2:part:440, ME Interface
+appliedenergistics2:part:521, ME Interface Configuration Terminal
 appliedenergistics2:part:480, ME Interface Terminal
 appliedenergistics2:part:100, ME Inverted Toggle Bus
 appliedenergistics2:part:280, ME Level Emitter
 appliedenergistics2:part:160, Bright Illuminated Panel
+appliedenergistics2:part:222, ME OreDict Storage Bus
 appliedenergistics2:part:469, P2P Tunnel - FE
 appliedenergistics2:part:463, P2P Tunnel - Fluid
 appliedenergistics2:part:462, P2P Tunnel - Item
@@ -3197,42 +3309,42 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Leggings Core Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Light Blade Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Chestplate Core Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Light Blade Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -3307,6 +3419,9 @@ tconstruct:sharpening_kit:0, Yellorium Sharpening Kit
 tconstruct:sharpening_kit:0, Cyanite Sharpening Kit
 tconstruct:sharpening_kit:0, Ludicrite Sharpening Kit
 tconstruct:sharpening_kit:0, Blutonium Sharpening Kit
+tconstruct:sharpening_kit:0, Osmium Sharpening Kit
+tconstruct:sharpening_kit:0, Refined Obsidian Sharpening Kit
+tconstruct:sharpening_kit:0, Refined Glowstone Sharpening Kit
 tconstruct:sharpening_kit:0, Thaumium Sharpening Kit
 tconstruct:sharpening_kit:0, Lavium Sharpening Kit
 tconstruct:sharpening_kit:0, Qivium Sharpening Kit
@@ -3357,6 +3472,9 @@ tconstruct:pick_head:0, Yellorium Pickaxe Head
 tconstruct:pick_head:0, Cyanite Pickaxe Head
 tconstruct:pick_head:0, Ludicrite Pickaxe Head
 tconstruct:pick_head:0, Blutonium Pickaxe Head
+tconstruct:pick_head:0, Osmium Pickaxe Head
+tconstruct:pick_head:0, Refined Obsidian Pickaxe Head
+tconstruct:pick_head:0, Refined Glowstone Pickaxe Head
 tconstruct:pick_head:0, Thaumium Pickaxe Head
 tconstruct:pick_head:0, Lavium Pickaxe Head
 tconstruct:pick_head:0, Qivium Pickaxe Head
@@ -3407,6 +3525,9 @@ tconstruct:shovel_head:0, Yellorium Shovel Head
 tconstruct:shovel_head:0, Cyanite Shovel Head
 tconstruct:shovel_head:0, Ludicrite Shovel Head
 tconstruct:shovel_head:0, Blutonium Shovel Head
+tconstruct:shovel_head:0, Osmium Shovel Head
+tconstruct:shovel_head:0, Refined Obsidian Shovel Head
+tconstruct:shovel_head:0, Refined Glowstone Shovel Head
 tconstruct:shovel_head:0, Thaumium Shovel Head
 tconstruct:shovel_head:0, Lavium Shovel Head
 tconstruct:shovel_head:0, Qivium Shovel Head
@@ -3457,6 +3578,9 @@ tconstruct:axe_head:0, Yellorium Axe Head
 tconstruct:axe_head:0, Cyanite Axe Head
 tconstruct:axe_head:0, Ludicrite Axe Head
 tconstruct:axe_head:0, Blutonium Axe Head
+tconstruct:axe_head:0, Osmium Axe Head
+tconstruct:axe_head:0, Refined Obsidian Axe Head
+tconstruct:axe_head:0, Refined Glowstone Axe Head
 tconstruct:axe_head:0, Thaumium Axe Head
 tconstruct:axe_head:0, Lavium Axe Head
 tconstruct:axe_head:0, Qivium Axe Head
@@ -3507,6 +3631,9 @@ tconstruct:broad_axe_head:0, Yellorium Broad Axe Head
 tconstruct:broad_axe_head:0, Cyanite Broad Axe Head
 tconstruct:broad_axe_head:0, Ludicrite Broad Axe Head
 tconstruct:broad_axe_head:0, Blutonium Broad Axe Head
+tconstruct:broad_axe_head:0, Osmium Broad Axe Head
+tconstruct:broad_axe_head:0, Refined Obsidian Broad Axe Head
+tconstruct:broad_axe_head:0, Refined Glowstone Broad Axe Head
 tconstruct:broad_axe_head:0, Thaumium Broad Axe Head
 tconstruct:broad_axe_head:0, Lavium Broad Axe Head
 tconstruct:broad_axe_head:0, Qivium Broad Axe Head
@@ -3557,6 +3684,9 @@ tconstruct:sword_blade:0, Yellorium Sword Blade
 tconstruct:sword_blade:0, Cyanite Sword Blade
 tconstruct:sword_blade:0, Ludicrite Sword Blade
 tconstruct:sword_blade:0, Blutonium Sword Blade
+tconstruct:sword_blade:0, Osmium Sword Blade
+tconstruct:sword_blade:0, Refined Obsidian Sword Blade
+tconstruct:sword_blade:0, Refined Glowstone Sword Blade
 tconstruct:sword_blade:0, Thaumium Sword Blade
 tconstruct:sword_blade:0, Lavium Sword Blade
 tconstruct:sword_blade:0, Qivium Sword Blade
@@ -3607,6 +3737,9 @@ tconstruct:large_sword_blade:0, Yellorium Large Sword Blade
 tconstruct:large_sword_blade:0, Cyanite Large Sword Blade
 tconstruct:large_sword_blade:0, Ludicrite Large Sword Blade
 tconstruct:large_sword_blade:0, Blutonium Large Sword Blade
+tconstruct:large_sword_blade:0, Osmium Large Sword Blade
+tconstruct:large_sword_blade:0, Refined Obsidian Large Sword Blade
+tconstruct:large_sword_blade:0, Refined Glowstone Large Sword Blade
 tconstruct:large_sword_blade:0, Thaumium Large Sword Blade
 tconstruct:large_sword_blade:0, Lavium Large Sword Blade
 tconstruct:large_sword_blade:0, Qivium Large Sword Blade
@@ -3657,6 +3790,9 @@ tconstruct:hammer_head:0, Yellorium Hammer Head
 tconstruct:hammer_head:0, Cyanite Hammer Head
 tconstruct:hammer_head:0, Ludicrite Hammer Head
 tconstruct:hammer_head:0, Blutonium Hammer Head
+tconstruct:hammer_head:0, Osmium Hammer Head
+tconstruct:hammer_head:0, Refined Obsidian Hammer Head
+tconstruct:hammer_head:0, Refined Glowstone Hammer Head
 tconstruct:hammer_head:0, Thaumium Hammer Head
 tconstruct:hammer_head:0, Lavium Hammer Head
 tconstruct:hammer_head:0, Qivium Hammer Head
@@ -3707,6 +3843,9 @@ tconstruct:excavator_head:0, Yellorium Excavator Head
 tconstruct:excavator_head:0, Cyanite Excavator Head
 tconstruct:excavator_head:0, Ludicrite Excavator Head
 tconstruct:excavator_head:0, Blutonium Excavator Head
+tconstruct:excavator_head:0, Osmium Excavator Head
+tconstruct:excavator_head:0, Refined Obsidian Excavator Head
+tconstruct:excavator_head:0, Refined Glowstone Excavator Head
 tconstruct:excavator_head:0, Thaumium Excavator Head
 tconstruct:excavator_head:0, Lavium Excavator Head
 tconstruct:excavator_head:0, Qivium Excavator Head
@@ -3757,6 +3896,9 @@ tconstruct:kama_head:0, Yellorium Kama Head
 tconstruct:kama_head:0, Cyanite Kama Head
 tconstruct:kama_head:0, Ludicrite Kama Head
 tconstruct:kama_head:0, Blutonium Kama Head
+tconstruct:kama_head:0, Osmium Kama Head
+tconstruct:kama_head:0, Refined Obsidian Kama Head
+tconstruct:kama_head:0, Refined Glowstone Kama Head
 tconstruct:kama_head:0, Thaumium Kama Head
 tconstruct:kama_head:0, Lavium Kama Head
 tconstruct:kama_head:0, Qivium Kama Head
@@ -3807,6 +3949,9 @@ tconstruct:scythe_head:0, Yellorium Scythe Head
 tconstruct:scythe_head:0, Cyanite Scythe Head
 tconstruct:scythe_head:0, Ludicrite Scythe Head
 tconstruct:scythe_head:0, Blutonium Scythe Head
+tconstruct:scythe_head:0, Osmium Scythe Head
+tconstruct:scythe_head:0, Refined Obsidian Scythe Head
+tconstruct:scythe_head:0, Refined Glowstone Scythe Head
 tconstruct:scythe_head:0, Thaumium Scythe Head
 tconstruct:scythe_head:0, Lavium Scythe Head
 tconstruct:scythe_head:0, Qivium Scythe Head
@@ -3857,6 +4002,9 @@ tconstruct:pan_head:0, Yellorium Pan
 tconstruct:pan_head:0, Cyanite Pan
 tconstruct:pan_head:0, Ludicrite Pan
 tconstruct:pan_head:0, Blutonium Pan
+tconstruct:pan_head:0, Osmium Pan
+tconstruct:pan_head:0, Refined Obsidian Pan
+tconstruct:pan_head:0, Refined Glowstone Pan
 tconstruct:pan_head:0, Thaumium Pan
 tconstruct:pan_head:0, Lavium Pan
 tconstruct:pan_head:0, Qivium Pan
@@ -3907,6 +4055,9 @@ tconstruct:sign_head:0, Yellorium Sign Plate
 tconstruct:sign_head:0, Cyanite Sign Plate
 tconstruct:sign_head:0, Ludicrite Sign Plate
 tconstruct:sign_head:0, Blutonium Sign Plate
+tconstruct:sign_head:0, Osmium Sign Plate
+tconstruct:sign_head:0, Refined Obsidian Sign Plate
+tconstruct:sign_head:0, Refined Glowstone Sign Plate
 tconstruct:sign_head:0, Thaumium Sign Plate
 tconstruct:sign_head:0, Lavium Sign Plate
 tconstruct:sign_head:0, Qivium Sign Plate
@@ -3957,6 +4108,9 @@ tconstruct:tool_rod:0, Yellorium Tool Rod
 tconstruct:tool_rod:0, Cyanite Tool Rod
 tconstruct:tool_rod:0, Ludicrite Tool Rod
 tconstruct:tool_rod:0, Blutonium Tool Rod
+tconstruct:tool_rod:0, Osmium Tool Rod
+tconstruct:tool_rod:0, Refined Obsidian Tool Rod
+tconstruct:tool_rod:0, Refined Glowstone Tool Rod
 tconstruct:tool_rod:0, Thaumium Tool Rod
 tconstruct:tool_rod:0, Lavium Tool Rod
 tconstruct:tool_rod:0, Qivium Tool Rod
@@ -4007,6 +4161,9 @@ tconstruct:tough_tool_rod:0, Yellorium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Cyanite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ludicrite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Blutonium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Osmium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Refined Obsidian Tough Tool Rod
+tconstruct:tough_tool_rod:0, Refined Glowstone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Thaumium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Lavium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Qivium Tough Tool Rod
@@ -4057,6 +4214,9 @@ tconstruct:binding:0, Yellorium Binding
 tconstruct:binding:0, Cyanite Binding
 tconstruct:binding:0, Ludicrite Binding
 tconstruct:binding:0, Blutonium Binding
+tconstruct:binding:0, Osmium Binding
+tconstruct:binding:0, Refined Obsidian Binding
+tconstruct:binding:0, Refined Glowstone Binding
 tconstruct:binding:0, Thaumium Binding
 tconstruct:binding:0, Lavium Binding
 tconstruct:binding:0, Qivium Binding
@@ -4107,6 +4267,9 @@ tconstruct:tough_binding:0, Yellorium Tough Binding
 tconstruct:tough_binding:0, Cyanite Tough Binding
 tconstruct:tough_binding:0, Ludicrite Tough Binding
 tconstruct:tough_binding:0, Blutonium Tough Binding
+tconstruct:tough_binding:0, Osmium Tough Binding
+tconstruct:tough_binding:0, Refined Obsidian Tough Binding
+tconstruct:tough_binding:0, Refined Glowstone Tough Binding
 tconstruct:tough_binding:0, Thaumium Tough Binding
 tconstruct:tough_binding:0, Lavium Tough Binding
 tconstruct:tough_binding:0, Qivium Tough Binding
@@ -4157,6 +4320,9 @@ tconstruct:wide_guard:0, Yellorium Wide Guard
 tconstruct:wide_guard:0, Cyanite Wide Guard
 tconstruct:wide_guard:0, Ludicrite Wide Guard
 tconstruct:wide_guard:0, Blutonium Wide Guard
+tconstruct:wide_guard:0, Osmium Wide Guard
+tconstruct:wide_guard:0, Refined Obsidian Wide Guard
+tconstruct:wide_guard:0, Refined Glowstone Wide Guard
 tconstruct:wide_guard:0, Thaumium Wide Guard
 tconstruct:wide_guard:0, Lavium Wide Guard
 tconstruct:wide_guard:0, Qivium Wide Guard
@@ -4207,6 +4373,9 @@ tconstruct:hand_guard:0, Yellorium Hand Guard
 tconstruct:hand_guard:0, Cyanite Hand Guard
 tconstruct:hand_guard:0, Ludicrite Hand Guard
 tconstruct:hand_guard:0, Blutonium Hand Guard
+tconstruct:hand_guard:0, Osmium Hand Guard
+tconstruct:hand_guard:0, Refined Obsidian Hand Guard
+tconstruct:hand_guard:0, Refined Glowstone Hand Guard
 tconstruct:hand_guard:0, Thaumium Hand Guard
 tconstruct:hand_guard:0, Lavium Hand Guard
 tconstruct:hand_guard:0, Qivium Hand Guard
@@ -4257,6 +4426,9 @@ tconstruct:cross_guard:0, Yellorium Cross Guard
 tconstruct:cross_guard:0, Cyanite Cross Guard
 tconstruct:cross_guard:0, Ludicrite Cross Guard
 tconstruct:cross_guard:0, Blutonium Cross Guard
+tconstruct:cross_guard:0, Osmium Cross Guard
+tconstruct:cross_guard:0, Refined Obsidian Cross Guard
+tconstruct:cross_guard:0, Refined Glowstone Cross Guard
 tconstruct:cross_guard:0, Thaumium Cross Guard
 tconstruct:cross_guard:0, Lavium Cross Guard
 tconstruct:cross_guard:0, Qivium Cross Guard
@@ -4307,6 +4479,9 @@ tconstruct:large_plate:0, Yellorium Large Plate
 tconstruct:large_plate:0, Cyanite Large Plate
 tconstruct:large_plate:0, Ludicrite Large Plate
 tconstruct:large_plate:0, Blutonium Large Plate
+tconstruct:large_plate:0, Osmium Large Plate
+tconstruct:large_plate:0, Refined Obsidian Large Plate
+tconstruct:large_plate:0, Refined Glowstone Large Plate
 tconstruct:large_plate:0, Thaumium Large Plate
 tconstruct:large_plate:0, Lavium Large Plate
 tconstruct:large_plate:0, Qivium Large Plate
@@ -4357,6 +4532,9 @@ tconstruct:knife_blade:0, Yellorium Knife Blade
 tconstruct:knife_blade:0, Cyanite Knife Blade
 tconstruct:knife_blade:0, Ludicrite Knife Blade
 tconstruct:knife_blade:0, Blutonium Knife Blade
+tconstruct:knife_blade:0, Osmium Knife Blade
+tconstruct:knife_blade:0, Refined Obsidian Knife Blade
+tconstruct:knife_blade:0, Refined Glowstone Knife Blade
 tconstruct:knife_blade:0, Thaumium Knife Blade
 tconstruct:knife_blade:0, Lavium Knife Blade
 tconstruct:knife_blade:0, Qivium Knife Blade
@@ -4407,6 +4585,9 @@ tconstruct:bow_limb:0, Yellorium Bowlimb
 tconstruct:bow_limb:0, Cyanite Bowlimb
 tconstruct:bow_limb:0, Ludicrite Bowlimb
 tconstruct:bow_limb:0, Blutonium Bowlimb
+tconstruct:bow_limb:0, Osmium Bowlimb
+tconstruct:bow_limb:0, Refined Obsidian Bowlimb
+tconstruct:bow_limb:0, Refined Glowstone Bowlimb
 tconstruct:bow_limb:0, Thaumium Bowlimb
 tconstruct:bow_limb:0, Lavium Bowlimb
 tconstruct:bow_limb:0, Qivium Bowlimb
@@ -4462,6 +4643,9 @@ tconstruct:arrow_head:0, Yellorium Arrow Head
 tconstruct:arrow_head:0, Cyanite Arrow Head
 tconstruct:arrow_head:0, Ludicrite Arrow Head
 tconstruct:arrow_head:0, Blutonium Arrow Head
+tconstruct:arrow_head:0, Osmium Arrow Head
+tconstruct:arrow_head:0, Refined Obsidian Arrow Head
+tconstruct:arrow_head:0, Refined Glowstone Arrow Head
 tconstruct:arrow_head:0, Thaumium Arrow Head
 tconstruct:arrow_head:0, Lavium Arrow Head
 tconstruct:arrow_head:0, Qivium Arrow Head
@@ -4593,6 +4777,8 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -4663,78 +4849,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Leggings Core Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Light Blade Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Chestplate Core Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Light Blade Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Light Blade Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Chestplate Core Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Light Blade Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -4824,6 +5010,430 @@ bhc:blue_heart_canister, Blue Heart Canister
 bhc:relic_apple, Relic Apple
 bhc:wither_bone, Wither Bone
 bhc:heart_amulet, Heart Amulet
+mekanism:electricbow, Electric Bow
+mekanism:dust:0, Iron Dust
+mekanism:dust:1, Gold Dust
+mekanism:dust:2, Osmium Dust
+mekanism:dust:3, Copper Dust
+mekanism:dust:4, Tin Dust
+mekanism:dust:5, Silver Dust
+mekanism:dust:6, Lead Dust
+mekanism:ingot:0, Refined Obsidian Ingot
+mekanism:ingot:1, Osmium Ingot
+mekanism:ingot:2, Bronze Ingot
+mekanism:ingot:3, Glowstone Ingot
+mekanism:ingot:4, Steel Ingot
+mekanism:ingot:5, Copper Ingot
+mekanism:ingot:6, Tin Ingot
+mekanism:nugget:0, Refined Obsidian Nugget
+mekanism:nugget:1, Osmium Nugget
+mekanism:nugget:2, Bronze Nugget
+mekanism:nugget:3, Glowstone Nugget
+mekanism:nugget:4, Steel Nugget
+mekanism:nugget:5, Copper Nugget
+mekanism:nugget:6, Tin Nugget
+mekanism:energytablet, Energy Tablet
+mekanism:speedupgrade, Speed Upgrade
+mekanism:energyupgrade, Energy Upgrade
+mekanism:filterupgrade, Filter Upgrade
+mekanism:mufflingupgrade, Muffling Upgrade
+mekanism:gasupgrade, Gas Upgrade
+mekanism:anchorupgrade, Anchor Upgrade
+mekanism:robit, Robit
+mekanism:atomicdisassembler, Atomic Disassembler
+mekanism:enrichedalloy, Infused Alloy
+mekanism:reinforcedalloy, Reinforced Alloy
+mekanism:atomicalloy, Atomic Alloy
+mekanism:itemproxy, item.ItemProxy.name
+mekanism:controlcircuit:0, Basic Control Circuit
+mekanism:controlcircuit:1, Advanced Control Circuit
+mekanism:controlcircuit:2, Elite Control Circuit
+mekanism:controlcircuit:3, Ultimate Control Circuit
+mekanism:enrichediron, Enriched Iron
+mekanism:compressedcarbon, Compressed Carbon
+mekanism:compressedredstone, Compressed Redstone
+mekanism:compresseddiamond, Compressed Diamond
+mekanism:compressedobsidian, Compressed Obsidian
+mekanism:portableteleporter, Portable Teleporter
+mekanism:teleportationcore, Teleportation Core
+mekanism:clump:0, Iron Clump
+mekanism:clump:1, Gold Clump
+mekanism:clump:2, Osmium Clump
+mekanism:clump:3, Copper Clump
+mekanism:clump:4, Tin Clump
+mekanism:clump:5, Silver Clump
+mekanism:clump:6, Lead Clump
+mekanism:dirtydust:0, Dirty Iron Dust
+mekanism:dirtydust:1, Dirty Gold Dust
+mekanism:dirtydust:2, Dirty Osmium Dust
+mekanism:dirtydust:3, Dirty Copper Dust
+mekanism:dirtydust:4, Dirty Tin Dust
+mekanism:dirtydust:5, Dirty Silver Dust
+mekanism:dirtydust:6, Dirty Lead Dust
+mekanism:configurator, Configurator
+mekanism:networkreader, Network Reader
+mekanism:walkietalkie, Walkie-Talkie
+mekanism:jetpack, Jetpack
+mekanism:dictionary, Dictionary
+mekanism:gasmask, Gas Mask
+mekanism:scubatank, Scuba Tank
+mekanism:balloon:0, §8Black Balloon
+mekanism:balloon:1, §cRed Balloon
+mekanism:balloon:2, §2Green Balloon
+mekanism:balloon:3, §6Brown Balloon
+mekanism:balloon:4, §1Blue Balloon
+mekanism:balloon:5, §5Purple Balloon
+mekanism:balloon:6, §3Cyan Balloon
+mekanism:balloon:7, §7Light Grey Balloon
+mekanism:balloon:8, §8Grey Balloon
+mekanism:balloon:9, §dPink Balloon
+mekanism:balloon:10, §aLime Balloon
+mekanism:balloon:11, §eYellow Balloon
+mekanism:balloon:12, §9Light Blue Balloon
+mekanism:balloon:13, §dMagenta Balloon
+mekanism:balloon:14, §6Orange Balloon
+mekanism:balloon:15, §fWhite Balloon
+mekanism:shard:0, Iron Shard
+mekanism:shard:1, Gold Shard
+mekanism:shard:2, Osmium Shard
+mekanism:shard:3, Copper Shard
+mekanism:shard:4, Tin Shard
+mekanism:shard:5, Silver Shard
+mekanism:shard:6, Lead Shard
+mekanism:electrolyticcore, Electrolytic Core
+mekanism:sawdust, Sawdust
+mekanism:salt, Salt
+mekanism:crystal:0, Iron Crystal
+mekanism:crystal:1, Gold Crystal
+mekanism:crystal:2, Osmium Crystal
+mekanism:crystal:3, Copper Crystal
+mekanism:crystal:4, Tin Crystal
+mekanism:crystal:5, Silver Crystal
+mekanism:crystal:6, Lead Crystal
+mekanism:freerunners, Free Runners
+mekanism:armoredjetpack, Armored Jetpack
+mekanism:configurationcard, Configuration Card
+mekanism:craftingformula, Crafting Formula
+mekanism:seismicreader, Seismic Reader
+mekanism:substrate, Substrate
+mekanism:polyethene:0, HDPE Pellet
+mekanism:polyethene:1, HDPE Rod
+mekanism:polyethene:2, HDPE Sheet
+mekanism:polyethene:3, PlaStick
+mekanism:biofuel, Bio Fuel
+mekanism:flamethrower, Flamethrower
+mekanism:gaugedropper, Gauge Dropper
+mekanism:tierinstaller:0, Basic Tier Installer
+mekanism:tierinstaller:1, Advanced Tier Installer
+mekanism:tierinstaller:2, Elite Tier Installer
+mekanism:tierinstaller:3, Ultimate Tier Installer
+mekanism:otherdust:0, Diamond Dust
+mekanism:otherdust:1, Steel Dust
+mekanism:otherdust:3, Sulfur Dust
+mekanism:otherdust:4, Lithium Dust
+mekanism:otherdust:5, Refined Obsidian Dust
+mekanism:otherdust:6, Obsidian Dust
+mekanism:basicblock:0, Osmium Block
+mekanism:basicblock:1, Bronze Block
+mekanism:basicblock:2, Refined Obsidian
+mekanism:basicblock:3, Charcoal Block
+mekanism:basicblock:4, Refined Glowstone
+mekanism:basicblock:5, Steel Block
+mekanism:basicblock:6, Basic Bin
+mekanism:basicblock:6, Advanced Bin
+mekanism:basicblock:6, Elite Bin
+mekanism:basicblock:6, Ultimate Bin
+mekanism:basicblock:6, Creative Bin
+mekanism:basicblock:7, Teleporter Frame
+mekanism:basicblock:8, Steel Casing
+mekanism:basicblock:9, Dynamic Tank
+mekanism:basicblock:10, Structural Glass
+mekanism:basicblock:11, Dynamic Valve
+mekanism:basicblock:12, Copper Block
+mekanism:basicblock:13, Tin Block
+mekanism:basicblock:14, Thermal Evaporation Controller
+mekanism:basicblock:15, Thermal Evaporation Valve
+mekanism:basicblock2:0, Thermal Evaporation Block
+mekanism:basicblock2:1, Induction Casing
+mekanism:basicblock2:2, Induction Port
+mekanism:basicblock2:3, Basic Induction Cell
+mekanism:basicblock2:3, Advanced Induction Cell
+mekanism:basicblock2:3, Elite Induction Cell
+mekanism:basicblock2:3, Ultimate Induction Cell
+mekanism:basicblock2:4, Basic Induction Provider
+mekanism:basicblock2:4, Advanced Induction Provider
+mekanism:basicblock2:4, Elite Induction Provider
+mekanism:basicblock2:4, Ultimate Induction Provider
+mekanism:basicblock2:5, Superheating Element
+mekanism:basicblock2:6, Pressure Disperser
+mekanism:basicblock2:7, Boiler Casing
+mekanism:basicblock2:8, Boiler Valve
+mekanism:basicblock2:9, Security Desk
+mekanism:machineblock:0, Enrichment Chamber
+mekanism:machineblock:1, Osmium Compressor
+mekanism:machineblock:2, Combiner
+mekanism:machineblock:3, Crusher
+mekanism:machineblock:4, Digital Miner
+mekanism:machineblock:5, Basic Smelting Factory
+mekanism:machineblock:5, Basic Enriching Factory
+mekanism:machineblock:5, Basic Crushing Factory
+mekanism:machineblock:5, Basic Compressing Factory
+mekanism:machineblock:5, Basic Combining Factory
+mekanism:machineblock:5, Basic Purifying Factory
+mekanism:machineblock:5, Basic Injecting Factory
+mekanism:machineblock:5, Basic Infusing Factory
+mekanism:machineblock:5, Basic Sawing Factory
+mekanism:machineblock:6, Advanced Smelting Factory
+mekanism:machineblock:6, Advanced Enriching Factory
+mekanism:machineblock:6, Advanced Crushing Factory
+mekanism:machineblock:6, Advanced Compressing Factory
+mekanism:machineblock:6, Advanced Combining Factory
+mekanism:machineblock:6, Advanced Purifying Factory
+mekanism:machineblock:6, Advanced Injecting Factory
+mekanism:machineblock:6, Advanced Infusing Factory
+mekanism:machineblock:6, Advanced Sawing Factory
+mekanism:machineblock:7, Elite Smelting Factory
+mekanism:machineblock:7, Elite Enriching Factory
+mekanism:machineblock:7, Elite Crushing Factory
+mekanism:machineblock:7, Elite Compressing Factory
+mekanism:machineblock:7, Elite Combining Factory
+mekanism:machineblock:7, Elite Purifying Factory
+mekanism:machineblock:7, Elite Injecting Factory
+mekanism:machineblock:7, Elite Infusing Factory
+mekanism:machineblock:7, Elite Sawing Factory
+mekanism:machineblock:8, Metallurgic Infuser
+mekanism:machineblock:9, Purification Chamber
+mekanism:machineblock:10, Energized Smelter
+mekanism:machineblock:11, Teleporter
+mekanism:machineblock:12, Electric Pump
+mekanism:machineblock:13, Personal Chest
+mekanism:machineblock:14, Chargepad
+mekanism:machineblock:15, Logistical Sorter
+mekanism:machineblock2:0, Rotary Condensentrator
+mekanism:machineblock2:1, Chemical Oxidizer
+mekanism:machineblock2:2, Chemical Infuser
+mekanism:machineblock2:3, Chemical Injection Chamber
+mekanism:machineblock2:4, Electrolytic Separator
+mekanism:machineblock2:5, Precision Sawmill
+mekanism:machineblock2:6, Chemical Dissolution Chamber
+mekanism:machineblock2:7, Chemical Washer
+mekanism:machineblock2:8, Chemical Crystallizer
+mekanism:machineblock2:9, Seismic Vibrator
+mekanism:machineblock2:10, Pressurized Reaction Chamber
+mekanism:machineblock2:11, Basic Fluid Tank
+mekanism:machineblock2:11, Advanced Fluid Tank
+mekanism:machineblock2:11, Elite Fluid Tank
+mekanism:machineblock2:11, Ultimate Fluid Tank
+mekanism:machineblock2:11, Creative Fluid Tank
+mekanism:machineblock2:12, Fluidic Plenisher
+mekanism:machineblock2:13, Laser
+mekanism:machineblock2:14, Laser Amplifier
+mekanism:machineblock2:15, Laser Tractor Beam
+mekanism:machineblock3:0, Quantum Entangloporter
+mekanism:machineblock3:1, Solar Neutron Activator
+mekanism:machineblock3:3, Oredictionificator
+mekanism:machineblock3:4, Resistive Heater
+mekanism:machineblock3:5, Formulaic Assemblicator
+mekanism:machineblock3:6, Fuelwood Heater
+mekanism:oreblock:0, Osmium Ore
+mekanism:oreblock:1, Copper Ore
+mekanism:oreblock:2, Tin Ore
+mekanism:energycube:0, Basic Energy Cube
+mekanism:energycube:0, Basic Energy Cube
+mekanism:energycube:0, Advanced Energy Cube
+mekanism:energycube:0, Advanced Energy Cube
+mekanism:energycube:0, Elite Energy Cube
+mekanism:energycube:0, Elite Energy Cube
+mekanism:energycube:0, Ultimate Energy Cube
+mekanism:energycube:0, Ultimate Energy Cube
+mekanism:energycube:0, Creative Energy Cube
+mekanism:energycube:0, Creative Energy Cube
+mekanism:transmitter:0, Basic Universal Cable
+mekanism:transmitter:0, Advanced Universal Cable
+mekanism:transmitter:0, Elite Universal Cable
+mekanism:transmitter:0, Ultimate Universal Cable
+mekanism:transmitter:1, Basic Mechanical Pipe
+mekanism:transmitter:1, Advanced Mechanical Pipe
+mekanism:transmitter:1, Elite Mechanical Pipe
+mekanism:transmitter:1, Ultimate Mechanical Pipe
+mekanism:transmitter:2, Basic Pressurized Tube
+mekanism:transmitter:2, Advanced Pressurized Tube
+mekanism:transmitter:2, Elite Pressurized Tube
+mekanism:transmitter:2, Ultimate Pressurized Tube
+mekanism:transmitter:3, Basic Logistical Transporter
+mekanism:transmitter:3, Advanced Logistical Transporter
+mekanism:transmitter:3, Elite Logistical Transporter
+mekanism:transmitter:3, Ultimate Logistical Transporter
+mekanism:transmitter:4, Restrictive Transporter
+mekanism:transmitter:5, Diversion Transporter
+mekanism:transmitter:6, Basic Thermodynamic Conductor
+mekanism:transmitter:6, Advanced Thermodynamic Conductor
+mekanism:transmitter:6, Elite Thermodynamic Conductor
+mekanism:transmitter:6, Ultimate Thermodynamic Conductor
+mekanism:obsidiantnt, Obsidian TNT
+mekanism:boundingblock, Bounding Block
+mekanism:gastank:0, Basic Gas Tank
+mekanism:gastank:0, Advanced Gas Tank
+mekanism:gastank:0, Elite Gas Tank
+mekanism:gastank:0, Ultimate Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:cardboardbox, Cardboard Box
+mekanism:glowpanel:0, §8Black Glow Panel
+mekanism:glowpanel:1, §cRed Glow Panel
+mekanism:glowpanel:2, §2Green Glow Panel
+mekanism:glowpanel:3, §6Brown Glow Panel
+mekanism:glowpanel:4, §1Blue Glow Panel
+mekanism:glowpanel:5, §5Purple Glow Panel
+mekanism:glowpanel:6, §3Cyan Glow Panel
+mekanism:glowpanel:7, §7Light Grey Glow Panel
+mekanism:glowpanel:8, §8Grey Glow Panel
+mekanism:glowpanel:9, §dPink Glow Panel
+mekanism:glowpanel:10, §aLime Glow Panel
+mekanism:glowpanel:11, §eYellow Glow Panel
+mekanism:glowpanel:12, §9Light Blue Glow Panel
+mekanism:glowpanel:13, §dMagenta Glow Panel
+mekanism:glowpanel:14, §6Orange Glow Panel
+mekanism:glowpanel:15, §fWhite Glow Panel
+mekanism:plasticblock:0, §8Black Plastic Block
+mekanism:plasticblock:1, §cRed Plastic Block
+mekanism:plasticblock:2, §2Green Plastic Block
+mekanism:plasticblock:3, §6Brown Plastic Block
+mekanism:plasticblock:4, §1Blue Plastic Block
+mekanism:plasticblock:5, §5Purple Plastic Block
+mekanism:plasticblock:6, §3Cyan Plastic Block
+mekanism:plasticblock:7, §7Light Grey Plastic Block
+mekanism:plasticblock:8, §8Grey Plastic Block
+mekanism:plasticblock:9, §dPink Plastic Block
+mekanism:plasticblock:10, §aLime Plastic Block
+mekanism:plasticblock:11, §eYellow Plastic Block
+mekanism:plasticblock:12, §9Light Blue Plastic Block
+mekanism:plasticblock:13, §dMagenta Plastic Block
+mekanism:plasticblock:14, §6Orange Plastic Block
+mekanism:plasticblock:15, §fWhite Plastic Block
+mekanism:slickplasticblock:0, §8Black Slick Plastic Block
+mekanism:slickplasticblock:1, §cRed Slick Plastic Block
+mekanism:slickplasticblock:2, §2Green Slick Plastic Block
+mekanism:slickplasticblock:3, §6Brown Slick Plastic Block
+mekanism:slickplasticblock:4, §1Blue Slick Plastic Block
+mekanism:slickplasticblock:5, §5Purple Slick Plastic Block
+mekanism:slickplasticblock:6, §3Cyan Slick Plastic Block
+mekanism:slickplasticblock:7, §7Light Grey Slick Plastic Block
+mekanism:slickplasticblock:8, §8Grey Slick Plastic Block
+mekanism:slickplasticblock:9, §dPink Slick Plastic Block
+mekanism:slickplasticblock:10, §aLime Slick Plastic Block
+mekanism:slickplasticblock:11, §eYellow Slick Plastic Block
+mekanism:slickplasticblock:12, §9Light Blue Slick Plastic Block
+mekanism:slickplasticblock:13, §dMagenta Slick Plastic Block
+mekanism:slickplasticblock:14, §6Orange Slick Plastic Block
+mekanism:slickplasticblock:15, §fWhite Slick Plastic Block
+mekanism:glowplasticblock:0, §8Black Plastic Glow Block
+mekanism:glowplasticblock:1, §cRed Plastic Glow Block
+mekanism:glowplasticblock:2, §2Green Plastic Glow Block
+mekanism:glowplasticblock:3, §6Brown Plastic Glow Block
+mekanism:glowplasticblock:4, §1Blue Plastic Glow Block
+mekanism:glowplasticblock:5, §5Purple Plastic Glow Block
+mekanism:glowplasticblock:6, §3Cyan Plastic Glow Block
+mekanism:glowplasticblock:7, §7Light Grey Plastic Glow Block
+mekanism:glowplasticblock:8, §8Grey Plastic Glow Block
+mekanism:glowplasticblock:9, §dPink Plastic Glow Block
+mekanism:glowplasticblock:10, §aLime Plastic Glow Block
+mekanism:glowplasticblock:11, §eYellow Plastic Glow Block
+mekanism:glowplasticblock:12, §9Light Blue Plastic Glow Block
+mekanism:glowplasticblock:13, §dMagenta Plastic Glow Block
+mekanism:glowplasticblock:14, §6Orange Plastic Glow Block
+mekanism:glowplasticblock:15, §fWhite Plastic Glow Block
+mekanism:reinforcedplasticblock:0, §8Black Reinforced Plastic Block
+mekanism:reinforcedplasticblock:1, §cRed Reinforced Plastic Block
+mekanism:reinforcedplasticblock:2, §2Green Reinforced Plastic Block
+mekanism:reinforcedplasticblock:3, §6Brown Reinforced Plastic Block
+mekanism:reinforcedplasticblock:4, §1Blue Reinforced Plastic Block
+mekanism:reinforcedplasticblock:5, §5Purple Reinforced Plastic Block
+mekanism:reinforcedplasticblock:6, §3Cyan Reinforced Plastic Block
+mekanism:reinforcedplasticblock:7, §7Light Grey Reinforced Plastic Block
+mekanism:reinforcedplasticblock:8, §8Grey Reinforced Plastic Block
+mekanism:reinforcedplasticblock:9, §dPink Reinforced Plastic Block
+mekanism:reinforcedplasticblock:10, §aLime Reinforced Plastic Block
+mekanism:reinforcedplasticblock:11, §eYellow Reinforced Plastic Block
+mekanism:reinforcedplasticblock:12, §9Light Blue Reinforced Plastic Block
+mekanism:reinforcedplasticblock:13, §dMagenta Reinforced Plastic Block
+mekanism:reinforcedplasticblock:14, §6Orange Reinforced Plastic Block
+mekanism:reinforcedplasticblock:15, §fWhite Reinforced Plastic Block
+mekanism:roadplasticblock:0, §8Black Plastic Road
+mekanism:roadplasticblock:1, §cRed Plastic Road
+mekanism:roadplasticblock:2, §2Green Plastic Road
+mekanism:roadplasticblock:3, §6Brown Plastic Road
+mekanism:roadplasticblock:4, §1Blue Plastic Road
+mekanism:roadplasticblock:5, §5Purple Plastic Road
+mekanism:roadplasticblock:6, §3Cyan Plastic Road
+mekanism:roadplasticblock:7, §7Light Grey Plastic Road
+mekanism:roadplasticblock:8, §8Grey Plastic Road
+mekanism:roadplasticblock:9, §dPink Plastic Road
+mekanism:roadplasticblock:10, §aLime Plastic Road
+mekanism:roadplasticblock:11, §eYellow Plastic Road
+mekanism:roadplasticblock:12, §9Light Blue Plastic Road
+mekanism:roadplasticblock:13, §dMagenta Plastic Road
+mekanism:roadplasticblock:14, §6Orange Plastic Road
+mekanism:roadplasticblock:15, §fWhite Plastic Road
+mekanism:plasticfence:0, §8Black Plastic Barrier
+mekanism:plasticfence:1, §cRed Plastic Barrier
+mekanism:plasticfence:2, §2Green Plastic Barrier
+mekanism:plasticfence:3, §6Brown Plastic Barrier
+mekanism:plasticfence:4, §1Blue Plastic Barrier
+mekanism:plasticfence:5, §5Purple Plastic Barrier
+mekanism:plasticfence:6, §3Cyan Plastic Barrier
+mekanism:plasticfence:7, §7Light Grey Plastic Barrier
+mekanism:plasticfence:8, §8Grey Plastic Barrier
+mekanism:plasticfence:9, §dPink Plastic Barrier
+mekanism:plasticfence:10, §aLime Plastic Barrier
+mekanism:plasticfence:11, §eYellow Plastic Barrier
+mekanism:plasticfence:12, §9Light Blue Plastic Barrier
+mekanism:plasticfence:13, §dMagenta Plastic Barrier
+mekanism:plasticfence:14, §6Orange Plastic Barrier
+mekanism:plasticfence:15, §fWhite Plastic Barrier
+mekanism:saltblock, Salt Block
+mekanismgenerators:solarpanel, Solar Panel
+mekanismgenerators:hohlraum, Hohlraum
+mekanismgenerators:turbineblade, Turbine Blade
+mekanismgenerators:generator:0, Heat Generator
+mekanismgenerators:generator:1, Solar Generator
+mekanismgenerators:generator:3, Gas-Burning Generator
+mekanismgenerators:generator:4, Bio-Generator
+mekanismgenerators:generator:5, Advanced Solar Generator
+mekanismgenerators:generator:6, Wind Generator
+mekanismgenerators:generator:7, Turbine Rotor
+mekanismgenerators:generator:8, Rotational Complex
+mekanismgenerators:generator:9, Electromagnetic Coil
+mekanismgenerators:generator:10, Turbine Casing
+mekanismgenerators:generator:11, Turbine Valve
+mekanismgenerators:generator:12, Turbine Vent
+mekanismgenerators:generator:13, Saturating Condenser
+mekanismgenerators:reactor:0, Reactor Controller
+mekanismgenerators:reactor:1, Reactor Frame
+mekanismgenerators:reactor:2, Reactor Port
+mekanismgenerators:reactor:3, Reactor Logic Adapter
+mekanismgenerators:reactorglass:0, Reactor Glass
+mekanismgenerators:reactorglass:1, Laser Focus Matrix
+bfr:reactor:0, Reactor Controller
+bfr:reactor:1, Reactor Frame
+bfr:reactor:2, Reactor Port
+bfr:reactor:3, Reactor Logic Adapter
+bfr:reactorglass:0, Reactor Glass
+bfr:reactorglass:1, Laser Focus Matrix
 conarm:helmet_core:0, Wooden Helmet Core
 conarm:helmet_core:0, Stone Helmet Core
 conarm:helmet_core:0, Flint Helmet Core
@@ -4869,6 +5479,9 @@ conarm:helmet_core:0, Yellorium Helmet Core
 conarm:helmet_core:0, Cyanite Helmet Core
 conarm:helmet_core:0, Ludicrite Helmet Core
 conarm:helmet_core:0, Blutonium Helmet Core
+conarm:helmet_core:0, Osmium Helmet Core
+conarm:helmet_core:0, Refined Obsidian Helmet Core
+conarm:helmet_core:0, Refined Glowstone Helmet Core
 conarm:helmet_core:0, Thaumium Helmet Core
 conarm:helmet_core:0, Lavium Helmet Core
 conarm:helmet_core:0, Qivium Helmet Core
@@ -4917,6 +5530,9 @@ conarm:armor_trim:0, Yellorium Armor Trim
 conarm:armor_trim:0, Cyanite Armor Trim
 conarm:armor_trim:0, Ludicrite Armor Trim
 conarm:armor_trim:0, Blutonium Armor Trim
+conarm:armor_trim:0, Osmium Armor Trim
+conarm:armor_trim:0, Refined Obsidian Armor Trim
+conarm:armor_trim:0, Refined Glowstone Armor Trim
 conarm:armor_trim:0, Thaumium Armor Trim
 conarm:armor_trim:0, Lavium Armor Trim
 conarm:armor_trim:0, Qivium Armor Trim
@@ -4965,6 +5581,9 @@ conarm:armor_plate:0, Yellorium Armor Plates
 conarm:armor_plate:0, Cyanite Armor Plates
 conarm:armor_plate:0, Ludicrite Armor Plates
 conarm:armor_plate:0, Blutonium Armor Plates
+conarm:armor_plate:0, Osmium Armor Plates
+conarm:armor_plate:0, Refined Obsidian Armor Plates
+conarm:armor_plate:0, Refined Glowstone Armor Plates
 conarm:armor_plate:0, Thaumium Armor Plates
 conarm:armor_plate:0, Lavium Armor Plates
 conarm:armor_plate:0, Qivium Armor Plates
@@ -5013,6 +5632,9 @@ conarm:chest_core:0, Yellorium Chestplate Core
 conarm:chest_core:0, Cyanite Chestplate Core
 conarm:chest_core:0, Ludicrite Chestplate Core
 conarm:chest_core:0, Blutonium Chestplate Core
+conarm:chest_core:0, Osmium Chestplate Core
+conarm:chest_core:0, Refined Obsidian Chestplate Core
+conarm:chest_core:0, Refined Glowstone Chestplate Core
 conarm:chest_core:0, Thaumium Chestplate Core
 conarm:chest_core:0, Lavium Chestplate Core
 conarm:chest_core:0, Qivium Chestplate Core
@@ -5061,6 +5683,9 @@ conarm:leggings_core:0, Yellorium Leggings Core
 conarm:leggings_core:0, Cyanite Leggings Core
 conarm:leggings_core:0, Ludicrite Leggings Core
 conarm:leggings_core:0, Blutonium Leggings Core
+conarm:leggings_core:0, Osmium Leggings Core
+conarm:leggings_core:0, Refined Obsidian Leggings Core
+conarm:leggings_core:0, Refined Glowstone Leggings Core
 conarm:leggings_core:0, Thaumium Leggings Core
 conarm:leggings_core:0, Lavium Leggings Core
 conarm:leggings_core:0, Qivium Leggings Core
@@ -5109,6 +5734,9 @@ conarm:boots_core:0, Yellorium Boots Core
 conarm:boots_core:0, Cyanite Boots Core
 conarm:boots_core:0, Ludicrite Boots Core
 conarm:boots_core:0, Blutonium Boots Core
+conarm:boots_core:0, Osmium Boots Core
+conarm:boots_core:0, Refined Obsidian Boots Core
+conarm:boots_core:0, Refined Glowstone Boots Core
 conarm:boots_core:0, Thaumium Boots Core
 conarm:boots_core:0, Lavium Boots Core
 conarm:boots_core:0, Qivium Boots Core
@@ -5183,9 +5811,14 @@ conarm:polishing_kit:0, Yellorium Polishing Kit
 conarm:polishing_kit:0, Cyanite Polishing Kit
 conarm:polishing_kit:0, Ludicrite Polishing Kit
 conarm:polishing_kit:0, Blutonium Polishing Kit
+conarm:polishing_kit:0, Osmium Polishing Kit
+conarm:polishing_kit:0, Refined Obsidian Polishing Kit
+conarm:polishing_kit:0, Refined Glowstone Polishing Kit
 conarm:polishing_kit:0, Thaumium Polishing Kit
 conarm:polishing_kit:0, Lavium Polishing Kit
 conarm:polishing_kit:0, Qivium Polishing Kit
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
@@ -5617,24 +6250,6 @@ bigreactors:reactorcomputerport, Reactor Computer Port (Legacy)
 bigreactors:reactorglass, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod, Reactor Fuel Rod (Legacy)
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -5755,10 +6370,93 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 lootr:lootr_chest, Loot Chest
 lootr:lootr_trapped_chest, Loot Chest
 lootr:lootr_shulker, Loot Shulker
 lootr:trophy, Centennial Trophy
+mekanismtools:woodpaxel, Wood Paxel
+mekanismtools:stonepaxel, Stone Paxel
+mekanismtools:ironpaxel, Iron Paxel
+mekanismtools:diamondpaxel, Diamond Paxel
+mekanismtools:goldpaxel, Gold Paxel
+mekanismtools:glowstonepickaxe, Glowstone Pickaxe
+mekanismtools:glowstoneaxe, Glowstone Axe
+mekanismtools:glowstoneshovel, Glowstone Shovel
+mekanismtools:glowstonehoe, Glowstone Hoe
+mekanismtools:glowstonesword, Glowstone Sword
+mekanismtools:glowstonepaxel, Glowstone Paxel
+mekanismtools:glowstonehelmet, Glowstone Helmet
+mekanismtools:glowstonechestplate, Glowstone Chestplate
+mekanismtools:glowstoneleggings, Glowstone Leggings
+mekanismtools:glowstoneboots, Glowstone Boots
+mekanismtools:bronzepickaxe, Bronze Pickaxe
+mekanismtools:bronzeaxe, Bronze Axe
+mekanismtools:bronzeshovel, Bronze Shovel
+mekanismtools:bronzehoe, Bronze Hoe
+mekanismtools:bronzesword, Bronze Sword
+mekanismtools:bronzepaxel, Bronze Paxel
+mekanismtools:bronzehelmet, Bronze Helmet
+mekanismtools:bronzechestplate, Bronze Chestplate
+mekanismtools:bronzeleggings, Bronze Leggings
+mekanismtools:bronzeboots, Bronze Boots
+mekanismtools:osmiumpickaxe, Osmium Pickaxe
+mekanismtools:osmiumaxe, Osmium Axe
+mekanismtools:osmiumshovel, Osmium Shovel
+mekanismtools:osmiumhoe, Osmium Hoe
+mekanismtools:osmiumsword, Osmium Sword
+mekanismtools:osmiumpaxel, Osmium Paxel
+mekanismtools:osmiumhelmet, Osmium Helmet
+mekanismtools:osmiumchestplate, Osmium Chestplate
+mekanismtools:osmiumleggings, Osmium Leggings
+mekanismtools:osmiumboots, Osmium Boots
+mekanismtools:obsidianpickaxe, Obsidian Pickaxe
+mekanismtools:obsidianaxe, Obsidian Axe
+mekanismtools:obsidianshovel, Obsidian Shovel
+mekanismtools:obsidianhoe, Obsidian Hoe
+mekanismtools:obsidiansword, Obsidian Sword
+mekanismtools:obsidianpaxel, Obsidian Paxel
+mekanismtools:obsidianhelmet, Obsidian Helmet
+mekanismtools:obsidianchestplate, Obsidian Chestplate
+mekanismtools:obsidianleggings, Obsidian Leggings
+mekanismtools:obsidianboots, Obsidian Boots
+mekanismtools:lapislazulipickaxe, Lapis Lazuli Pickaxe
+mekanismtools:lapislazuliaxe, Lapis Lazuli Axe
+mekanismtools:lapislazulishovel, Lapis Lazuli Shovel
+mekanismtools:lapislazulihoe, Lapis Lazuli Hoe
+mekanismtools:lapislazulisword, Lapis Lazuli Sword
+mekanismtools:lapislazulipaxel, Lapis Lazuli Paxel
+mekanismtools:lapislazulihelmet, Lapis Lazuli Helmet
+mekanismtools:lapislazulichestplate, Lapis Lazuli Chestplate
+mekanismtools:lapislazulileggings, Lapis Lazuli Leggings
+mekanismtools:lapislazuliboots, Lapis Lazuli Boots
+mekanismtools:steelpickaxe, Steel Pickaxe
+mekanismtools:steelaxe, Steel Axe
+mekanismtools:steelshovel, Steel Shovel
+mekanismtools:steelhoe, Steel Hoe
+mekanismtools:steelsword, Steel Sword
+mekanismtools:steelpaxel, Steel Paxel
+mekanismtools:steelhelmet, Steel Helmet
+mekanismtools:steelchestplate, Steel Chestplate
+mekanismtools:steelleggings, Steel Leggings
+mekanismtools:steelboots, Steel Boots
 mutantbeasts:chemical_x, Chemical X
 mutantbeasts:creeper_minion_tracker, Creeper Minion Tracker
 mutantbeasts:creeper_shard, Creeper Shard
@@ -5861,129 +6559,130 @@ nb:netherite_shovel, Netherite Shovel
 nb:netherite_axe, Netherite Axe
 nb:netherite_pickaxe, Netherite Pickaxe
 nb:netherite_hoe, Netherite Hoe
-hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
-hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
-hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
-hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
-hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
-hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
-hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
-hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
-hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
-hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
-hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
-hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
-hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
+neenergistics:pattern_interface, Pattern Interface(WIP)
 hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
-hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
-hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
-hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
-hbm:mp_warhead_15_he, Size 15 HE Warhead
-hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
-hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_c_1, Tier 1 Missile Targeting Circuit
-hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
 hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
-hbm:mp_warhead_10_he, Size 10 HE Warhead
-hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
-hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
-hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
-hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
-hbm:mp_stability_15_thin, Size 15 Thin Fins
-hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
-hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
-hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
-hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
-hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
-hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
-hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
-hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
-hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
-hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
-hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
-hbm:mp_warhead_15_n2, Size 15 N² Mine
-hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
-hbm:mp_stability_10_flat, Size 10 Flat Fins
-hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_15_balefire, Size 15 BF Warhead
-hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
-hbm:mp_c_2, Tier 2 Missile Targeting Circuit
-hbm:mp_stability_10_cruise, Size 10 Cruise Fins
-hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
-hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
-hbm:mp_c_3, Tier 3 Missile Targeting Circuit
-hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
-hbm:mp_c_4, Tier 4 Missile Targeting Circuit
-hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
 hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
+hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
+hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
+hbm:mp_c_3, Tier 3 Missile Targeting Circuit
+hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
+hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
+hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
+hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
 hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
+hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_stability_10_flat, Size 10 Flat Fins
+hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
+hbm:mp_c_1, Tier 1 Missile Targeting Circuit
+hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
+hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
+hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
+hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
+hbm:mp_stability_10_cruise, Size 10 Cruise Fins
+hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
+hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
+hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
+hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
+hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
+hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
+hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
 hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
-hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
 hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
 hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
-hbm:mp_stability_15_flat, Size 15 Flat Fins
-hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
-hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
-hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
-hbm:mp_warhead_15_turbine, Size 15 Jet Engine
-hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
-hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
-hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
-hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
+hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
+hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
+hbm:mp_c_4, Tier 4 Missile Targeting Circuit
+hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
 hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
-hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
-hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
-hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
-hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
-hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
-hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
-hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
-hbm:mp_c_5, Tier 5 Missile Targeting Circuit
-hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
+hbm:mp_c_2, Tier 2 Missile Targeting Circuit
+hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
+hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
+hbm:mp_stability_15_thin, Size 15 Thin Fins
+hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
+hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
 hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
-hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
+hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
 hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
+hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
+hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
+hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
+hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
+hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
+hbm:mp_warhead_15_balefire, Size 15 BF Warhead
+hbm:mp_c_5, Tier 5 Missile Targeting Circuit
+hbm:mp_warhead_10_he, Size 10 HE Warhead
+hbm:mp_warhead_15_turbine, Size 15 Jet Engine
+hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
+hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
+hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
+hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
+hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
+hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
+hbm:mp_stability_15_flat, Size 15 Flat Fins
+hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
+hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
+hbm:mp_warhead_15_he, Size 15 HE Warhead
+hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
+hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
+hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
+hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
 hbm:mp_stability_10_space, Size 10 Space Fins
+hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
+hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
+hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
+hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
+hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
+hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
+hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
+hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
+hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
+hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
+hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
+hbm:mp_warhead_15_n2, Size 15 N² Mine
+hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
+hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
+hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
+hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
+hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
 hbmspace:insert_cmb, CMB Insert
 hbm:ore_oil, Oil Deposit
 oe:guardian_spike, Guardian Spike
@@ -8248,22 +8947,6 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-tinkers_reforged:kovar_ingot, Kovar Ingot
-tinkers_reforged:kovar_nugget, Kovar Nugget
-tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
-tinkers_reforged:kovar_plate, Kovar Plate
-tinkers_reforged:kovar_gear, Kovar Gear
-tinkers_reforged:lavium_ingot, Lavium Ingot
-tinkers_reforged:lavium_nugget, Lavium Nugget
-tinkers_reforged:lavium_dust, Lavium Dust
-tinkers_reforged:lavium_plate, Lavium Plate
-tinkers_reforged:lavium_gear, Lavium Gear
-tinkers_reforged:qivium_ingot, Qivium Ingot
-tinkers_reforged:qivium_nugget, Qivium Nugget
-tinkers_reforged:qivium_dust, Qivium Dust
-tinkers_reforged:qivium_plate, Qivium Plate
-tinkers_reforged:qivium_gear, Qivium Gear
-tinkers_reforged:kovar_glass, Kovar Glass
 tinkers_reforged:gladius, Gladius
 tinkers_reforged:light_blade:0, Wooden Light Blade
 tinkers_reforged:light_blade:0, Stone Light Blade
@@ -8310,12 +8993,31 @@ tinkers_reforged:light_blade:0, Yellorium Light Blade
 tinkers_reforged:light_blade:0, Cyanite Light Blade
 tinkers_reforged:light_blade:0, Ludicrite Light Blade
 tinkers_reforged:light_blade:0, Blutonium Light Blade
+tinkers_reforged:light_blade:0, Osmium Light Blade
+tinkers_reforged:light_blade:0, Refined Obsidian Light Blade
+tinkers_reforged:light_blade:0, Refined Glowstone Light Blade
 tinkers_reforged:light_blade:0, Thaumium Light Blade
 tinkers_reforged:light_blade:0, Lavium Light Blade
 tinkers_reforged:light_blade:0, Qivium Light Blade
 tinkers_reforged:light_blade:0, Treated Wood Light Blade
 tinkers_reforged:light_blade:0, Constantan Light Blade
 tinkers_reforged:lightsword, Lightsword
+tinkers_reforged:kovar_ingot, Kovar Ingot
+tinkers_reforged:kovar_nugget, Kovar Nugget
+tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
+tinkers_reforged:kovar_plate, Kovar Plate
+tinkers_reforged:kovar_gear, Kovar Gear
+tinkers_reforged:lavium_ingot, Lavium Ingot
+tinkers_reforged:lavium_nugget, Lavium Nugget
+tinkers_reforged:lavium_dust, Lavium Dust
+tinkers_reforged:lavium_plate, Lavium Plate
+tinkers_reforged:lavium_gear, Lavium Gear
+tinkers_reforged:qivium_ingot, Qivium Ingot
+tinkers_reforged:qivium_nugget, Qivium Nugget
+tinkers_reforged:qivium_dust, Qivium Dust
+tinkers_reforged:qivium_plate, Qivium Plate
+tinkers_reforged:qivium_gear, Qivium Gear
+tinkers_reforged:kovar_glass, Kovar Glass
 xpbook:xp_book, OLD - RIGHTCLICK TO CONVERT
 xpbook:xp_tome, XP Tome
 immersiveengineering:ore:0, Copper Ore
@@ -8638,19 +9340,6 @@ immersiveengineering:steel_armor_feet, Steel Boots
 immersiveengineering:steel_armor_legs, Steel Leggings
 immersiveengineering:steel_armor_chest, Steel Chestplate
 immersiveengineering:steel_armor_head, Steel Helmet
-chancecubes:chance_pendant_tier1, Tier 1 Chance Pendant
-chancecubes:chance_pendant_tier2, Tier 2 Chance Pendant
-chancecubes:chance_pendant_tier3, Tier 3 Chance Pendant
-chancecubes:silk_touch_pendant, Silk Touch Chance Pendant
-chancecubes:creative_pendant, Creative Chance Pendant
-chancecubes:reward_selector_pendant, Reward Selector Pendant
-chancecubes:single_use_reward_selector_pendant, Single Use Reward Selector Pendant
-chancecubes:chance_cube, Chance Cube
-chancecubes:chance_icosahedron, Chance Icosahedron
-chancecubes:giant_chance_cube, Giant Chance Cube
-chancecubes:compact_giant_chance_cube, Compact Giant Chance Cube
-chancecubes:cube_dispenser, Chance Cube Dispenser
-chancecubes:scanner, Chance Cube Scanner
 cyclicmagic:nether_redstone_ore, Nether Redstone Ore
 cyclicmagic:nether_iron_ore, Nether Iron Ore
 cyclicmagic:nether_gold_ore, Nether Gold Ore
@@ -8897,6 +9586,35 @@ cyclicmagic:void_anvil, Void Anvil
 cyclicmagic:dropper_exact, Precise Dropper
 cyclicmagic:fluid_placer, Fluid Placer
 cyclicmagic:water_candle, Water Candle
+chancecubes:chance_pendant_tier1, Tier 1 Chance Pendant
+chancecubes:chance_pendant_tier2, Tier 2 Chance Pendant
+chancecubes:chance_pendant_tier3, Tier 3 Chance Pendant
+chancecubes:silk_touch_pendant, Silk Touch Chance Pendant
+chancecubes:creative_pendant, Creative Chance Pendant
+chancecubes:reward_selector_pendant, Reward Selector Pendant
+chancecubes:single_use_reward_selector_pendant, Single Use Reward Selector Pendant
+chancecubes:chance_cube, Chance Cube
+chancecubes:chance_icosahedron, Chance Icosahedron
+chancecubes:giant_chance_cube, Giant Chance Cube
+chancecubes:compact_giant_chance_cube, Compact Giant Chance Cube
+chancecubes:cube_dispenser, Chance Cube Dispenser
+chancecubes:scanner, Chance Cube Scanner
+ae2fc:fluid_discretizer, ME Fluid Discretizer
+ae2fc:fluid_pattern_encoder, Fluid Pattern Encoder
+ae2fc:fluid_packet_decoder, ME Fluid Packet Decoder
+ae2fc:ingredient_buffer, Ingredient Buffer
+ae2fc:large_ingredient_buffer, Large Ingredient Buffer
+ae2fc:burette, Precision Burette
+ae2fc:dual_interface, ME Dual Interface
+ae2fc:fluid_level_maintainer, ME Fluid Level Maintainer
+ae2fc:fluid_assembler, ME Fluid Assembler
+ae2fc:fluid_drop, Drop of %s
+ae2fc:fluid_packet, Fluid Packet
+ae2fc:dense_encoded_pattern, Encoded Pattern
+ae2fc:dense_craft_encoded_pattern, Encoded Pattern
+ae2fc:part_dual_interface, ME Dual Interface
+ae2fc:part_fluid_pattern_terminal, ME Fluid Pattern Terminal
+ae2fc:part_fluid_pattern_ex_terminal, ME Extended Processing Fluid Pattern Terminal
 mca:egg_male, Spawn Male Villager
 mca:egg_female, Spawn Female Villager
 mca:wedding_ring, Wedding Ring

@@ -145,7 +145,13 @@ file = "config/attributefix.cfg"
 file = "config/baubles.cfg"
 
 [[files]]
+file = "config/better_fusion_reactor.cfg"
+
+[[files]]
 file = "config/betteradvancements/betteradvancements.cfg"
+
+[[files]]
+file = "config/bfr_coolant_recipes.cfg"
 
 [[files]]
 file = "config/bhc/BaubleyHeartCanisters.cfg"
@@ -293,6 +299,9 @@ file = "config/fluidlogged_api/internal/immersiveengineering/whitelist.jsonc"
 
 [[files]]
 file = "config/fluidlogged_api/internal/ironchest/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/mekanism/whitelist.jsonc"
 
 [[files]]
 file = "config/fluidlogged_api/internal/projecte/whitelist.jsonc"
@@ -541,6 +550,12 @@ file = "config/mahoutsukai.cfg"
 file = "config/mca.cfg"
 
 [[files]]
+file = "config/mekanism.cfg"
+
+[[files]]
+file = "config/mekanism/BoxBlacklist.txt"
+
+[[files]]
 file = "config/mixinbooter.cfg"
 
 [[files]]
@@ -557,6 +572,9 @@ file = "config/mutantbeasts.cfg"
 
 [[files]]
 file = "config/naturescompass.cfg"
+
+[[files]]
+file = "config/neenergistics/neenergistics.cfg"
 
 [[files]]
 file = "config/nether_api/betternether.cfg"
@@ -656,6 +674,9 @@ file = "config/responsiveshields.cfg"
 
 [[files]]
 file = "config/saplanting.json"
+
+[[files]]
+file = "config/sarosdefaultoptions.cfg"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -802,9 +823,6 @@ file = "config/trinkets/Trinkets_And_Baubles.cfg"
 file = "config/uteamcore/client.cfg"
 
 [[files]]
-file = "config/valkyrienskies.cfg"
-
-[[files]]
 file = "config/veinminer/general.cfg"
 
 [[files]]
@@ -884,15 +902,27 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ae2-fluid-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ae2uel-extra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
+file = "mods/armorpoints.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/armorpoints.pw.toml"
+file = "mods/astral-sorcery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/astrological-sorcery.pw.toml"
 metafile = true
 
 [[files]]
@@ -917,6 +947,10 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
 metafile = true
 
 [[files]]
@@ -1028,6 +1062,14 @@ file = "mods/faster-ladder-climbing.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fluidlogged-api.pw.toml"
 metafile = true
 
@@ -1092,6 +1134,18 @@ file = "mods/mantle.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
 metafile = true
 
@@ -1136,11 +1190,31 @@ file = "mods/netherportalfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/oceanic-expanse.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/packagedastral.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/packagedauto.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/packagedthaumic.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/phantoms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
 metafile = true
 
 [[files]]
@@ -1181,6 +1255,10 @@ metafile = true
 
 [[files]]
 file = "mods/saplanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/saros-default-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -1268,6 +1346,10 @@ file = "mods/swimming-crawling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tc4researchportreborn.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-6-aspects-for-jei.pw.toml"
 metafile = true
 
@@ -1329,10 +1411,6 @@ metafile = true
 
 [[files]]
 file = "mods/unseens-nether-backport.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]

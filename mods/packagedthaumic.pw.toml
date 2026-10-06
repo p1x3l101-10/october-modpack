@@ -1,0 +1,13 @@
+name = "PackagedThaumic"
+filename = "PackagedThaumic-1.12.2-1.0.3.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qjnayfYX/versions/dV5nuUFA/PackagedThaumic-1.12.2-1.0.3.20.jar"
+hash-format = "sha512"
+hash = "c584aa0fa23c89525a280ca8124d28f3756fcb3b0061a0904bfc8bf46f5fa7a6dce31ac1d6061a433eef77a03b098162951e40cd1c3fbe0a77e7cb2de7a74d41"
+
+[update]
+[update.modrinth]
+mod-id = "qjnayfYX"
+version = "dV5nuUFA"

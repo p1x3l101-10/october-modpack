@@ -1,0 +1,13 @@
+name = "AE2UEL Extra"
+filename = "appliedenergistics2-v1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoVxy2ZW/versions/HsrDByTp/appliedenergistics2-v1.0.5.jar"
+hash-format = "sha512"
+hash = "e0563814ba083e3249b4cb1a760333f57263cfbd71fb91883e3e2fa9f35438f9d545f70bc78428a041fb0f2ee2e29d38fbd4c9532f963176b222852e237dbd77"
+
+[update]
+[update.modrinth]
+mod-id = "DoVxy2ZW"
+version = "HsrDByTp"
