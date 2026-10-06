@@ -1,0 +1,13 @@
+.DS_Store
+/autosign/signingkey.sec
+/config/ars_nouveau/search_index
+*.toml.bak
+/config/e4mc
+/config/figura.json
+/config/jei
+/config/spark/tmp
+/config/spark/tmp-client
+/config/mmode.json
+/config/chunky/tasks
+/config/mca
+/config/sound_physics_remastered/.spra-config-schema.properties
