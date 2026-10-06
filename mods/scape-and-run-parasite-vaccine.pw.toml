@@ -1,12 +1,12 @@
-filename = 'scapeandrunvaccine-2.3.jar'
-name = 'Scape and Run: Parasite Cure'
-side = 'both'
+filename = "scapeandrunvaccine-2.3.jar"
+name = "Scape and Run: Parasite Cure"
+side = "both"
 
 [download]
-hash = 'fd871290c4217beef881a30eedf9738645a6f0d9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "fd871290c4217beef881a30eedf9738645a6f0d9"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7576683

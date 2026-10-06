@@ -1,12 +1,12 @@
-filename = 'srsorcery-1.12.2-v0.0.4.jar'
-name = 'Scape and Run: Sorcery'
-side = 'both'
+filename = "srsorcery-1.12.2-v0.0.4.jar"
+name = "Scape and Run: Sorcery"
+side = "both"
 
 [download]
-hash = '1fd6c2c1e0a23db84843ef2c2055686445d108ac'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "1fd6c2c1e0a23db84843ef2c2055686445d108ac"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 6448294

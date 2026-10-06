@@ -1,12 +1,12 @@
-filename = 'Traders-Backport-1.12.2-1.0.2.jar'
-name = 'Wandering Traders Backport'
-side = 'both'
+filename = "Traders-Backport-1.12.2-1.0.2.jar"
+name = "Wandering Traders Backport"
+side = "both"
 
 [download]
-hash = '6f03ff21bdddf9bbf2f627b82620962ab99de667'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "6f03ff21bdddf9bbf2f627b82620962ab99de667"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7743810

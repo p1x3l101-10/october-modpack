@@ -1,12 +1,12 @@
-filename = 'MCA-1.12.2-6.1.0-universal.jar'
-name = 'Minecraft Comes Alive (MCA)'
-side = 'both'
+filename = "MCA-1.12.2-6.1.0-universal.jar"
+name = "Minecraft Comes Alive (MCA)"
+side = "both"
 
 [download]
-hash = '3408a81dc02deea710282835d9b47109f2c06718'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "3408a81dc02deea710282835d9b47109f2c06718"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 2824328

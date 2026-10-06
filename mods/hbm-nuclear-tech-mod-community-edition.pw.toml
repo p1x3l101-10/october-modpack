@@ -1,12 +1,12 @@
-filename = 'NTM-CE-1.12.2-2.5.0.5.jar'
+filename = "NTM-CE-1.12.2-2.5.0.5.jar"
 name = "HBM's Nuclear Tech Mod: Community Edition"
-side = 'both'
+side = "both"
 
 [download]
-hash = '276363c2076df85125807cf729b2c9c1a6751554'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "276363c2076df85125807cf729b2c9c1a6751554"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8330665

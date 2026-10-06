@@ -1,12 +1,12 @@
-filename = 'Deeper-Depths-1.12.2-1.1.2a.jar'
-name = 'Deeper Depths'
-side = 'both'
+filename = "Deeper-Depths-1.12.2-1.1.2a.jar"
+name = "Deeper Depths"
+side = "both"
 
 [download]
-hash = '593aaea64fa32403972b848878e8cbe32fd0b822'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "593aaea64fa32403972b848878e8cbe32fd0b822"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8962580

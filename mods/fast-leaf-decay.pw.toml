@@ -1,12 +1,12 @@
-filename = 'FastLeafDecay-v14.jar'
-name = 'Fast Leaf Decay'
-side = 'both'
+filename = "FastLeafDecay-v14.jar"
+name = "Fast Leaf Decay"
+side = "both"
 
 [download]
-hash = '635bd0338a5b1e3b67b50f5a4c7311e1a6b579f6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "635bd0338a5b1e3b67b50f5a4c7311e1a6b579f6"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 2463272

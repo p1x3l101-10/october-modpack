@@ -1,12 +1,12 @@
-filename = 'SRMonstress-1.12.2v1.0.2.jar'
-name = 'Scape and Run: Monstress'
-side = 'both'
+filename = "SRMonstress-1.12.2v1.0.2.jar"
+name = "Scape and Run: Monstress"
+side = "both"
 
 [download]
-hash = '2789d6223841c2d16f33782dde433b13cecc5aa5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "2789d6223841c2d16f33782dde433b13cecc5aa5"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 5804821

@@ -1,13 +1,13 @@
-filename = 'xaerominimap-forge-1.12.2-26.5.1.jar'
+filename = "xaerominimap-forge-1.12.2-26.5.1.jar"
 name = "Xaero's Minimap"
-side = 'both'
+side = "both"
 
 [download]
-hash = 'd0fd975dfaa8ce31fa4175ed6e3d57b6125a7246d9646bf5349810fc3525f76abe6b1db9daec1e943ed04befcbf7c015d9b9a68d21366cb5c3a304683e71ef4d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/Sg74174z/xaerominimap-forge-1.12.2-26.5.1.jar'
+hash = "d0fd975dfaa8ce31fa4175ed6e3d57b6125a7246d9646bf5349810fc3525f76abe6b1db9daec1e943ed04befcbf7c015d9b9a68d21366cb5c3a304683e71ef4d"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Sg74174z/xaerominimap-forge-1.12.2-26.5.1.jar"
 
 [update.modrinth]
-mod-id = '1bokaNcj'
-version = 'Sg74174z'
+mod-id = "1bokaNcj"
+version = "Sg74174z"

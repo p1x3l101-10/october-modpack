@@ -1,12 +1,12 @@
-filename = 'VeinMiner-1.12-0.38.2.647+b31535a.jar'
-name = 'VeinMiner'
-side = 'both'
+filename = "VeinMiner-1.12-0.38.2.647+b31535a.jar"
+name = "VeinMiner"
+side = "both"
 
 [download]
-hash = '007f517877ce7e78556bfb4038facff2bbb6a6c7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "007f517877ce7e78556bfb4038facff2bbb6a6c7"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 2528295

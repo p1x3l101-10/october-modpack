@@ -1,12 +1,12 @@
-filename = 'SRPMutantBeasts-1.10.4.jar'
-name = 'Scape and Run: Parasites Mutant Beasts'
-side = 'both'
+filename = "SRPMutantBeasts-1.10.4.jar"
+name = "Scape and Run: Parasites Mutant Beasts"
+side = "both"
 
 [download]
-hash = 'b3e7b5f8d02e622bd21111f2f64f5619eba22fd8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "b3e7b5f8d02e622bd21111f2f64f5619eba22fd8"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7885169

@@ -1,12 +1,12 @@
-filename = 'SRPHalloween-1.1.jar'
-name = 'Scape and Run: Parasites Halloween'
-side = 'both'
+filename = "SRPHalloween-1.1.jar"
+name = "Scape and Run: Parasites Halloween"
+side = "both"
 
 [download]
-hash = 'febfc2313a0554796d89ff15bffd6d1173051845'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "febfc2313a0554796d89ff15bffd6d1173051845"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7167629

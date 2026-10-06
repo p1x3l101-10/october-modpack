@@ -1,13 +1,13 @@
-filename = 'infwithmend-forge-1.12.2-1.0.0.jar'
-name = 'Infinity With Mending'
-side = 'both'
+filename = "infwithmend-forge-1.12.2-1.0.0.jar"
+name = "Infinity With Mending"
+side = "both"
 
 [download]
-hash = 'c83be68ae2daba71eb199b4d5aaa89bcd88a739edee821b5726d7f1a363c030189baf827dae2acb99285dd3cbad403f11753da7fb5f6383d9d939a4b480a0258'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/TToG3iVN/versions/yl5sKYCo/infwithmend-forge-1.12.2-1.0.0.jar'
+hash = "c83be68ae2daba71eb199b4d5aaa89bcd88a739edee821b5726d7f1a363c030189baf827dae2acb99285dd3cbad403f11753da7fb5f6383d9d939a4b480a0258"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/TToG3iVN/versions/yl5sKYCo/infwithmend-forge-1.12.2-1.0.0.jar"
 
 [update.modrinth]
-mod-id = 'TToG3iVN'
-version = 'yl5sKYCo'
+mod-id = "TToG3iVN"
+version = "yl5sKYCo"

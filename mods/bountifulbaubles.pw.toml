@@ -1,12 +1,12 @@
-filename = 'Bountiful Baubles-1.12.2-0.1.8.jar'
-name = 'BountifulBaubles'
-side = 'both'
+filename = "Bountiful Baubles-1.12.2-0.1.8.jar"
+name = "BountifulBaubles"
+side = "both"
 
 [download]
-hash = '9cddb1fab23e51119cefa379e1affb07ed0818d2'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "9cddb1fab23e51119cefa379e1affb07ed0818d2"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 3568240

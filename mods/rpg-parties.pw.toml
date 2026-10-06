@@ -1,12 +1,12 @@
-filename = 'mmoparties-1.12.2-3.1.0.304.jar'
-name = 'RPG Parties'
-side = 'both'
+filename = "mmoparties-1.12.2-3.1.0.304.jar"
+name = "RPG Parties"
+side = "both"
 
 [download]
-hash = '20bd2be025741e20d523c03c3d9961e8425cb998'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "20bd2be025741e20d523c03c3d9961e8425cb998"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 5855247

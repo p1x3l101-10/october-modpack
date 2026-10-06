@@ -1,15 +1,15 @@
-filename = 'ModernityAdjunct-f3-1.6.zip'
-name = 'Modernity Adjunct'
-side = 'client'
+filename = "ModernityAdjunct-f3-1.6.zip"
+name = "Modernity Adjunct"
+side = "client"
 x-prismlauncher-dependencies = []
-x-prismlauncher-version-number = 'f3-1.6'
+x-prismlauncher-version-number = "f3-1.6"
 
 [download]
-hash = '4d9e1872850dba2b3e55ef4daeed91d8ccccf27cc7f3169b2ec7b24058bb69d1301496098d0fd8460763587ecd06c8d818023813676cf7c45b7ac0baacb20bf7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pS9o7zup/versions/n6ol2CXQ/ModernityAdjunct-f3-1.6.zip'
+hash = "4d9e1872850dba2b3e55ef4daeed91d8ccccf27cc7f3169b2ec7b24058bb69d1301496098d0fd8460763587ecd06c8d818023813676cf7c45b7ac0baacb20bf7"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/pS9o7zup/versions/n6ol2CXQ/ModernityAdjunct-f3-1.6.zip"
 
 [update.modrinth]
-mod-id = 'pS9o7zup'
-version = 'n6ol2CXQ'
+mod-id = "pS9o7zup"
+version = "n6ol2CXQ"

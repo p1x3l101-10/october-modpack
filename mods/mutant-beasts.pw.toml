@@ -1,12 +1,12 @@
-filename = 'MutantBeasts-1.12.2-1.0.2.jar'
-name = 'Mutant Beasts'
-side = 'both'
+filename = "MutantBeasts-1.12.2-1.0.2.jar"
+name = "Mutant Beasts"
+side = "both"
 
 [download]
-hash = 'b2ae04070cfa531647c88fea17f2cd229289e297'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "b2ae04070cfa531647c88fea17f2cd229289e297"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 3225395

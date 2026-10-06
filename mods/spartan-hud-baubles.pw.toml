@@ -1,12 +1,12 @@
-filename = 'SpartanHUDBaubles-1.12.2-1.0.0.jar'
-name = 'Spartan HUD: Baubles'
-side = 'both'
+filename = "SpartanHUDBaubles-1.12.2-1.0.0.jar"
+name = "Spartan HUD: Baubles"
+side = "both"
 
 [download]
-hash = 'f08db9ce1becd829aacc1e531caf4384c0e208f5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "f08db9ce1becd829aacc1e531caf4384c0e208f5"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 3566426

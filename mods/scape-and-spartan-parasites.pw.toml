@@ -1,12 +1,12 @@
-filename = 'swparasites-v5.jar'
-name = 'Scape and Spartan: Parasites'
-side = 'both'
+filename = "swparasites-v5.jar"
+name = "Scape and Spartan: Parasites"
+side = "both"
 
 [download]
-hash = '0205bf35142da6dedc0c0585fe1f8def61ec37d0'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "0205bf35142da6dedc0c0585fe1f8def61ec37d0"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8559515

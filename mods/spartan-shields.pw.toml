@@ -1,12 +1,12 @@
-filename = 'SpartanShields-1.12.2-1.5.5.jar'
-name = 'Spartan Shields'
-side = 'both'
+filename = "SpartanShields-1.12.2-1.5.5.jar"
+name = "Spartan Shields"
+side = "both"
 
 [download]
-hash = '89faa64364dfaa6799392e8f71da95e7b5af1144'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "89faa64364dfaa6799392e8f71da95e7b5af1144"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 3567495

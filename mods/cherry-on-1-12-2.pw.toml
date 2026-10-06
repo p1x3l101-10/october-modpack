@@ -1,12 +1,12 @@
-filename = 'Cherry_on-1.12.2-1.3.35.jar'
-name = 'Cherry_on_1.12.2'
-side = 'both'
+filename = "Cherry_on-1.12.2-1.3.35.jar"
+name = "Cherry_on_1.12.2"
+side = "both"
 
 [download]
-hash = 'bd609d50a42d58bb07fe76284d2ac59290ae26d1'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "bd609d50a42d58bb07fe76284d2ac59290ae26d1"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7760834

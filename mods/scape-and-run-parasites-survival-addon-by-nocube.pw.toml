@@ -1,12 +1,12 @@
-filename = 'NoCubes_SRP_Survival_Addon_3.0.0.jar'
-name = 'Scape and Run: Parasites Survival Addon (by NoCube)'
-side = 'both'
+filename = "NoCubes_SRP_Survival_Addon_3.0.0.jar"
+name = "Scape and Run: Parasites Survival Addon (by NoCube)"
+side = "both"
 
 [download]
-hash = '45e69bfd8634ebc586a02bccbbfdb535e400cbf0'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "45e69bfd8634ebc586a02bccbbfdb535e400cbf0"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 4048221

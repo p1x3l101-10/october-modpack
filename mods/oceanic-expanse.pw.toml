@@ -1,12 +1,12 @@
-filename = 'OceanicExpanse-1.2.2.jar'
-name = 'Oceanic Expanse'
-side = 'both'
+filename = "OceanicExpanse-1.2.2.jar"
+name = "Oceanic Expanse"
+side = "both"
 
 [download]
-hash = '86b6cd29e92179711dbe7931c0c3503f3dd949d3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "86b6cd29e92179711dbe7931c0c3503f3dd949d3"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7009970

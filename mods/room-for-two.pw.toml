@@ -1,13 +1,13 @@
-filename = 'roomfortwo-forge-1.12.2-0.2.0.jar'
-name = 'Room For Two'
-side = 'both'
+filename = "roomfortwo-forge-1.12.2-0.2.0.jar"
+name = "Room For Two"
+side = "both"
 
 [download]
-hash = '7fa26400e3c05a19b43f18886920f8a350ba7e8303ee60b2dd7ffbef3faf0d1d8109cc21ffb893aff547f6b7830eac6ccb5d6f6da027f65f2f24d20f17e44f99'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/YZlvzIFq/versions/DwLlG7lI/roomfortwo-forge-1.12.2-0.2.0.jar'
+hash = "7fa26400e3c05a19b43f18886920f8a350ba7e8303ee60b2dd7ffbef3faf0d1d8109cc21ffb893aff547f6b7830eac6ccb5d6f6da027f65f2f24d20f17e44f99"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/YZlvzIFq/versions/DwLlG7lI/roomfortwo-forge-1.12.2-0.2.0.jar"
 
 [update.modrinth]
-mod-id = 'YZlvzIFq'
-version = 'DwLlG7lI'
+mod-id = "YZlvzIFq"
+version = "DwLlG7lI"

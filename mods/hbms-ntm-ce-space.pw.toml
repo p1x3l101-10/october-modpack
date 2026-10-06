@@ -1,12 +1,12 @@
-filename = 'NTM-Space-1.12.2-0.9.2.jar'
+filename = "NTM-Space-1.12.2-0.9.2.jar"
 name = "HBM's NTM CE: Space"
-side = 'both'
+side = "both"
 
 [download]
-hash = 'af52b329c837e5eec9953cce61b91ec47e12cb30'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "af52b329c837e5eec9953cce61b91ec47e12cb30"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8314483

@@ -1,12 +1,12 @@
-filename = 'Jade-0.1.0.jar'
-name = 'Jade 🔍'
-side = 'both'
+filename = "Jade-0.1.0.jar"
+name = "Jade 🔍"
+side = "both"
 
 [download]
-hash = '6876a7399c604169d7acb06d441743eaac5dd615'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "6876a7399c604169d7acb06d441743eaac5dd615"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 2735905

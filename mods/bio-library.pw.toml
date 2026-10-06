@@ -1,13 +1,13 @@
-filename = 'biolib-1.1.2.jar'
-name = 'Bio Library'
-side = 'both'
+filename = "biolib-1.1.2.jar"
+name = "Bio Library"
+side = "both"
 
 [download]
-hash = 'd9b444494b358ab5b87326230acbc232fddec8611169562c5c53e2617223699e8f061af94638a56db82ece0fa53c01c5d6404744b168e44d1cda0c0e378e10dd'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ycmc3H8T/versions/1.1.2/biolib-1.1.2.jar'
+hash = "d9b444494b358ab5b87326230acbc232fddec8611169562c5c53e2617223699e8f061af94638a56db82ece0fa53c01c5d6404744b168e44d1cda0c0e378e10dd"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ycmc3H8T/versions/1.1.2/biolib-1.1.2.jar"
 
 [update.modrinth]
-mod-id = 'Ycmc3H8T'
-version = '61rodE0m'
+mod-id = "Ycmc3H8T"
+version = "61rodE0m"

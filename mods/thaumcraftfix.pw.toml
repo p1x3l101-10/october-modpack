@@ -1,12 +1,12 @@
-filename = 'ThaumcraftFix-1.12.2-1.1.11.jar'
-name = 'Thaumcraft Fix'
-side = 'both'
+filename = "ThaumcraftFix-1.12.2-1.1.11.jar"
+name = "Thaumcraft Fix"
+side = "both"
 
 [download]
-hash = 'f736723faf8283228b849412a4af1b632bbd1e2b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "f736723faf8283228b849412a4af1b632bbd1e2b"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8150308

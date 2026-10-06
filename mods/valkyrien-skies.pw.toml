@@ -1,12 +1,12 @@
-filename = '[[valkyrien-skies-1.1.7-all]].jar'
-name = 'Valkyrien Skies (Forge/Fabric)'
-side = 'both'
+filename = "[[valkyrien-skies-1.1.7-all]].jar"
+name = "Valkyrien Skies (Forge/Fabric)"
+side = "both"
 
 [download]
-hash = '9b950aa102a2c21f4e3f2efd28d0c92995ee3ab2'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "9b950aa102a2c21f4e3f2efd28d0c92995ee3ab2"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 3286262

@@ -1,12 +1,12 @@
-filename = 'SRR_v2.0.0.jar'
-name = 'Scape and Run: Reinforced'
-side = 'both'
+filename = "SRR_v2.0.0.jar"
+name = "Scape and Run: Reinforced"
+side = "both"
 
 [download]
-hash = '03b0751b40537dc1053aa11bd963f7475e64d2a4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "03b0751b40537dc1053aa11bd963f7475e64d2a4"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 8609039
