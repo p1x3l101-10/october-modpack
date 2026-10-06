@@ -16,9 +16,6 @@ file = "config/AppliedEnergistics2/VersionChecker.cfg"
 file = "config/AppliedEnergistics2/items.csv"
 
 [[files]]
-file = "config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip"
-
-[[files]]
 file = "config/ChanceCubes/CustomRewards/Resourcepack/readme.txt"
 
 [[files]]
