@@ -6,7 +6,7 @@ side = "both"
 hash = "a70eed01642df40d85bc1f3badde9534b18fed0de77057d063466e8e728f5450bc1da04518be2645262d99a49342e2e9780ac4875b45c0f36f445d677c8c58bd"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/qkQbFn8p/versions/12vT7arw/LetYourFriendEating_1.1.4_1.12.2_Forge.jar"
+url = "https://cdn.modrinth.com/data/qkQbFn8p/versions/12vT7arw/LetYourFriendEating%5F1.1.4%5F1.12.2%5FForge.jar"
 
 [update.modrinth]
 mod-id = "qkQbFn8p"

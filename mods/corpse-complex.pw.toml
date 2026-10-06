@@ -6,7 +6,7 @@ side = "both"
 hash = "4f738e2522cf01db1c26a986eeb5483dd727b1e3d5a76a661c977679136a14a46c217f89402caa7ad4d1e2f7d36512875e56885fae20ac09b5727271f6c35349"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/uA8ykOdd/versions/AFbKOFo9/corpsecomplex-1.12.2-1.0.12.0.jar"
+url = "https://cdn.modrinth.com/data/uA8ykOdd/versions/AFbKOFo9/corpsecomplex%2D1.12.2%2D1.0.12.0.jar"
 
 [update.modrinth]
 mod-id = "uA8ykOdd"

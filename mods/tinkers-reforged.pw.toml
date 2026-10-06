@@ -6,7 +6,7 @@ side = "both"
 hash = "8a6efb95e82f37a46949fe54ba28d08886fa136336d5264c212e0550996c50786e05c2d39f4b674eac8a7a549b32069005a1c20835245d4e11beffd4ceb74f8b"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/cj8IZDhP/versions/1.5.4/tinkers_reforged-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/cj8IZDhP/versions/1.5.4/tinkers%5Freforged%2D1.5.4.jar"
 
 [update.modrinth]
 mod-id = "cj8IZDhP"

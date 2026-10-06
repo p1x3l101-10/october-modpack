@@ -6,7 +6,7 @@ side = "both"
 hash = "8c6c478f5ded79192a8df6400d362259dd7837c05eafb53bb5762bda5af499cb0d0f7ce6e218c84071068561a6aee27a5cfd154d498431795c84ae3fa0c041d0"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/tT70rEVv/versions/X2NFGnaq/ExpandedEquivalence-1.12.2-12.3.17.jar"
+url = "https://cdn.modrinth.com/data/tT70rEVv/versions/X2NFGnaq/ExpandedEquivalence%2D1.12.2%2D12.3.17.jar"
 
 [update.modrinth]
 mod-id = "tT70rEVv"

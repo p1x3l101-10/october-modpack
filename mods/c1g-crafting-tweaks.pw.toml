@@ -6,7 +6,7 @@ side = "both"
 hash = "3a75039267627ca0a92c719b5d492a1c8fe7ca7bb5b42a4aca0db71a3dc7fa92691e141349d12a293642a49586f11cd3c86136efe72963c1bb0aa234cd868882"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/nGjcDlMi/versions/kK8M2YZz/C1Gamer%27s SRP Crafting Tweaks 1.2.0.jar"
+url = "https://cdn.modrinth.com/data/nGjcDlMi/versions/kK8M2YZz/C1Gamer%27s%20SRP%20Crafting%20Tweaks%201.2.0.jar"
 
 [update.modrinth]
 mod-id = "nGjcDlMi"
