@@ -1,0 +1,31 @@
+filename = 'e4mc-retro_forge-1.1.0+1.9-1.12.2.jar'
+name = 'e4mc Retro'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.10',
+    '1.10.1',
+    '1.10.2',
+    '1.11',
+    '1.11.1',
+    '1.11.2',
+    '1.12',
+    '1.12.1',
+    '1.12.2',
+    '1.9',
+    '1.9.1',
+    '1.9.2',
+    '1.9.3',
+    '1.9.4'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5da5ebdbb7d71d342c4da1124ad1b6619db21aa6354f3b83bd22e1cf9063463f5e8ac6b8fa49cdf6191eacec07c960878994bff3902c2e63e69a6cc5a722ae64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L6TtRc14/versions/6XiTmyTL/e4mc-retro_forge-1.1.0%2B1.9-1.12.2.jar'
+
+[update.modrinth]
+mod-id = 'L6TtRc14'
+version = '6XiTmyTL'

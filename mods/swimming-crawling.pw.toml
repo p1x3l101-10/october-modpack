@@ -1,0 +1,16 @@
+filename = 'swimmingcrawling-1.5.21.jar'
+name = 'Swimming & Crawling'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '30a218571ac465a26c24a89fb3503f917038efcd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8920488
+project-id = 1653656

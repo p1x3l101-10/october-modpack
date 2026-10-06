@@ -1,0 +1,16 @@
+filename = 'SRPHalloween-1.1.jar'
+name = 'Scape and Run: Parasites Halloween'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'febfc2313a0554796d89ff15bffd6d1173051845'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7167629
+project-id = 1372055

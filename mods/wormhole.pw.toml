@@ -1,0 +1,16 @@
+filename = 'wormhole-1.1.17-forge-mc1.12.jar'
+name = 'Wormhole (Portals)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f70aa596f3b7fb493dd23e2d97987f873b9a9a97d0b9ac7dd77d62942e21bd2b548c427cba165eebe8f134af860564d68389867bab4b00ba0e474e937a22990e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6nHZTTjQ/versions/u8Hue0QR/wormhole-1.1.17-forge-mc1.12.jar'
+
+[update.modrinth]
+mod-id = '6nHZTTjQ'
+version = 'u8Hue0QR'

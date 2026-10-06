@@ -1,0 +1,16 @@
+filename = 'SRPExtra-1.10.7.6.1.jar'
+name = 'Scape and Run: Parasites Extra'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '3c2b2f067381fc7b397cbe2590a526b4a2ee4d58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8196216
+project-id = 1140227

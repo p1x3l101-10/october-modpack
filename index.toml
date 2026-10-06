@@ -1,6 +1,1393 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+
+[[files]]
+file = "config/AppliedEnergistics2/CustomRecipes.cfg"
+
+[[files]]
+file = "config/AppliedEnergistics2/Facades.cfg"
+
+[[files]]
+file = "config/AppliedEnergistics2/VersionChecker.cfg"
+
+[[files]]
+file = "config/AppliedEnergistics2/items.csv"
+
+[[files]]
+file = "config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip"
+
+[[files]]
+file = "config/ChanceCubes/CustomRewards/Resourcepack/readme.txt"
+
+[[files]]
+file = "config/ChanceCubes/CustomRewards/Sounds/sounds.json"
+
+[[files]]
+file = "config/ChanceCubes/chancecubes.cfg"
+
+[[files]]
+file = "config/ChanceCubes/global_rewards.json"
+
+[[files]]
+file = "config/Expanded Equivalence/appliedenergistics2/internal.cfg"
+
+[[files]]
+file = "config/Expanded Equivalence/draconicevolution/internal.cfg"
+
+[[files]]
+file = "config/Expanded Equivalence/hammercore/ExpansionHammerCore.cfg"
+
+[[files]]
+file = "config/Expanded Equivalence/immersiveengineering/internal.cfg"
+
+[[files]]
+file = "config/Expanded Equivalence/minecraft/internal.cfg"
+
+[[files]]
+file = "config/Expanded Equivalence/thaumcraft/internal.cfg"
+
+[[files]]
+file = "config/Extreme Reactors/Extreme Reactors.cfg"
+
+[[files]]
+file = "config/ProjectE/ProjectE.cfg"
+
+[[files]]
+file = "config/ProjectE/customConversions/ODdefaults.json"
+
+[[files]]
+file = "config/ProjectE/customConversions/defaults.json"
+
+[[files]]
+file = "config/ProjectE/customConversions/example.json"
+
+[[files]]
+file = "config/ProjectE/customConversions/metals.json"
+
+[[files]]
+file = "config/ProjectE/custom_emc.json"
+
+[[files]]
+file = "config/ProjectE/mapping.cfg"
+
+[[files]]
+file = "config/ProjectE/nbt_whitelist.json"
+
+[[files]]
+file = "config/RLArtifacts.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamity.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityFriends.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityMobs.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityModel.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityRules.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamitySystems.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityTouhou.cfg"
+
+[[files]]
+file = "config/SRPCalamity/SRPCalamityWorld.cfg"
+
+[[files]]
+file = "config/SmoothZoom.cfg"
+
+[[files]]
+file = "config/TinkerModules.cfg"
+
+[[files]]
+file = "config/Tinkers Reforged - General.cfg"
+
+[[files]]
+file = "config/Tinkers Reforged - MaterialsAA and Modules.cfg"
+
+[[files]]
+file = "config/Tinkers Reforged - Tools.cfg"
+
+[[files]]
+file = "config/Underlay/underlay.json"
+
+[[files]]
+file = "config/Unseens Nether Backport/blocks_items_config.cfg"
+
+[[files]]
+file = "config/Unseens Nether Backport/entities_config.cfg"
+
+[[files]]
+file = "config/Unseens Nether Backport/general_config.cfg"
+
+[[files]]
+file = "config/Unseens Nether Backport/world_config.cfg"
+
+[[files]]
+file = "config/appleskin.cfg"
+
+[[files]]
+file = "config/armorpointspp.cfg"
+
+[[files]]
+file = "config/attributefix.cfg"
+
+[[files]]
+file = "config/baubles.cfg"
+
+[[files]]
+file = "config/betteradvancements/betteradvancements.cfg"
+
+[[files]]
+file = "config/bhc/BaubleyHeartCanisters.cfg"
+
+[[files]]
+file = "config/bhc/bhc-drops.json"
+
+[[files]]
+file = "config/bountifulbaubles.cfg"
+
+[[files]]
+file = "config/brandon3055/BrandonsCore.cfg"
+
+[[files]]
+file = "config/brandon3055/Custom Fusion Recipe Info.txt"
+
+[[files]]
+file = "config/brandon3055/DraconicEvolution.cfg"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/ModDocs/Draconic Evolution/draconicevolution-en_US.xml"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/manifest.json"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/options.json"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
+
+[[files]]
+file = "config/carryon.cfg"
+
+[[files]]
+file = "config/codechicken/supporters.json"
+
+[[files]]
+file = "config/codechicken/supporters.marker"
+
+[[files]]
+file = "config/codechickenlib.cfg"
+
+[[files]]
+file = "config/conarm.cfg"
+
+[[files]]
+file = "config/corpsecomplex.cfg"
+
+[[files]]
+file = "config/cosmeticarmorreworked.cfg"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+
+[[files]]
+file = "config/crash_assistant/scripts/log_analysis/example.jexl"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/example.jexl"
+
+[[files]]
+file = "config/crossbows.cfg"
+
+[[files]]
+file = "config/ctm.cfg"
+
+[[files]]
+file = "config/cyclic_ores.cfg"
+
+[[files]]
+file = "config/cyclicmagic.cfg"
+
+[[files]]
+file = "config/deeperdepths/blocks.cfg"
+
+[[files]]
+file = "config/deeperdepths/entities.cfg"
+
+[[files]]
+file = "config/deeperdepths/loot_tables.cfg"
+
+[[files]]
+file = "config/deeperdepths/world.cfg"
+
+[[files]]
+file = "config/e4mc-retro/e4mc-retro.toml"
+
+[[files]]
+file = "config/eextra/EEXTRAConfig.cfg"
+
+[[files]]
+file = "config/eextra/EEXTRAConfigBlocks.cfg"
+
+[[files]]
+file = "config/eextra/EEXTRAConfigEvents.cfg"
+
+[[files]]
+file = "config/eextra/EEXTRAConfigMobs.cfg"
+
+[[files]]
+file = "config/eextra/EEXTRAConfigWorld.cfg"
+
+[[files]]
+file = "config/enchdesc.cfg"
+
+[[files]]
+file = "config/equipmentcompare.cfg"
+
+[[files]]
+file = "config/fasterladderclimbing.cfg"
+
+[[files]]
+file = "config/fastleafdecay.cfg"
+
+[[files]]
+file = "config/fluidlogged_api/blacklist.cfg"
+
+[[files]]
+file = "config/fluidlogged_api/fluidTags.cfg"
+
+[[files]]
+file = "config/fluidlogged_api/general.cfg"
+
+[[files]]
+file = "config/fluidlogged_api/internal/README.txt"
+
+[[files]]
+file = "config/fluidlogged_api/internal/appliedenergistics2/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/conarm/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/cyclicmagic/blacklist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/cyclicmagic/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/draconicevolution/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/immersiveengineering/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/ironchest/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/projecte/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/tconstruct/whitelist.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/internal/versions.jsonc"
+
+[[files]]
+file = "config/fluidlogged_api/whitelist.cfg"
+
+[[files]]
+file = "config/forge.cfg"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+
+[[files]]
+file = "config/hammercore.cfg"
+
+[[files]]
+file = "config/hammercore/tile_entity_tick_slip.json"
+
+[[files]]
+file = "config/hbm/hbm.cfg"
+
+[[files]]
+file = "config/hbm/hbm_bedrock_ores.json"
+
+[[files]]
+file = "config/hbm/hbm_dimensions.cfg"
+
+[[files]]
+file = "config/hbm/hbm_siren_cassettes.json"
+
+[[files]]
+file = "config/hbm/hbm_space.cfg"
+
+[[files]]
+file = "config/hbm/solinium.cfg"
+
+[[files]]
+file = "config/hbmConfig/_hbmArmor.json"
+
+[[files]]
+file = "config/hbmConfig/_hbmFallout.json"
+
+[[files]]
+file = "config/hbmConfig/_hbmFluidTraits.json"
+
+[[files]]
+file = "config/hbmConfig/_hbmItemPools.json"
+
+[[files]]
+file = "config/hbmConfig/_hbmRadResist.json"
+
+[[files]]
+file = "config/hbmConfig/hbmClient.json"
+
+[[files]]
+file = "config/hbmConfig/hbmCustomMachines.json"
+
+[[files]]
+file = "config/hbmConfig/hbmFluidTypes.json"
+
+[[files]]
+file = "config/hbmConfig/hbmMachines.json"
+
+[[files]]
+file = "config/hbmConfig/hbmServer.json"
+
+[[files]]
+file = "config/hbmRecipes/REMOVE UNDERSCORE TO ENABLE RECIPE LOADING - RECIPES WILL RESET TO DEFAULT OTHERWISE"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAlkylation.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAmmoPress.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAnnihilator.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAnvil.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmArcFurnace.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmArcWelder.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAssemblyMachine.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmAtmosphere.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmBlastFurnace.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmBlastFurnaceLegacy.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmBreeder.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCentrifuge.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmChemicalPlant.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCoker.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCombination.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCompressor.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCracking.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCrucible.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCrucibleSmelting.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCryodistillator.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCrystallizer.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCustomMachines.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmCyclotron.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmElectrolyzerFluid.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmElectrolyzerMetal.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmExposureChamber.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmFractions.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmFuelpool.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmFusion.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmHydrotreating.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmIrradiation.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmIrradiationFluids.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmLiquefactor.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmMixer.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPUREX.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmParticleAccelerator.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPedestal.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPlasmaForge.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPrecisionAssembly.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPress.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmPyrolysis.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmReforming.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmRotaryFurnace.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmShredder.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmSoldering.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmSolidifier.json"
+
+[[files]]
+file = "config/hbmRecipes/_hbmVacuumCircuit.json"
+
+[[files]]
+file = "config/identity"
+
+[[files]]
+file = "config/immersiveengineering.cfg"
+
+[[files]]
+file = "config/ironchest.cfg"
+
+[[files]]
+file = "config/jade.cfg"
+
+[[files]]
+file = "config/letyourfriendeating-settings.json"
+
+[[files]]
+file = "config/lootr.cfg"
+
+[[files]]
+file = "config/lwjgl3ify-relauncher.json"
+
+[[files]]
+file = "config/lwjgl3ify.cfg"
+
+[[files]]
+file = "config/mahoutsukai.cfg"
+
+[[files]]
+file = "config/mca.cfg"
+
+[[files]]
+file = "config/mixinbooter.cfg"
+
+[[files]]
+file = "config/mmoparties.cfg"
+
+[[files]]
+file = "config/modification-of-critical-hit.cfg"
+
+[[files]]
+file = "config/musicplayer-client.cfg"
+
+[[files]]
+file = "config/mutantbeasts.cfg"
+
+[[files]]
+file = "config/naturescompass.cfg"
+
+[[files]]
+file = "config/nether_api/betternether.cfg"
+
+[[files]]
+file = "config/nether_api/biomes_o_plenty.cfg"
+
+[[files]]
+file = "config/nether_api/journey_into_the_light.cfg"
+
+[[files]]
+file = "config/nether_api/natura.cfg"
+
+[[files]]
+file = "config/nether_api/nether_hexed_kingdom.cfg"
+
+[[files]]
+file = "config/nether_api/nethercraft.cfg"
+
+[[files]]
+file = "config/nether_api/stygian_end.cfg"
+
+[[files]]
+file = "config/nether_api/vanilla.cfg"
+
+[[files]]
+file = "config/oceanic_expanse.cfg"
+
+[[files]]
+file = "config/oreveins.cfg"
+
+[[files]]
+file = "config/oreveins/ore_veins.json"
+
+[[files]]
+file = "config/phantoms.cfg"
+
+[[files]]
+file = "config/raids/client.cfg"
+
+[[files]]
+file = "config/raids/entities.cfg"
+
+[[files]]
+file = "config/raids/integration.cfg"
+
+[[files]]
+file = "config/raids/mansions.cfg"
+
+[[files]]
+file = "config/raids/outposts.cfg"
+
+[[files]]
+file = "config/raids/patrols.cfg"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/cage_allays.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/cage_empty.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/cage_golem.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/logs.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/targets.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/tent.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/features/tent_pumpkins.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/watchtower.nbt"
+
+[[files]]
+file = "config/raids/pillager_outpost/watchtower_overgrown.nbt"
+
+[[files]]
+file = "config/raids/raid_tables/advanced.json"
+
+[[files]]
+file = "config/raids/raid_tables/default.json"
+
+[[files]]
+file = "config/raids/raids.cfg"
+
+[[files]]
+file = "config/raids/villager_gifts.json"
+
+[[files]]
+file = "config/responsiveshields.cfg"
+
+[[files]]
+file = "config/saplanting.json"
+
+[[files]]
+file = "config/skinlayers.json"
+
+[[files]]
+file = "config/snad.cfg"
+
+[[files]]
+file = "config/spartanhudbaubles.cfg"
+
+[[files]]
+file = "config/spartanshields.cfg"
+
+[[files]]
+file = "config/spartanweaponry.cfg"
+
+[[files]]
+file = "config/splash.properties"
+
+[[files]]
+file = "config/srmonstress/SRMonstress.cfg"
+
+[[files]]
+file = "config/srmonstress/SRMonstressMobs.cfg"
+
+[[files]]
+file = "config/srparasites/SRParasites.cfg"
+
+[[files]]
+file = "config/srparasites/SRParasitesMobs.cfg"
+
+[[files]]
+file = "config/srparasites/SRParasitesSystems.cfg"
+
+[[files]]
+file = "config/srparasites/SRParasitesWorld.cfg"
+
+[[files]]
+file = "config/srpcalamity.cfg"
+
+[[files]]
+file = "config/srpextra/SRPDeepSeaDanger.cfg"
+
+[[files]]
+file = "config/srpextra/SRPDeepSeaDangerMobs.cfg"
+
+[[files]]
+file = "config/srpextra/SRPEConfigExtra.cfg"
+
+[[files]]
+file = "config/srpextra/SRPEConfigGraphic.cfg"
+
+[[files]]
+file = "config/srpextra/SRPEConfigItems.cfg"
+
+[[files]]
+file = "config/srpextra/SRPEConfigMobs.cfg"
+
+[[files]]
+file = "config/srpextra/SRPEConfigSystem.cfg"
+
+[[files]]
+file = "config/srpextra/SRPHalloweenConfigMobs.cfg"
+
+[[files]]
+file = "config/srpextra/SRPHalloweenConfigSystem.cfg"
+
+[[files]]
+file = "config/srpextra/SRPMutantBeastsConfigMobs.cfg"
+
+[[files]]
+file = "config/srpextra/SRPMutantBeastsConfigSystem.cfg"
+
+[[files]]
+file = "config/srpmeteor/SRPMeteorConfig.cfg"
+
+[[files]]
+file = "config/sui_ke/cherry/Cherry.cfg"
+
+[[files]]
+file = "config/sui_ke/cherry/treasure.cfg"
+
+[[files]]
+file = "config/swparasites.cfg"
+
+[[files]]
+file = "config/tc6aspects4jei.cfg"
+
+[[files]]
+file = "config/tconstruct.cfg"
+
+[[files]]
+file = "config/techguns.cfg"
+
+[[files]]
+file = "config/thaumcraft_graphics.cfg"
+
+[[files]]
+file = "config/thaumcraft_misc.cfg"
+
+[[files]]
+file = "config/thaumcraft_world.cfg"
+
+[[files]]
+file = "config/thaumcraftfix.cfg"
+
+[[files]]
+file = "config/thaumic_periphery.cfg"
+
+[[files]]
+file = "config/thaumicjei.cfg"
+
+[[files]]
+file = "config/thaumicjei_itemstack_aspects.json"
+
+[[files]]
+file = "config/thaumictinkerer.cfg"
+
+[[files]]
+file = "config/traders/client.cfg"
+
+[[files]]
+file = "config/traders/entities.cfg"
+
+[[files]]
+file = "config/traders/spawning.cfg"
+
+[[files]]
+file = "config/traders/trades/buying.json"
+
+[[files]]
+file = "config/traders/trades/selling.json"
+
+[[files]]
+file = "config/traders/trades/special.json"
+
+[[files]]
+file = "config/travelersbackpack.cfg"
+
+[[files]]
+file = "config/trinkets/Trinkets_And_Baubles.cfg"
+
+[[files]]
+file = "config/uteamcore/client.cfg"
+
+[[files]]
+file = "config/valkyrienskies.cfg"
+
+[[files]]
+file = "config/veinminer/general.cfg"
+
+[[files]]
+file = "config/veinminer/modSupport.cfg"
+
+[[files]]
+file = "config/veinminer/tools-and-blocks.json"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+
+[[files]]
+file = "config/waila/waila.cfg"
+
+[[files]]
+file = "config/wormhole-common.toml"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaerohud.txt"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+
+[[files]]
+file = "config/xptome.cfg"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armorpoints.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/atlas-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bed-spawnpoint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bio-library.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bountifulbaubles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c1g-crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chance-cubes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cherry-on-1-12-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/constructs-armory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corpse-complex.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crossbows-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deeper-depths.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4mc-retro.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchlevel-langpatch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-equivalence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/faster-ladder-climbing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fluidlogged-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fox-friend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/friendly-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/happyghast-on-1-12-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hbm-nuclear-tech-mod-community-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hbms-ntm-ce-space.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/infinity-with-mending.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/let-your-friend-eating!.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-mca.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mini-effects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modern-splash.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modification-of-critical-hit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/music-player.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mutant-beasts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nether-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oceanic-expanse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/phantoms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polysprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/raids-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realistic-ore-veins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rlartifacts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/room-for-two.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rpg-parties.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/saplanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-monstress.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasite-vaccine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-addon-by-nocube.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-deep-sea-danger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-halloween.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-mutant-beasts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-nests-addon-by-nocube.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-survival-addon-by-nocube.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-sorcery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-spartan-parasites.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/snad.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spartan-hud-baubles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/srp-calamity-catastrophe-cataclysm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/srpr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/swimming-crawling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-6-aspects-for-jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraftfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-periphery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-terminal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/traders-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-and-baubles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/two-players-one-horse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/underlay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unseens-nether-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wormhole.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xp-tome.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-adjunct.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/srp-modernity.pw.toml"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 
 [[files]]

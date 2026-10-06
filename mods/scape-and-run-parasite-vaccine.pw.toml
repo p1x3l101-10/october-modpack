@@ -1,0 +1,16 @@
+filename = 'scapeandrunvaccine-2.3.jar'
+name = 'Scape and Run: Parasite Cure'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd871290c4217beef881a30eedf9738645a6f0d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7576683
+project-id = 539561

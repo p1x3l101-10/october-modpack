@@ -1,0 +1,16 @@
+filename = 'Snad-12.1.0.jar'
+name = 'Snad'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9fc46231f6e6fd35344ca6e61de43fb6e937d60157afdece4145087f5e5ad622a94a05f0aecdf4a920ca1b4d559ceec5c1a8bc406724f12afda287b9495af4ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z2LdIAgk/versions/11mXcpJc/Snad-12.1.0.jar'
+
+[update.modrinth]
+mod-id = 'z2LdIAgk'
+version = '11mXcpJc'

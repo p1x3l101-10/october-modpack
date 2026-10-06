@@ -1,0 +1,18 @@
+filename = 'Modernity-f3-3.10.2.zip'
+name = 'Modernity'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.11', '1.11.1', '1.11.2', '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'f3-3.10.2'
+
+[download]
+hash = 'a277b17437de4b79acd750e3b2fb63ae24c22da2b285e9b6fca9bb299611b9e96926d5609620480e7a68939b34e8286021f407c46db8d723600a191dd7f138be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rx58ZUPu/versions/qn52HWf6/Modernity-f3-3.10.2.zip'
+
+[update.modrinth]
+mod-id = 'rx58ZUPu'
+version = 'qn52HWf6'

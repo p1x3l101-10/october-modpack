@@ -1,0 +1,16 @@
+filename = 'srsorcery-1.12.2-v0.0.4.jar'
+name = 'Scape and Run: Sorcery'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1fd6c2c1e0a23db84843ef2c2055686445d108ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6448294
+project-id = 1243661

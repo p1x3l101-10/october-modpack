@@ -1,0 +1,16 @@
+filename = 'mmoparties-1.12.2-3.1.0.304.jar'
+name = 'RPG Parties'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12-Snapshot', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '20bd2be025741e20d523c03c3d9961e8425cb998'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5855247
+project-id = 574957

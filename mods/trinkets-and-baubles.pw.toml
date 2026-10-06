@@ -1,0 +1,16 @@
+filename = 'Trinkets and Baubles-Forge-1.12.2-0.33.4.jar'
+name = 'Trinkets and Baubles'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bfa84b528a4d92bffed347bcd10fc4647774189d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8703456
+project-id = 279900

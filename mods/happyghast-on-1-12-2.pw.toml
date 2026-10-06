@@ -1,0 +1,16 @@
+filename = 'HappyGhast-1.12.2-1.0.14.jar'
+name = 'HappyGhast_on_1.12.2'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6947cf09e93876c7e4d0ba028084ae0813d90b5c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6891624
+project-id = 1296561
