@@ -3520,42 +3520,42 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Light Blade Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -5084,78 +5084,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Light Blade Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Light Blade Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -6802,131 +6802,160 @@ nb:netherite_axe, Netherite Axe
 nb:netherite_pickaxe, Netherite Pickaxe
 nb:netherite_hoe, Netherite Hoe
 neenergistics:pattern_interface, Pattern Interface(WIP)
-hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
-hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
-hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
-hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
-hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
-hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
-hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
-hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
-hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
-hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
-hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
-hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
-hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
-hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
-hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
-hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
-hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_10_he, Size 10 HE Warhead
-hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
-hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
-hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
-hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
-hbm:mp_c_4, Tier 4 Missile Targeting Circuit
-hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
-hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
-hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_15_turbine, Size 15 Jet Engine
-hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
-hbm:mp_c_1, Tier 1 Missile Targeting Circuit
-hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
-hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
-hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
 hbm:mp_fuselage_15_solid_panorama, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
-hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
-hbm:mp_warhead_15_n2, Size 15 N² Mine
-hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
-hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
-hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
-hbm:mp_c_5, Tier 5 Missile Targeting Circuit
-hbm:mp_warhead_15_he, Size 15 HE Warhead
-hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
-hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
-hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
-hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
-hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
-hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
-hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
 hbm:mp_thruster_15_balefire, Size 15 BF Thruster with Nuclear Preheater
-hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
-hbm:mp_stability_10_space, Size 10 Space Fins
+hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_balefire, Size 15 BF Fuselage
+hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
+hbm:mp_warhead_10_cloud, Size 10 Pink Cloud Warhead
+hbm:mp_fuselage_10_long_kerosene_vap, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_steampunk, Size 15 Kerosene Fuselage
+hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
+hbm:mp_warhead_15_n2, Size 15 N² Mine
+hbm:mp_stability_10_cruise, Size 10 Cruise Fins
+hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
+hbm:mp_warhead_15_nuclear, Size 15 Nuclear Warhead
+hbm:mp_thruster_15_hydrogen_dual, Size 15 Hydrogen Twin Thrusters
+hbm:mp_fuselage_10_15_kerosene, Size 10/15 Kerosene Fuselage
+hbm:mp_thruster_20_kerosene_triple, Size 20 Liquid Fuel Triple Thrusters
+hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
+hbm:mp_warhead_15_thermo, Size 15 Thermonuclear Warhead
+hbm:mp_warhead_10_he, Size 10 HE Warhead
+hbm:mp_fuselage_10_long_kerosene_dash, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_sky, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
+hbm:mp_stability_15_soyuz, Size 15 Pointy Fins
+hbm:mp_fuselage_10_solid, Size 10 Solid Fuel Fuselage
+hbm:mp_thruster_15_balefire_large, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_15_kerosene_lambda, Size 15 Kerosene Fuselage
+hbm:mp_warhead_15_mirv, Size 15 MIRV Warhead
+hbm:mp_fuselage_10_xenon_bhole, Size 10 Xenon Fuselage
+hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
 hbm:mp_fuselage_10_15_balefire, Size 10/15 BF Fuselage
+hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
+hbm:mp_fuselage_15_kerosene_decorated, Size 15 Kerosene Fuselage
+hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
+hbm:mp_fuselage_10_solid_sleek, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_solid_duracell, Size 10 Solid Fuel Fuselage
+hbm:mp_warhead_10_incendiary, Size 10 Incendiary Warhead
+hbm:mp_fuselage_10_kerosene_metal, Size 10 Kerosene Fuselage
+hbm:mp_stability_10_flat, Size 10 Flat Fins
+hbm:mp_fuselage_10_solid_moonlit, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_kerosene_flames, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_insulation, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
+hbm:mp_warhead_15_balefire, Size 15 BF Warhead
+hbm:mp_fuselage_10_15_hydrogen, Size 10/15 Hydrogen Fuselage
+hbm:mp_fuselage_15_kerosene_desert, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
+hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
+hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
+hbm:mp_warhead_10_nuclear_large, Size 10 Nuclear Warhead
+hbm:mp_thruster_20_solid_multi, Size 20 Solid Fuel 30-Fold Thrusters
+hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_cathedral, Size 10 Solid Fuel Fuselage
+hbm:mp_c_5, Tier 5 Missile Targeting Circuit
+hbm:mp_fuselage_10_kerosene_desert, Size 10 Kerosene Fuselage
+hbm:mp_stability_15_flat, Size 15 Flat Fins
+hbm:mp_fuselage_15_solid_insulation, Size 15 Solid Fuel Fuselage
+hbm:mp_warhead_10_nuclear, Size 10 Micro Nuclear Warhead
+hbm:mp_fuselage_10_long_solid, Size 10 Long Solid Fuel Fuselage
+hbm:mp_thruster_15_balefire_large_rad, Size 15 BF Thruster with Nuclear Preheater (Heavy Duty Nozzle)
+hbm:mp_fuselage_15_kerosene_minuteman, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_10_long_kerosene_camo, Size 10 Long Kerosene Fuselage
+hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
+hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
+hbm:mp_warhead_15_he, Size 15 HE Warhead
+hbm:mp_fuselage_10_long_kerosene_flames, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
+hbm:mp_c_3, Tier 3 Missile Targeting Circuit
+hbm:mp_thruster_15_kerosene, Size 15 Liquid Fuel Thruster
+hbm:mp_fuselage_10_long_solid_insulation, Size 10 Long Solid Fuel Fuselage
+hbm:mp_warhead_10_buster, Size 10 Bunker Buster Warhead
+hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
+hbm:mp_thruster_10_solid, Size 10 Solid Fuel Thruster
+hbm:mp_fuselage_15_solid_silvermoonlight, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_kerosene_taint, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_hydrogen, Size 15 Hydrogen Fuselage
+hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
+hbm:mp_c_1, Tier 1 Missile Targeting Circuit
+hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
+hbm:mp_c_2, Tier 2 Missile Targeting Circuit
+hbm:mp_fuselage_10_long_kerosene, Size 10 Long Kerosene Fuselage
+hbm:mp_c_4, Tier 4 Missile Targeting Circuit
+hbm:mp_thruster_15_kerosene_triple, Size 15 Liquid Fuel Triple Thrusters
+hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
+hbm:mp_stability_15_thin, Size 15 Thin Fins
+hbm:mp_fuselage_10_solid_flames, Size 10 Solid Fuel Fuselage
+hbm:mp_warhead_15_turbine, Size 15 Jet Engine
+hbm:mp_stability_10_space, Size 10 Space Fins
+hbm:mp_fuselage_10_long_kerosene_metal, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
+hbm:mp_thruster_10_kerosene, Size 10 Liquid Fuel Thruster
+hbm:mp_thruster_15_solid, Size 15 Solid Fuel Thruster
+hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_15_solid_soviet_glory, Size 15 Solid Fuel Fuselage
+hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
+hbm:mp_fuselage_15_solid_soviet_stank, Size 15 Solid Fuel Fuselage
+hbm:mp_fuselage_10_long_solid_sleek, Size 10 Long Solid Fuel Fuselage
+hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
+hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
+hbm:mp_thruster_20_kerosene, Size 20 Liquid Fuel Thruster
+hbm:mp_fuselage_10_long_kerosene_taint, Size 10 Long Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
+hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
+hbm:mp_fuselage_10_solid_insulation, Size 10 Solid Fuel Fuselage
+hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
+hbm:mp_thruster_20_kerosene_dual, Size 20 Liquid Fuel Twin Thrusters
+hbm:mp_fuselage_15_20_solid, Size 15/20 Solid Fuel Fuselage
+hbm:mp_fuselage_15_kerosene_pip, Size 15 Kerosene Fuselage
+hbm:mp_fuselage_15_kerosene_taint, Size 15 Kerosene Fuselage
+hbm:mp_warhead_15_boxcar, Size 15 Boxcar?
+hbm:mp_fuselage_15_solid_mimi, Size 15 Solid Fuel Mimi-chan's Body
+hbm:mp_fuselage_15_kerosene_yuck, Size 15 Kerosene Fuselage
 hbm:mp_thruster_20_solid, Size 20 Solid Fuel Thruster
 hbm:mp_thruster_20_solid_multier, Size 20 Solid Fuel 47-Fold Thrusters
-hbm:mp_c_3, Tier 3 Missile Targeting Circuit
-hbm:mp_warhead_15_balefire, Size 15 BF Warhead
-hbm:mp_stability_15_thin, Size 15 Thin Fins
-hbm:mp_warhead_15_nuclear_shark, Size 15 Nuclear Warhead
-hbm:mp_fuselage_10_long_kerosene_sleek, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_15_solid_hexdecuple, Size 15 Solid Fuel Hexdecuple Thrusters
-hbm:mp_stability_15_flat, Size 15 Flat Fins
-hbm:mp_fuselage_15_kerosene_camo, Size 15 Kerosene Fuselage
-hbm:mp_thruster_10_xenon, Size 10 Ion Thruster
-hbm:mp_fuselage_10_xenon, Size 10 Xenon Fuselage
-hbm:mp_fuselage_15_kerosene_polite, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_long_kerosene_insulation, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_10_long_solid_flames, Size 10 Long Solid Fuel Fuselage
-hbm:mp_fuselage_15_hydrogen_cathedral, Size 15 Hydrogen Fuselage
-hbm:mp_fuselage_15_solid_roses, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_blackjack, Size 15 Kerosene Fuselage
-hbm:mp_stability_10_cruise, Size 10 Cruise Fins
-hbm:mp_fuselage_10_long_solid_silvermoonlight, Size 10 Long Solid Fuselage
-hbm:mp_fuselage_10_solid_battery, Size 10 Solid Fuel Fuselage
-hbm:mp_stability_10_flat, Size 10 Flat Fins
-hbm:mp_thruster_15_hydrogen, Size 15 Hydrogen Thruster
-hbm:mp_fuselage_15_solid, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_solid_bullet, Size 10 Long Solid Fuselage
-hbm:mp_warhead_15_volcano, Size 15 Volcano Warhead
-hbm:mp_fuselage_15_solid_desh, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_15_kerosene_insulation, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_sleek, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_15_kerosene_metal, Size 15 Kerosene Fuselage
-hbm:mp_fuselage_10_solid_soviet_glory, Size 10 Solid Fuel Fuselage
-hbm:mp_c_2, Tier 2 Missile Targeting Circuit
-hbm:mp_fuselage_10_15_solid, Size 10/15 Solid Fuel Fuselage
-hbm:mp_warhead_15_incendiary, Size 15 Incendiary Warhead
-hbm:mp_thruster_15_kerosene_dual, Size 15 Liquid Fuel Twin Thrusters
-hbm:mp_fuselage_10_kerosene, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_10_kerosene_camo, Size 10 Kerosene Fuselage
-hbm:mp_fuselage_15_20_kerosene, Size 15/20 Kerosene Fuselage
-hbm:mp_fuselage_15_solid_snowy, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_desert, Size 10 Long Kerosene Fuselage
-hbm:mp_fuselage_15_solid_faust, Size 15 Solid Fuel Fuselage
-hbm:mp_fuselage_10_long_kerosene_sky, Size 10 Long Kerosene Fuselage
-hbm:mp_thruster_15_balefire_short, Size 15 BF Thruster with Nuclear Preheater (Shortened)
-hbm:mp_fuselage_15_20_kerosene_magnusson, Size 15/20 Kerosene Fuselage
-hbm:mp_warhead_10_taint, Size 10 Tainted Warhead
-hbm:mp_fuselage_10_kerosene_sky, Size 10 Kerosene Fuselage
+hbm:mp_fuselage_10_long_solid_soviet_glory, Size 10 Long Solid Fuselage
 hbmspace:insert_cmb, CMB Insert
 hbm:ore_oil, Oil Deposit
+oe:turtle_helmet, Turtle Shell
+oe:trident, Trident
+oe:turtle_scute, Scute
+oe:barnacle_shells, Barnacle Shells
+oe:nautilus_shell, Nautilus Shell
+oe:heart_of_the_sea, Heart of the Sea
+oe:pearl, Pearl
+oe:conch, Conch
+oe:magic_conch, Magic Conch
+oe:charm, Conduit Charm
+oe:glow_ink_sac, Glow Ink Sac
+oe:glow_item_frame, Glow Item Frame
+oe:bleak, Bleak Mulch
+oe:sponge_chunk, Sponge Chunk
+oe:sponge_chunk_wet, Damp Sponge Chunk
+oe:crab, Raw Crab
+oe:cooked_crab, Cooked Crab
+oe:crab_bisque, Crab Bisque
+oe:crustacean_shell, Crustacean Shell
+oe:lobster, Raw Lobster
+oe:cooked_lobster, Cooked Lobster
+oe:lobster_bisque, Lobster Bisque
+oe:blue_slime_ball, Tropical Slimeball
+oe:coconut_open, Cracked Coconut
+oe:dried_kelp, Dried Kelp
+oe:dried_dulse, Dried Dulse
+oe:palm_boat, Palm Boat
+oe:spawn_bucket, Bucket of %s
+oe:heavy_boots, Heavy Boots
 oe:guardian_spike, Guardian Spike
 oe:sea_pickle, Sea Pickle
 oe:turtle_egg, Turtle Egg
@@ -7000,35 +7029,6 @@ oe:shell_sand, Shelly Sand
 oe:tube_sponge, Tube Sponge
 oe:underwater_tnt, Underwater TNT
 oe:underwater_torch, Underwater Torch
-oe:turtle_helmet, Turtle Shell
-oe:trident, Trident
-oe:turtle_scute, Scute
-oe:barnacle_shells, Barnacle Shells
-oe:nautilus_shell, Nautilus Shell
-oe:heart_of_the_sea, Heart of the Sea
-oe:pearl, Pearl
-oe:conch, Conch
-oe:magic_conch, Magic Conch
-oe:charm, Conduit Charm
-oe:glow_ink_sac, Glow Ink Sac
-oe:glow_item_frame, Glow Item Frame
-oe:bleak, Bleak Mulch
-oe:sponge_chunk, Sponge Chunk
-oe:sponge_chunk_wet, Damp Sponge Chunk
-oe:crab, Raw Crab
-oe:cooked_crab, Cooked Crab
-oe:crab_bisque, Crab Bisque
-oe:crustacean_shell, Crustacean Shell
-oe:lobster, Raw Lobster
-oe:cooked_lobster, Cooked Lobster
-oe:lobster_bisque, Lobster Bisque
-oe:blue_slime_ball, Tropical Slimeball
-oe:coconut_open, Cracked Coconut
-oe:dried_kelp, Dried Kelp
-oe:dried_dulse, Dried Dulse
-oe:palm_boat, Palm Boat
-oe:spawn_bucket, Bucket of %s
-oe:heavy_boots, Heavy Boots
 thaumcraft:thaumonomicon:0, Thaumonomicon
 thaumcraft:curio:0, Arcane Curiosity
 thaumcraft:curio:1, Preserved Curiosity
@@ -7761,6 +7761,50 @@ spartanweaponry:mace_lead, item.spartanweaponry:mace_lead.name
 spartanweaponry:glaive_lead, item.spartanweaponry:glaive_lead.name
 spartanweaponry:staff_lead, item.spartanweaponry:staff_lead.name
 spartanweaponry:parrying_dagger_lead, item.spartanweaponry:parrying_dagger_lead.name
+srparasites:infested_furnace, Infested Furnace
+srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
+srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
+srparasites:parasiterubbleslabhalf:2, Hivestone Slab
+srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
+srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
+srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
+srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
+srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
+srparasites:parasitestainslabhalf:0, Hivesoil Slab
+srparasites:parasitestainslabhalf:1, Visceral Mud Slab
+srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
+srparasites:parasitestainslabhalf:3, Compressed Artery Slab
+srparasites:parasitestainslabhalf:4, Mycelium Network Slab
+srparasites:parasitestainslabhalf:5, Contusion Slab
+srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
+srparasites:relay_base, Relay Terminal §l|§r §oBottom
+srparasites:relay_middle, Relay Structure §l|§r §oMiddle
+srparasites:relay_roof, Relay Antennas §l|§r §oTop
+srparasites:relaycontroller, Relay Controller
+srparasites:flesh_stairs, Flesh Plank Stairs
+srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
+srparasites:harleskinn_stairs, Harleskinn Stairs
+srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
+srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
+srparasites:goth_planks_stairs, Goth Planks Stairs
+srparasites:infested_planks_stairs, Infested Planks Stairs
+srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
+srparasites:consumed_planks_stairs, Consumed Plank Stairs
+srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
+srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
+srparasites:infested_stone_stairs, Infested Stone Stairs
+srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
+srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
+srparasites:deadhead_plank_stairs, Deadhead Stairs
+srparasites:residue_stairs, Residue Brick Stairs
+srparasites:harleskinn_fence, Harleskinn Fence
+srparasites:infested_fence, Infested Fence
+srparasites:deadhead_fence, Deadhead Fence
+srparasites:goth_fence, Goth Fence
+srparasites:consumed_fence, Consumed Fence
+srparasites:bruisewood_fence, Bruisewood Fence
+srparasites:flesh_fence, Flesh Fence
+srparasites:cooked_flesh_fence, Cooked Flesh Fence
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -8333,50 +8377,6 @@ srparasites:hijacked_iron_leggings, Hijacked Iron Leggings
 srparasites:hijacked_iron_boots, Hijacked Iron Boots
 srparasites:discthree, §bSerenity
 srparasites:thornshade_decanter, §5Thornshade Decanter
-srparasites:infested_furnace, Infested Furnace
-srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
-srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
-srparasites:parasiterubbleslabhalf:2, Hivestone Slab
-srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
-srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
-srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
-srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
-srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
-srparasites:parasitestainslabhalf:0, Hivesoil Slab
-srparasites:parasitestainslabhalf:1, Visceral Mud Slab
-srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
-srparasites:parasitestainslabhalf:3, Compressed Artery Slab
-srparasites:parasitestainslabhalf:4, Mycelium Network Slab
-srparasites:parasitestainslabhalf:5, Contusion Slab
-srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
-srparasites:relay_base, Relay Terminal §l|§r §oBottom
-srparasites:relay_middle, Relay Structure §l|§r §oMiddle
-srparasites:relay_roof, Relay Antennas §l|§r §oTop
-srparasites:relaycontroller, Relay Controller
-srparasites:flesh_stairs, Flesh Plank Stairs
-srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
-srparasites:harleskinn_stairs, Harleskinn Stairs
-srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
-srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
-srparasites:goth_planks_stairs, Goth Planks Stairs
-srparasites:infested_planks_stairs, Infested Planks Stairs
-srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
-srparasites:consumed_planks_stairs, Consumed Plank Stairs
-srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
-srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
-srparasites:infested_stone_stairs, Infested Stone Stairs
-srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
-srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
-srparasites:deadhead_plank_stairs, Deadhead Stairs
-srparasites:residue_stairs, Residue Brick Stairs
-srparasites:harleskinn_fence, Harleskinn Fence
-srparasites:infested_fence, Infested Fence
-srparasites:deadhead_fence, Deadhead Fence
-srparasites:goth_fence, Goth Fence
-srparasites:consumed_fence, Consumed Fence
-srparasites:bruisewood_fence, Bruisewood Fence
-srparasites:flesh_fence, Flesh Fence
-srparasites:cooked_flesh_fence, Cooked Flesh Fence
 srpextra:ada_stalker_drop, §bStalker Spine
 srpextra:ada_serpentine_drop, §bSerpentine Scale
 srpextra:lurecomponent7, Grotesque Kidney
@@ -9190,6 +9190,22 @@ thaumictinkerer:energetic_nitor, Energetic Nitor
 thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
 thaumictinkerer:blood_sword, Cursed Spirit's Blade
 thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
+tinkers_reforged:kovar_ingot, Kovar Ingot
+tinkers_reforged:kovar_nugget, Kovar Nugget
+tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
+tinkers_reforged:kovar_plate, Kovar Plate
+tinkers_reforged:kovar_gear, Kovar Gear
+tinkers_reforged:lavium_ingot, Lavium Ingot
+tinkers_reforged:lavium_nugget, Lavium Nugget
+tinkers_reforged:lavium_dust, Lavium Dust
+tinkers_reforged:lavium_plate, Lavium Plate
+tinkers_reforged:lavium_gear, Lavium Gear
+tinkers_reforged:qivium_ingot, Qivium Ingot
+tinkers_reforged:qivium_nugget, Qivium Nugget
+tinkers_reforged:qivium_dust, Qivium Dust
+tinkers_reforged:qivium_plate, Qivium Plate
+tinkers_reforged:qivium_gear, Qivium Gear
+tinkers_reforged:kovar_glass, Kovar Glass
 tinkers_reforged:gladius, Gladius
 tinkers_reforged:light_blade:0, Wooden Light Blade
 tinkers_reforged:light_blade:0, Stone Light Blade
@@ -9246,22 +9262,6 @@ tinkers_reforged:light_blade:0, Qivium Light Blade
 tinkers_reforged:light_blade:0, Treated Wood Light Blade
 tinkers_reforged:light_blade:0, Constantan Light Blade
 tinkers_reforged:lightsword, Lightsword
-tinkers_reforged:kovar_ingot, Kovar Ingot
-tinkers_reforged:kovar_nugget, Kovar Nugget
-tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
-tinkers_reforged:kovar_plate, Kovar Plate
-tinkers_reforged:kovar_gear, Kovar Gear
-tinkers_reforged:lavium_ingot, Lavium Ingot
-tinkers_reforged:lavium_nugget, Lavium Nugget
-tinkers_reforged:lavium_dust, Lavium Dust
-tinkers_reforged:lavium_plate, Lavium Plate
-tinkers_reforged:lavium_gear, Lavium Gear
-tinkers_reforged:qivium_ingot, Qivium Ingot
-tinkers_reforged:qivium_nugget, Qivium Nugget
-tinkers_reforged:qivium_dust, Qivium Dust
-tinkers_reforged:qivium_plate, Qivium Plate
-tinkers_reforged:qivium_gear, Qivium Gear
-tinkers_reforged:kovar_glass, Kovar Glass
 xpbook:xp_book, OLD - RIGHTCLICK TO CONVERT
 xpbook:xp_tome, XP Tome
 immersiveengineering:ore:0, Copper Ore
