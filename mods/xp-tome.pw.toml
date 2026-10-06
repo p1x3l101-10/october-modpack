@@ -6,7 +6,7 @@ side = "both"
 hash = "dab3e776fe89ba7a7c2b189535b931dba0f04b73b2bda7e54d704c591c0c0c4ee67d4cae0f62027ca0408dae43d7e8de60ae547ef8289d996d76da84d7b34093"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/AnpW69o3/versions/SjZUh4bc/xptome%2D1.12.2%2Dv2.0.1.jar"
+url = "https://cdn.modrinth.com/data/AnpW69o3/versions/SjZUh4bc/xptome-1.12.2-v2.0.1.jar"
 
 [update.modrinth]
 mod-id = "AnpW69o3"

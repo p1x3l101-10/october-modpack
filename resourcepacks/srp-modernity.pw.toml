@@ -8,7 +8,7 @@ x-prismlauncher-version-number = "SRPModernity1.9.21_v1.4"
 hash = "9cd1ee04052e4359d6f4385c91a2024ca3210cd9f104ab0de5ce172081d705eb5cbda7e680b7cf3f0dd41a1622af58dcb651fe8c1008cd29f14ec2cd10f57b3f"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/OdI8mTAF/versions/p3Qb4uUn/%25C2%25A7dSRP%25C2%25A7fModernity%25C2%25A771.9.21%2DV.1.4.0.zip"
+url = "https://cdn.modrinth.com/data/OdI8mTAF/versions/p3Qb4uUn/§dSRP§fModernity§71.9.21-V.1.4.0.zip"
 
 [update.modrinth]
 mod-id = "OdI8mTAF"

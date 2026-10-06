@@ -6,7 +6,7 @@ side = "client"
 hash = "7d4d5692719c193b9925b03b5eb4bc0ab258d1ccbb24fe0e40d17d966eef1fb218f522a01190f32a437106b02c1ae134a33433c2079f57902f32dbd1dc0871cc"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/xvAim1vw/versions/OW3S86E5/armorpointspp%2Dforge%2D1.12.2%2D3.1.4.jar"
+url = "https://cdn.modrinth.com/data/xvAim1vw/versions/OW3S86E5/armorpointspp-forge-1.12.2-3.1.4.jar"
 
 [update.modrinth]
 mod-id = "xvAim1vw"

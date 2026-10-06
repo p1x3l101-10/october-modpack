@@ -6,7 +6,7 @@ side = "both"
 hash = "7dbec7a2978d4d671b419a76dd407a34e89f767540e7c8b808b9f4d884a5283c186a869782df9f682dd0d012d2a5f20c463e9288e820894fbb956a651ba08639"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/QBNqiaIm/Cyclic%2D1.12.2%2D1.20.14.jar"
+url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/QBNqiaIm/Cyclic-1.12.2-1.20.14.jar"
 
 [update.modrinth]
 mod-id = "UcVTWyCI"

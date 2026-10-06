@@ -6,7 +6,7 @@ side = "client"
 hash = "f36700629250d98777528c2e7c35fada69b4041e285f58ef7944a6dd4ffc434202f1d4a893f87097912c4041a4c66cb8525119fd4c915b015ea504ea324ea3bc"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/kdo4Nl2p/EquipmentCompare%2D1.12.2%2D1.3.4.jar"
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/kdo4Nl2p/EquipmentCompare-1.12.2-1.3.4.jar"
 
 [update.modrinth]
 mod-id = "CYSUVOdj"

@@ -6,7 +6,7 @@ side = "both"
 hash = "8c83e96552a04136cd239e5e8aad32bba8e696a4e994c91c851a6103369d6ca5aaac1dac396401731015f88661ea0e3f0e11144a0278b1a0d6ff85d319c09854"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/ur82ldLX/versions/2sBrNcVV/ChanceCubes%2D1.12.2%2D5.0.2.385.jar"
+url = "https://cdn.modrinth.com/data/ur82ldLX/versions/2sBrNcVV/ChanceCubes-1.12.2-5.0.2.385.jar"
 
 [update.modrinth]
 mod-id = "ur82ldLX"

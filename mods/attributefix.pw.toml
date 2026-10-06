@@ -6,7 +6,7 @@ side = "both"
 hash = "6b2fe8aa04a697a2e005f5ab3c1a7128bee8b748cfc7728e9357576915356fe2e4016e1b8759f9643eac356c3725396365439d4258ce87f63e504d7ec6e8d09c"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/lOOpEntO/versions/ip7KQeBK/AttributeFix%2DForge%2D1.12.2%2D1.0.12.jar"
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/ip7KQeBK/AttributeFix-Forge-1.12.2-1.0.12.jar"
 
 [update.modrinth]
 mod-id = "lOOpEntO"

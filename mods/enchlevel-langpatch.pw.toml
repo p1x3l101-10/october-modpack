@@ -6,7 +6,7 @@ side = "both"
 hash = "950f325dfbdabcab5f81b4a35fcab6dd34f9eb9f70fa476ae5f45c3978807b3ad27b597dedc31d99fb443500bef0e5ffb04be7a3e009d2c4cf8467ecc12fd75f"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/Lf4kDKU9/versions/FZAJUaMN/enchlevel%2Dlangpatch%2D3.9.2.jar"
+url = "https://cdn.modrinth.com/data/Lf4kDKU9/versions/FZAJUaMN/enchlevel-langpatch-3.9.2.jar"
 
 [update.modrinth]
 mod-id = "Lf4kDKU9"
