@@ -1,9 +1,6 @@
 filename = 'Bountiful Baubles-1.12.2-0.1.8.jar'
 name = 'BountifulBaubles'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '9cddb1fab23e51119cefa379e1affb07ed0818d2'

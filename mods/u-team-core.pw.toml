@@ -1,9 +1,6 @@
 filename = 'u_team_core-forge-1.12.2-2.2.5.375.jar'
 name = 'U Team Core'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '930e2797cfb47e9838291d644f8bab8bd070001552a8ba745d1006bf90e44ec021cf3523ee99114344671d5c2cb7eb65316abc8d7b968e794541523bda1131fa'

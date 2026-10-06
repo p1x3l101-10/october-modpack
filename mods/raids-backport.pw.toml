@@ -1,9 +1,6 @@
 filename = 'Raids-Backport-1.12.2-1.1.5b.jar'
 name = 'Raids Backport'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '9d7adf01455620c647c109b2f6886ff5054fbb94'

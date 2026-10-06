@@ -1,9 +1,6 @@
 filename = 'modification-of-critical-hit-1.12.2-forge-1.0.jar'
 name = 'Modification Of Critical Hit'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = 'cb2a7e2c61b0a029d3fd026ec1b092d0688c4489a8b29e78b3603c7d0baf20ac6e7d315b74aa1c7ba2b8b0c63a80652cb18e99f4381104fcbed2986ce560a9a5'

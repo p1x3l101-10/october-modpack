@@ -1,9 +1,6 @@
 filename = 'conarm-1.12.2-1.2.5.10.jar'
 name = "Construct's Armory"
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'd7311df241aecc2ed03dfff9dacc03c709cece3f6d16da77286e2e8ae7db28b34a9999eb5d0eafed0014a4d512c5176cbfa8e1a2ee6fef20550b62b97855e809'

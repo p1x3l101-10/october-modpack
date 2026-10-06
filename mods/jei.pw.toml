@@ -1,9 +1,6 @@
 filename = 'jei_1.12.2-4.22.0.1035.jar'
 name = 'Just Enough Items'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '25b9ac36ee24e587eae2b2bd3d7a0dd76ca7c9cfa6909c9b152529b46a4238f371a111abd1b5e0e1e3c7bc9c220d8466a3b19e23a77b52c4dfd24ff3579c65be'

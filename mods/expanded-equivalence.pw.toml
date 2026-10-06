@@ -1,9 +1,6 @@
 filename = 'ExpandedEquivalence-1.12.2-12.3.17.jar'
 name = 'Expanded Equivalence'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '8c6c478f5ded79192a8df6400d362259dd7837c05eafb53bb5762bda5af499cb0d0f7ce6e218c84071068561a6aee27a5cfd154d498431795c84ae3fa0c041d0'

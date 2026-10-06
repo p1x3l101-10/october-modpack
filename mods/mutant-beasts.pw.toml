@@ -1,9 +1,6 @@
 filename = 'MutantBeasts-1.12.2-1.0.2.jar'
 name = 'Mutant Beasts'
 side = 'both'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'b2ae04070cfa531647c88fea17f2cd229289e297'

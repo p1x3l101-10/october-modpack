@@ -1,9 +1,6 @@
 filename = 'BedSpawnPoint-1.12.2-1.0.2.jar'
 name = 'Bed SpawnPoint'
 side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '168a4539ce1212abc98766b52ebafc8671f9e1dd127de05dc5425941b5d071e2ba2925d69ba58c911e8c85c985e6657882d4bb73fceaba181b089fba2d65c3c3'

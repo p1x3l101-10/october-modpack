@@ -1,9 +1,6 @@
 filename = 'ChanceCubes-1.12.2-5.0.2.385.jar'
 name = 'Chance Cubes'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '8c83e96552a04136cd239e5e8aad32bba8e696a4e994c91c851a6103369d6ca5aaac1dac396401731015f88661ea0e3f0e11144a0278b1a0d6ff85d319c09854'

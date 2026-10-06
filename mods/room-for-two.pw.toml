@@ -1,9 +1,6 @@
 filename = 'roomfortwo-forge-1.12.2-0.2.0.jar'
 name = 'Room For Two'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'alpha'
 
 [download]
 hash = '7fa26400e3c05a19b43f18886920f8a350ba7e8303ee60b2dd7ffbef3faf0d1d8109cc21ffb893aff547f6b7830eac6ccb5d6f6da027f65f2f24d20f17e44f99'

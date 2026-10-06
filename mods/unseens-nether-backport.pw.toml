@@ -1,9 +1,6 @@
 filename = 'unseens_nether_backport-0.8.jar'
 name = 'Unseens Nether Backport'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'de40c7f250adcab1ccd474adb87710679a84eaf7'

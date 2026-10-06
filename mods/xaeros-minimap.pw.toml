@@ -1,9 +1,6 @@
 filename = 'xaerominimap-forge-1.12.2-26.5.1.jar'
 name = "Xaero's Minimap"
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'd0fd975dfaa8ce31fa4175ed6e3d57b6125a7246d9646bf5349810fc3525f76abe6b1db9daec1e943ed04befcbf7c015d9b9a68d21366cb5c3a304683e71ef4d'

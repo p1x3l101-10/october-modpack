@@ -1,9 +1,6 @@
 filename = 'MiniEffects-1.12.2-1.0.1.jar'
 name = 'Mini Effects'
 side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '25eb66dd5222e6c4f0f5b146cb44863e2e4ba5167b3e8f5f16102af3c3b24935d4ee37c18fe4596b22a5904383199e88f94b4be8e44bd72950ee6de1251ad34b'

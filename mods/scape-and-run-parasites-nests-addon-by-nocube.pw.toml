@@ -1,9 +1,6 @@
 filename = 'NoCubes_SRP_Nests_Addon_3.0.0.jar'
 name = 'Scape and Run: Parasites Nests Addon (by NoCube)'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'e90b7593828027f5e63e4cad17dc252f7130d807'

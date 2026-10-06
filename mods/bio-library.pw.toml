@@ -1,9 +1,6 @@
 filename = 'biolib-1.1.2.jar'
 name = 'Bio Library'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'd9b444494b358ab5b87326230acbc232fddec8611169562c5c53e2617223699e8f061af94638a56db82ece0fa53c01c5d6404744b168e44d1cda0c0e378e10dd'

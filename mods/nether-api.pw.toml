@@ -1,9 +1,6 @@
 filename = 'Nether-API-v1.4.5-mc1.12.2.jar'
 name = 'Nether API'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'fdd4caa9d5da0f05f9c17ca777a8a3b45190071f'

@@ -1,9 +1,6 @@
 filename = 'FoxFriend-1.12.2-1.0.10.jar'
 name = 'Fox Friend'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c5d4b897adacbfc015867f2e81c2c87776a79e79'

@@ -1,9 +1,6 @@
 filename = 'SRR_v2.0.0.jar'
 name = 'Scape and Run: Reinforced'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'beta'
 
 [download]
 hash = '03b0751b40537dc1053aa11bd963f7475e64d2a4'

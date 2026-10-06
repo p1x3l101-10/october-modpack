@@ -1,9 +1,6 @@
 filename = 'SRParasites-1.10.9.jar'
 name = 'Scape and Run Parasites'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'alpha'
 
 [download]
 hash = '5d5ce93c51cbd91b048e25d97463583e83709789'

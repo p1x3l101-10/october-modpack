@@ -1,9 +1,6 @@
 filename = 'Atlas-Lib-1.12.2-1.1.11.jar'
 name = 'Atlas Lib'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '6d707db466168435050414a2ea65ccd700ec9c3e'

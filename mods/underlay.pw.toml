@@ -1,9 +1,6 @@
 filename = 'underlay-1.0.2-mc1.12.2.jar'
 name = 'Underlay'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'cb6ce77068ecc1a9741c7137401ad9ddc793c3ea37de82cb92a11044dda97dc460c02c26c3a681dc755f2a755b7d224ed1faa769a8a8e7d39da12fa1f0a10ac9'

@@ -1,9 +1,6 @@
 filename = 'WI-Zoom-1.1-MC1.12.2-Forge.jar'
 name = 'WI Zoom'
 side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '658cb21c4ba0a57c1f464d858540e48218850053dd7af3c67cc76fb94cc7b6507bcde89e2ed39005c5dadcb72539bd48053c14ec1c448f6a24bc196e1c3b9396'

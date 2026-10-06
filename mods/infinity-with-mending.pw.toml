@@ -1,9 +1,6 @@
 filename = 'infwithmend-forge-1.12.2-1.0.0.jar'
 name = 'Infinity With Mending'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = 'c83be68ae2daba71eb199b4d5aaa89bcd88a739edee821b5726d7f1a363c030189baf827dae2acb99285dd3cbad403f11753da7fb5f6383d9d939a4b480a0258'

@@ -1,9 +1,6 @@
 filename = 'MCA-1.12.2-6.1.0-universal.jar'
 name = 'Minecraft Comes Alive (MCA)'
 side = 'both'
-x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '3408a81dc02deea710282835d9b47109f2c06718'

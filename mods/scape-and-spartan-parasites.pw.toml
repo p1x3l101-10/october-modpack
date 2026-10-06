@@ -1,9 +1,6 @@
 filename = 'swparasites-v5.jar'
 name = 'Scape and Spartan: Parasites'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
 
 [download]
 hash = '0205bf35142da6dedc0c0585fe1f8def61ec37d0'
