@@ -1,0 +1,13 @@
+name = "Phosphor Crash Fix"
+filename = "PhosphorCrashFix-1.12.2-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gM31CClD/versions/UeKDlCDt/PhosphorCrashFix-1.12.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "18640efdd56bfcd4a6ae20ae8b29d745c18e222034a8074ea5d4388dca16d2bd3497c2b31280c7e9bfd8ab822fa6d23638d66c0c6017973b620d0b8437798fd8"
+
+[update]
+[update.modrinth]
+mod-id = "gM31CClD"
+version = "UeKDlCDt"

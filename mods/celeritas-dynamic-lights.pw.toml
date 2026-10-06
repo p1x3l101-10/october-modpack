@@ -1,0 +1,13 @@
+name = "Celeritas/Nothirium Dynamic Lights"
+filename = "celeritasdynamiclights-1.2.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/McEPxZ3z/versions/Fai22mla/celeritasdynamiclights-1.2.10.jar"
+hash-format = "sha512"
+hash = "df47620557ce7df27c48ae2d256b09701dbb6d16e769b6d43fa90f38bd9af6bf12853e4f34c6bb4ae504bd1905beae565b84f39665924db9305999d572ad0c14"
+
+[update]
+[update.modrinth]
+mod-id = "McEPxZ3z"
+version = "Fai22mla"

@@ -954,7 +954,15 @@ file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/betterfps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bio-library.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahajasm.pw.toml"
 metafile = true
 
 [[files]]
@@ -971,6 +979,10 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/celeritas-dynamic-lights.pw.toml"
 metafile = true
 
 [[files]]
@@ -1026,6 +1038,10 @@ file = "mods/deeper-depths.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 metafile = true
 
@@ -1039,6 +1055,10 @@ metafile = true
 
 [[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
@@ -1071,6 +1091,10 @@ metafile = true
 
 [[files]]
 file = "mods/fluidlogged-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -1158,6 +1182,10 @@ file = "mods/mixinbooter.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mixinbootstrap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modern-splash.pw.toml"
 metafile = true
 
@@ -1194,7 +1222,19 @@ file = "mods/not-enough-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nothirium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/oceanic-expanse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers-drivers-for-tinkers-construct.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
 metafile = true
 
 [[files]]
@@ -1211,6 +1251,14 @@ metafile = true
 
 [[files]]
 file = "mods/phantoms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-crash-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -1235,6 +1283,10 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-flux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
 metafile = true
 
 [[files]]

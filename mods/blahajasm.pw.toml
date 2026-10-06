@@ -1,0 +1,13 @@
+name = "BlahajASM"
+filename = "BlahajASM-5.32.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAWcmdS1/versions/wYXhMxZU/BlahajASM-5.32.jar"
+hash-format = "sha512"
+hash = "270d5d5f32b975b6bfcaf5910d9fccf05d249135dbed63ffa739085b112570756ec4cf14c203433c6ed889c9714a9c6751b23e1e06500b0cc813d2d57a33a06e"
+
+[update]
+[update.modrinth]
+mod-id = "eAWcmdS1"
+version = "wYXhMxZU"
