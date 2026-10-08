@@ -694,9 +694,6 @@ file = "config/packagedthaumic.cfg"
 file = "config/phantoms.cfg"
 
 [[files]]
-file = "config/phosphor.json"
-
-[[files]]
 file = "config/placebo.cfg"
 
 [[files]]
@@ -1332,14 +1329,6 @@ file = "mods/phantoms.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/phosphor-crash-fix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/phosphor-forge.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
 
@@ -1574,6 +1563,9 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 metafile = true
+
+[[files]]
+file = "options.txt"
 
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
