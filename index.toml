@@ -1568,14 +1568,6 @@ metafile = true
 file = "options.txt"
 
 [[files]]
-file = "resourcepacks/fullbright-ub.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-metafile = true
-
-[[files]]
 file = "resourcepacks/modernity-adjunct.pw.toml"
 metafile = true
 
