@@ -1453,10 +1453,6 @@ file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/swimming-crawling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tc4researchportreborn.pw.toml"
 metafile = true
 
