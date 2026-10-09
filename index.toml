@@ -1145,10 +1145,6 @@ file = "mods/equipment-compare.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/expanded-equivalence.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/extreme-reactors.pw.toml"
 metafile = true
 
@@ -1182,10 +1178,6 @@ metafile = true
 
 [[files]]
 file = "mods/friendly-chests.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hammer-lib.pw.toml"
 metafile = true
 
 [[files]]
