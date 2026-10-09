@@ -1,6 +1,6 @@
 filename = "e4mc-retro_forge-1.1.0+1.9-1.12.2.jar"
 name = "e4mc Retro"
-side = "both"
+side = "client"
 
 [download]
 hash = "5da5ebdbb7d71d342c4da1124ad1b6619db21aa6354f3b83bd22e1cf9063463f5e8ac6b8fa49cdf6191eacec07c960878994bff3902c2e63e69a6cc5a722ae64"
