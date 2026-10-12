@@ -1,6 +1,6 @@
 filename = "ThaumicInventoryScanning_1.12.2-2.0.10.jar"
 name = "Thaumic Inventory Scanning (Thaumcraft Addon)"
-side = "both"
+side = "client"
 
 [download]
 hash = "639253ac9c8aa30efaadeb9893ebb77d1b96a64c"

@@ -1125,10 +1125,6 @@ file = "mods/draconic-evolution.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/e4mc-retro.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 metafile = true
 
